@@ -13,28 +13,32 @@
   
   <details>
     <summary><a href="https://www.codechef.com">CodeChef</a></summary>
-      
-  | Problem | solutions |
-  | -------- | ----------- |
-  |  |  |
+    <table>
+     <tr>
+      <th>Problems</th>
+      <th>Solutions</th>
+     </tr>
+    </table>
   
   </details>
   
   <details>
     <summary><a href="https://www.geeksforgeeks.org">GeeksforGeeks</a></summary>
-     
-  | Problem | solutions |
-  | -------- | ----------- |
-  |  |  |
-  
+     <table>
+     <tr>
+      <th>Problems</th>
+      <th>Solutions</th>
+     </tr>
+    </table>
   </details>
   
   <details>
     <summary><a href="https://www.spoj.com">SPOJ</a></summary>
-     
-  | Problem | solutions |
-  | -------- | ----------- |
-  |  |  |
-  
+     <table>
+     <tr>
+      <th>Problems</th>
+      <th>Solutions</th>
+     </tr>
+    </table>
   </details>
 </div>
