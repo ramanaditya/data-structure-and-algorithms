@@ -3,11 +3,12 @@
 <div>
   <details>
     <summary><a href="https://leetcode.com">LeetCode</a></summary>
-    
-  | Problem | solutions |
-  | -------- | ----------- |
-  |  |  |
-  
+    <table>
+     <tr>
+      <th>Problems</th>
+      <th>Solutions</th>
+     </tr>
+    <table>
   </details>
   
   <details>
