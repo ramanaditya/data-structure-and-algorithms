@@ -8,7 +8,7 @@
       <th>Problems</th>
       <th>Solutions</th>
      </tr>
-    <table>
+    </table>
   </details>
   
   <details>
