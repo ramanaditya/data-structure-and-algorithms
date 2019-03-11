@@ -12,6 +12,10 @@
       <td><a href="https://leetcode.com/problems/roman-to-integer/">Roman to Integer</a></td>
       <td><a href="https://github.com/ramanaditya/competitive-coding/blob/master/roman_to_integer.py">Github</a></td>
      </tr>
+     <tr>
+      <td><a href="https://leetcode.com/problems/reverse-integer/">Reverse an Integer</a></td>
+      <td><a href="https://github.com/ramanaditya/competitive-coding/blob/master/reverse_a_integer.py">Github</a></td>
+     </tr>
     </table>
   </details>
   
