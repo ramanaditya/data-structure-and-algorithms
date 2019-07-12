@@ -24,7 +24,7 @@
      </tr>
      <tr>
       <td>3.</td>
-      <td><a href="https://leetcode.com/problems/remove-element/">Reverse an Integer</a></td>
+      <td><a href="https://leetcode.com/problems/remove-element/">Remove an Element</a></td>
       <td><a href="https://github.com/ramanaditya/competitive-coding/blob/master/leetcode/remove_an_element.py">Github</a></td>
       <td>Easy</td>
      </tr>
