@@ -13,13 +13,19 @@
      <tr>
       <td>1.</td>
       <td><a href="https://leetcode.com/problems/roman-to-integer/">Roman to Integer</a></td>
-      <td><a href="https://github.com/ramanaditya/competitive-coding/blob/master/roman_to_integer.py">Github</a></td>
+      <td><a href="https://github.com/ramanaditya/competitive-coding/blob/master/leetcode/roman_to_integer.py">Github</a></td>
       <td>Easy</td>
      </tr>
      <tr>
       <td>2.</td>
       <td><a href="https://leetcode.com/problems/reverse-integer/">Reverse an Integer</a></td>
-      <td><a href="https://github.com/ramanaditya/competitive-coding/blob/master/reverse_a_integer.py">Github</a></td>
+      <td><a href="https://github.com/ramanaditya/competitive-coding/blob/master/leetcode/reverse_a_integer.py">Github</a></td>
+      <td>Easy</td>
+     </tr>
+     <tr>
+      <td>3.</td>
+      <td><a href="https://leetcode.com/problems/remove-element/">Reverse an Integer</a></td>
+      <td><a href="https://github.com/ramanaditya/competitive-coding/blob/master/leetcode/remove_an_element.py">Github</a></td>
       <td>Easy</td>
      </tr>
     </table>
