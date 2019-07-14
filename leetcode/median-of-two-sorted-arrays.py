@@ -26,3 +26,19 @@ class Solution:
 
 # Runtime: 76 ms
 # Memory Usage: 13.5 MB
+
+
+# Little Efficient Solution
+
+class Solution:
+    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+        new_array = nums1 + nums2
+        new_array.sort()
+        n = len(nums1) + len(nums2)
+        if n % 2 == 0:
+            return (float(new_array[int(n/2) - 1] + new_array[int(n/2)]))/2
+        else:
+            return float(new_array[int(n/2)])
+
+# Runtime: 52 ms
+# Memory Usage: 13.3 MB
