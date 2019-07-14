@@ -28,6 +28,12 @@
       <td><a href="https://github.com/ramanaditya/competitive-coding/blob/master/leetcode/remove_an_element.py">Github</a></td>
       <td>Easy</td>
      </tr>
+          <tr>
+      <td>4.</td>
+      <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Median of two Sorted Arrays</a></td>
+      <td><a href="https://github.com/ramanaditya/competitive-coding/blob/master/leetcode/median-of-two-sorted-arrays.py">Github</a></td>
+      <td>Easy</td>
+     </tr>
     </table>
   </details>
   
