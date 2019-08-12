@@ -1,23 +1,4 @@
----
-layout: page
-title: "707. Design Linked List"
-subtitle: 
-description: ""
-author: "aditya"
-comments: true
-image: assets/images/code_pic.png
-meta_image: assets/images/code_pic_meta.png
-categories: [code,leetcode]
-tags: [python,linked-list,easy]
-extra_tags: 
-leetcode_slno: 707
-featured: false
-excerpt: ""
-hidden: true
-permalink: /:categories/:title
-
----
-
+'''
 ## Questions
 
 ### 707. [Design Linked List](https://leetcode.com/problems/design-linked-list/)
@@ -49,10 +30,9 @@ linkedList.get(1);            // returns 3
 - All values will be in the range of [1, 1000].
 - The number of operations will be in the range of [1, 1000].
 - Please do not use the built-in LinkedList library.
+'''
 
 ## Solutions
-
-{% highlight python %}
 
 class Node:
     def __init__(self,data):
@@ -169,5 +149,3 @@ class MyLinkedList:
 
 # Runtime: 336 ms
 # Memory Usage: 14.5 MB
-
-{% endhighlight %}

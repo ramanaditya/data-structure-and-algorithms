@@ -1,23 +1,4 @@
----
-layout: page
-title: "206. Reverse Linked List"
-subtitle: 
-description: ""
-author: "aditya"
-comments: true
-image: assets/images/code_pic.png
-meta_image: assets/images/code_pic_meta.png
-categories: [code,leetcode]
-tags: [python,linked-list,easy]
-extra_tags: 
-leetcode_slno: 206
-featured: false
-excerpt: ""
-hidden: true
-permalink: /:categories/:title
-
----
-
+'''
 ## Questions
 
 ### 206. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
@@ -34,6 +15,7 @@ Output: 5->4->3->2->1->NULL
 **Follow up:**
 
 A linked list can be reversed either iteratively or recursively. Could you implement both?
+'''
 
 ## Solutions
 

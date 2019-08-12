@@ -1,24 +1,4 @@
----
-layout: page
-title: "1. Two Sum"
-subtitle: 
-description: ""
-author: "aditya"
-comments: true
-image: assets/images/code_pic.png
-meta_image: assets/images/code_pic_meta.png
-categories: [code,leetcode]
-tags: [python,array,easy]
-extra_tags: 
-leetcode_slno: 1
-featured: false
-excerpt: ""
-hidden: true
-permalink: /:categories/:title
-
----
-
-
+'''
 ## Question
 
 ### 1. [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -27,18 +7,15 @@ Given an array of integers, return indices of the two numbers such that they add
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
-**Example:**
+Example:
 
-```
 Given nums = [2, 7, 11, 15], target = 9,
 
 Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
-```
+'''
 
 ## Solutions
-
-{% highlight python %}
 
 class Solution:
     def twoSum(self, nums, target):
@@ -59,4 +36,3 @@ class Solution:
 
 # Runtime: 188 ms
 # Memory Usage: -
-{% endhighlight %}

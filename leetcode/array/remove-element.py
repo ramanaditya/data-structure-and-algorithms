@@ -1,23 +1,4 @@
----
-layout: page
-title: "27. Remove element"
-subtitle: 
-description: ""
-author: "aditya"
-comments: true
-image: assets/images/code_pic.png
-meta_image: assets/images/code_pic_meta.png
-categories: [code,leetcode]
-tags: [python,array,easy]
-extra_tags: 
-leetcode_slno: 27
-featured: false
-excerpt: ""
-hidden: true
-permalink: /:categories/:title
-
----
-
+'''
 ## Question
 
 ### 27. Remove Element
@@ -29,11 +10,10 @@ Do not allocate extra space for another array, you must do this by modifying the
 The order of elements can be changed. It doesn't matter what you leave beyond the new length.
 
 [Link - leetcode](https://leetcode.com/problems/remove-element/)
-
+'''
 
 ## Solutions
 
-{% highlight python %}
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
         i = 0
@@ -57,4 +37,3 @@ class Solution:
 
 # Runtime: 28 ms
 # Memory Usage: 13.1 MB
-{% endhighlight %}

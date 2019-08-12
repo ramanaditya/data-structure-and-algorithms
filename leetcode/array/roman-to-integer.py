@@ -1,22 +1,4 @@
----
-layout: page
-title: "13. Roman to Integer"
-subtitle: 
-description: ""
-author: "aditya"
-comments: true
-image: assets/images/code_pic.png
-meta_image: assets/images/code_pic_meta.png
-categories: [code,leetcode]
-tags: [python,array,easy]
-extra_tags: 
-leetcode_slno: 13
-featured: false
-excerpt: ""
-hidden: true
-permalink: /:categories/:title
----
-
+'''
 ## Question
 
 ### 13. [Roman to Integer](https://leetcode.com/problems/palindrome-number/)
@@ -44,28 +26,28 @@ Roman numerals are usually written largest to smallest from left to right. Howev
 `C` can be placed before `D (500)` and `M (1000)` to make `400` and `900`.
 Given a roman numeral, convert it to an integer. Input is guaranteed to be within the range from `1 to 3999`.
 
-**Example 1:**
+Example 1:
 
 ```
 Input: "III"
 Output: 3
 ```
 
-**Example 2:**
+Example 2:
 
 ```
 Input: "IV"
 Output: 4
 ```
 
-**Example 3:**
+Example 3:
 
 ```
 Input: "IX"
 Output: 9
 ```
 
-**Example 4:**
+Example 4:
 
 ```
 Input: "LVIII"
@@ -73,17 +55,16 @@ Output: 58
 Explanation: L = 50, V= 5, III = 3.
 ```
 
-**Example 5:**
+Example 5:
 
 ```
 Input: "MCMXCIV"
 Output: 1994
 Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 ```
+'''
 
 ## Solutions
-
-{% highlight python %}
 
 def check(a):
     if(a == 'I'):
@@ -127,4 +108,3 @@ class Solution:
 
 # Runtime: 140 ms
 # Memory Usage: 13.1
-{% endhighlight %}

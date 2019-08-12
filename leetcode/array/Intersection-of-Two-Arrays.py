@@ -1,51 +1,27 @@
----
-layout: page
-title: "349. Intersection of Two Arrays"
-subtitle: 
-description: ""
-author: "aditya"
-comments: true
-image: assets/images/code_pic.png
-meta_image: assets/images/code_pic_meta.png
-categories: [code,leetcode]
-tags: [python,array,easy]
-extra_tags: 
-leetcode_slno: 349
-featured: false
-excerpt: ""
-hidden: true
-permalink: /:categories/:title
-
----
-
+'''
 ## Questions
 
 ### 349. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 
 Given two arrays, write a function to compute their intersection.
 
-**Example 1:**
+Example 1:
 
-```
 Input: nums1 = [1,2,2,1], nums2 = [2,2]
 Output: [2]
-```
 
-**Example 2:**
+Example 2:
 
-```
 Input: nums1 = [4,9,5], nums2 = [9,4,9,8,4]
 Output: [9,4]
-```
 
-**Note:**
+Note:
 
 - Each element in the result must be unique.
 - The result can be in any order.
 
+'''
 ## Solutions
-
-{% highlight python %}
 
 class Solution:
     def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
@@ -71,10 +47,7 @@ class Solution:
 # Runtime: 68 ms
 # Memory Usage: 14 MB
 
-{% endhighlight %}
 
-
-{% highlight python %}
 
 class Solution:
     def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
@@ -85,9 +58,6 @@ class Solution:
 # Runtime: 56 ms
 # Memory Usage: 13.8 MB
 
-{% endhighlight %}
-
-{% highlight python %}
 
 class Solution:
     def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
@@ -96,4 +66,3 @@ class Solution:
 # Runtime: 48 ms
 # Memory Usage: 14.1 MB
 
-{% endhighlight %}

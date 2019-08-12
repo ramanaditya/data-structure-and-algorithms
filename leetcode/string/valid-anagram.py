@@ -1,23 +1,4 @@
----
-layout: page
-title: "242. Valid Anagram"
-subtitle: 
-description: ""
-author: "aditya"
-comments: true
-image: assets/images/code_pic.png
-meta_image: assets/images/code_pic_meta.png
-categories: [code,leetcode]
-tags: [python,string,easy]
-extra_tags: 
-leetcode_slno: 242
-featured: false
-excerpt: ""
-hidden: true
-permalink: /:categories/:title
-
----
-
+'''
 ## Questions
 
 ### 242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
@@ -44,10 +25,9 @@ You may assume the string contains only lowercase alphabets.
 **Follow up:**
 
 What if the inputs contain unicode characters? How would you adapt your solution to such case?
+'''
 
 ## Solutions
-
-{% highlight python %}
 
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
@@ -73,11 +53,6 @@ class Solution:
 # Runtime: 52 ms
 # Memory Usage: 14.2 MB
 
-{% endhighlight %}
-
-
-{% highlight python %}
-
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         
@@ -91,5 +66,3 @@ class Solution:
 
 # Runtime: 40 ms
 # Memory Usage: 14 MB
-
-{% endhighlight %}

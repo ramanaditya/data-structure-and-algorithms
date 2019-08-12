@@ -1,23 +1,4 @@
----
-layout: page
-title: "125. Valid Palindrome"
-subtitle: 
-description: ""
-author: "aditya"
-comments: true
-image: assets/images/code_pic.png
-meta_image: assets/images/code_pic_meta.png
-categories: [code,leetcode]
-tags: [python,string,easy]
-extra_tags: 
-leetcode_slno: 125
-featured: false
-excerpt: ""
-hidden: true
-permalink: /:categories/:title
-
----
-
+'''
 ## Questions
 
 ### 125. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
@@ -40,10 +21,9 @@ Output: true
 Input: "race a car"
 Output: false
 ```
+'''
 
 ## Solutions
-
-{% highlight python %}
 
 class Solution:
     def isPalindrome(self, s: str) -> bool:
@@ -69,5 +49,3 @@ class Solution:
 
 # Runtime: 56 ms
 # Memory Usage: 14 MB
-
-{% endhighlight %}

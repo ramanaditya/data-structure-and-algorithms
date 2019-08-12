@@ -1,50 +1,26 @@
----
-layout: page
-title: "812. Largest Triangle Area"
-subtitle: 
-description: ""
-author: "aditya"
-comments: true
-image: assets/images/code_pic.png
-meta_image: assets/images/code_pic_meta.png
-categories: [code,leetcode]
-tags: [python,array,easy]
-extra_tags: 
-leetcode_slno: 812
-featured: false
-excerpt: ""
-hidden: true
-permalink: /:categories/:title
-
----
-
+'''
 ## Questions
 
 ### 812. [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)
 
 You have a list of points in the plane. Return the area of the largest triangle that can be formed by any 3 of the points.
 
-**Example:**
+Example:
 
-```
 Input: points = [[0,0],[0,1],[1,0],[0,2],[2,0]]
 Output: 2
 Explanation: 
 The five points are show in the figure below. The red triangle is the largest. 
-```
 
-<img class="image main" src="{{ '/assets/images/20190716largesttrianglearea/1027.png' | absolute_url }}">
-
-**Notes:**
+Notes:
 
 - 3 <= points.length <= 50.
 - No points will be duplicated.
 - -50 <= points[i][j] <= 50.
 - Answers within 10^-6 of the true value will be accepted as correct.
 
+'''
 ## Solutions
-
-{% highlight python %}
 
 import math
 class Solution:
@@ -65,4 +41,3 @@ class Solution:
 
 # Runtime: 2540 ms
 # Memory Usage: 13.2 MB
-{% endhighlight %}
