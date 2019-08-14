@@ -28,21 +28,32 @@ Follow up:
 Coud you solve it without converting the integer to a string?
 */
 // Solutions
-
-bool isPalindrome(int x) {
-    long n,rev=0,rem;
-    n=x;
-    while(x>0)
-    {
-        rem=x%10;
-        rev=rev*10+rem;
-        x=x/10;
-    }
-    if(n==rev)
-        return true;
-    else
-        return false;
+#include<iostream>
+using namespace std;
+class Solution {
+    public:
+        bool isPalindrome(int x) {
+            int n = x,rev = 0,rem;
+            while(x > 0){
+                rem = x % 10;
+                rev = rev * 10 + rem;
+                x = x/10;
+            }
+            if(n == rev){
+                return true;
+            }
+            else{
+                return false;
+            }
+        }
+};
+int main(){
+    Solution sol;
+    long num,res;
+    cin >> num;
+    res = sol.isPalindrome(num);
+    cout << res << endl ;
+    return 0;
 }
-
-// Runtime: 12 ms
-// Memory Usage: 7.2 MB
+// Runtime: 20 ms
+// Memory Usage: 8.1 MB
