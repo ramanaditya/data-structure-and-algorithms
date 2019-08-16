@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /data_structures/
+permalink: /data-structure-and-algorithms/
 ---
 
 # DATA STRUCTURES AND ALGORITHMS
