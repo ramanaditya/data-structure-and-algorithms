@@ -2,7 +2,7 @@
     - Array
     
         | Sl No.| Questions | Solution |
-        | -- | -- | -- |
+        | :---: | :---: | :---: |
         | 1. | [Two Sum](https://leetcode.com/problems/two-sum/) | -- |
         | 4. | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | -- |
         | 7. | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | -- |
