@@ -1,3 +1,5 @@
+# DATA STRUCTURES AND ALGORITHMS
+
 - **Leetcode**
 
     - **Array**
@@ -18,7 +20,6 @@
         | 349. | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python]() |
         | 812. | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | [Python]() |
         
-        <hr>
         
     - **Linked-List**
 
@@ -32,13 +33,10 @@
         | 707. | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python]() |
         | 876. | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python]() \| [C++]() |
         
-        <hr> 
-
+       
     - **String**
 
         | Sl No.| Questions | Solution |
         | :---: | :--- | :--- |
         | 125. | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python]() |
         | 242. | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python]() |
-
-        <hr>
