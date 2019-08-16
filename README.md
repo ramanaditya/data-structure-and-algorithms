@@ -2,7 +2,7 @@
     - Array
     
         | Sl No.| Questions | Solution |
-        | :---: | :--- | :---: |
+        | :---: | :--- | :--- |
         | 1. | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python]() |
         | 4. | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python]() |
         | 7. | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python]() |
@@ -21,7 +21,7 @@
     - Linked-List
 
         | Sl No.| Questions | Solution |
-        | :---: | :--- | :---: |
+        | :---: | :--- | :--- |
         | 21. | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python]() |
         | 83. | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python]() , [C++]() |
         | 206. | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python]() , [C]() |
@@ -33,6 +33,6 @@
     - String
 
         | Sl No.| Questions | Solution |
-        | :---: | :--- | :---: |
+        | :---: | :--- | :--- |
         | 125. | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python]() |
         | 242. | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python]() |
