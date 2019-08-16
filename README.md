@@ -32,7 +32,7 @@
         
     - String
 
-        | Sl No.| Questions | Solution |||
-        | :---: | :--- | :---: | :---: | :---: |
-        | 125. | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | --- | --- | [Python]() |
-        | 242. | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | --- | --- | [Python]() |
+        | Sl No.| Questions | Solution |
+        | :---: | :--- | :---: |
+        | 125. | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python]() |
+        | 242. | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python]() |
