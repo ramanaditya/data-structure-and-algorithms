@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /data_structures/
+---
+
 # DATA STRUCTURES AND ALGORITHMS
 
 - **Leetcode**
