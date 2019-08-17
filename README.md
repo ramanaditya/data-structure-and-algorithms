@@ -43,3 +43,11 @@
         | :---: | :--- | :--- |
         | 125. | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-palindrome.py) |
         | 242. | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-anagram.py) |
+
+- **Codechef**
+
+    - **Easy**
+
+        | Sl No.| Questions | Solution |
+        | :---: | :--- | :--- |
+        | 1. | [Counting Pretty Numbers](https://www.codechef.com/problems/NUM239) | [Python]() |
