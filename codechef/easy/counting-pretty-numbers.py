@@ -1,5 +1,5 @@
 '''
-Counting Pretty Numbers
+[Counting Pretty Numbers](https://www.codechef.com/problems/NUM239)
 
 Vasya likes the number 239. Therefore, he considers a number pretty if its last digit is 2, 3 or 9.
 
@@ -25,7 +25,7 @@ Input
 Output
     3
     8
-    
+
 Explanation
 Example case 1: The pretty numbers between 1 and 10 are 2, 3 and 9.
 
