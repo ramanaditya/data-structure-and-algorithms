@@ -17,13 +17,15 @@ Constraints
 Subtasks
 Subtask #1 (100 points): original constraints
 
-Example Input
-2
-1 10
-11 33
-Example Output
-3
-8
+Example 
+Input
+    2
+    1 10
+    11 33
+Output
+    3
+    8
+    
 Explanation
 Example case 1: The pretty numbers between 1 and 10 are 2, 3 and 9.
 
