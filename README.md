@@ -25,6 +25,7 @@
 
         | Sl No.| Questions | Solution |
         | :---: | :--- | :--- |
+        | 2. | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python]() |
         | 21. | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python]() |
         | 83. | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python]() \| [C++]() |
         | 206. | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python]() \| [C]() |
