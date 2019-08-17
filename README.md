@@ -26,6 +26,7 @@
         | Sl No.| Questions | Solution |
         | :---: | :--- | :--- |
         | 2. | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/add-two-numbers.py) |
+        | 19. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/remove-nth-node-from-end-of-list/) |
         | 21. | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/merge-two-sorted-lists.py) |
         | 23. | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/merge-k-sorted-lists.py) |
         | 83. | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/remove-duplicates-from-sorted-list.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/remove-duplicates-from-sorted-list.cpp) |
