@@ -88,5 +88,42 @@ class Solution:
             i -= 1
         return new_node
 
-# Runtime: 108 ms
+# Runtime: 88 ms
 # Memory Usage: 14 MB
+
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
+        a = 0
+        if not l1:
+            return l2
+        if not l2:
+            return l1
+        while l1:
+            a = a * 10 + l1.val
+            l1 = l1.next
+        b = 0
+        while l2:
+            b = b * 10 + l2.val
+            l2 = l2.next
+        c = a + b
+        if c == 0:
+            new_node = ListNode(c)
+            return new_node
+        l3 = None
+        while c != 0:
+            q = c % 10
+            new_node = ListNode(q)
+            new_node.next = l3
+            l3 = new_node
+            c = c//10
+        return l3
+            
+# Runtime: 72 ms
+# Memory Usage: 13.9 MB
