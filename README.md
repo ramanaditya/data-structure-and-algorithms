@@ -49,6 +49,7 @@
         | 125. | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-palindrome.py) |
         | 151. | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/reverse-words-in-a-string.py) |
         | 242. | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-anagram.py) |
+        | 1108. | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.py) |
 
 - **Codechef**
 
@@ -58,3 +59,4 @@
         | :---: | :--- | :--- |
         | 1. | [Counting Pretty Numbers](https://www.codechef.com/problems/NUM239) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/easy/counting-pretty-numbers.py) |
         | 2. | [Processing a string](https://www.codechef.com/problems/KOL15A) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/easy/processing-a-string.py/) |
+        

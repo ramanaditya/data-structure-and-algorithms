@@ -36,6 +36,6 @@ class Solution:
             A[i] = A[i] * A[i]
         A.sort()
         return A
-
+        
 # Runtime: 240 ms
 # Memory Usage: 15.2 MB
