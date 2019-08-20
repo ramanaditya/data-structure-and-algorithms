@@ -35,3 +35,33 @@ class Solution:
 
 # Runtime: 84 ms
 # Memory Usage: 18.5 MB
+
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def removeElements(self, head: ListNode, val: int) -> ListNode:
+        if not head:
+            return head
+        head_ref = ListNode(None)
+        head_ref.next = head
+        new_pointer = head_ref
+        while head_ref:
+            
+            if head_ref.val == val:
+                temp = head_ref.next
+                head_ref = prev
+                head_ref.next = temp
+            else:
+                prev = head_ref
+                head_ref = head_ref.next
+
+        return new_pointer.next
+
+
+# Runtime: 76 ms
+# Memory Usage: 16.9 MB
