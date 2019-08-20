@@ -49,6 +49,7 @@
         | 125. | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-palindrome.py) |
         | 151. | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/reverse-words-in-a-string.py) |
         | 242. | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-anagram.py) |
+        | 771. | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/jewels-and-stones) |
         | 1108. | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.py) |
 
 - **Codechef**
