@@ -21,6 +21,7 @@
         | 349. | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/Intersection-of-Two-Arrays.py) |
         | 448. | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/array/find-all-numbers-disappeared-in-an-array/) |
         | 812. | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/largest-triangle-area.py) |
+        | 977. | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/squares-of-a-sorted-array/) |
         
         
     - **Linked-List**
