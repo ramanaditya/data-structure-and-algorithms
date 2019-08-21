@@ -41,7 +41,13 @@
         | 707. | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/design-linked-list.py) |
         | 876. | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/middle-of-the-linked-list.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/middle-of-the-linked-list.cpp) |
         
-       
+    = **Stack**
+
+        | Sl No.| Questions | Solution |
+        | :---: | :--- | :--- |
+        | 155. | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/stack/min-stack.py) |
+
+        
     - **String**
 
         | Sl No.| Questions | Solution |
