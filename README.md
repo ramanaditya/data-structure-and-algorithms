@@ -69,6 +69,13 @@
 
 - **Codechef**
 
+    - **Division 2**
+
+        | Sl No.| Questions | Solution |
+        | :---: | :--- | :--- |
+        | 1. | [Easy Fibonacci](https://www.codechef.com/SEPT19B/problems/FIBEASY) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/easy-fibonacci.py) |
+        
+    
     - **Easy**
 
         | Sl No.| Questions | Solution |
@@ -77,8 +84,3 @@
         | 2. | [Processing a string](https://www.codechef.com/problems/KOL15A) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/easy/processing-a-string.py/) |
         
     
-    - **Division 2**
-
-        | Sl No.| Questions | Solution |
-        | :---: | :--- | :--- |
-        | 1. | [Easy Fibonacci](https://www.codechef.com/SEPT19B/problems/FIBEASY) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/easy-fibonacci.py) |
