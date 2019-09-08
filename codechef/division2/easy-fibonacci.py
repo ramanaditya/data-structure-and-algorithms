@@ -102,42 +102,6 @@ if __name__ == '__main__':
             print(0)
             T -= 1
             k += 1
-            continue
-        elif N[k] == 2:
-            print(1)
-            T -= 1
-            k += 1
-            continue
-        elif N[k] == 3:
-            print(1)
-            T -= 1
-            k += 1
-            continue
-        elif N[k] == 4:
-            print(2)
-            T -= 1
-            k += 1
-            continue
-        elif N[k] == 5:
-            print(2)
-            T -= 1
-            k += 1
-            continue
-        elif N[k] == 6:
-            print(2)
-            T -= 1
-            k += 1
-            continue
-        elif N[k] == 7:
-            print(2)
-            T -= 1
-            k += 1
-            continue
-        elif N[k] == 8:
-            print(3)
-            T -= 1
-            k += 1
-            continue
         else:
             if N[k] % 2 != 0:
                 c = bin(N[k] - 1)
@@ -150,6 +114,7 @@ if __name__ == '__main__':
             print(matrix_pow(fib_matrix, n, 10)[1][0])
             T -= 1
             k += 1
+
 
 # Time : 2.80 s
 # Constraint 2 didn't pass
