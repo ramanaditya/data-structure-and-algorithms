@@ -65,21 +65,29 @@ def mat_mult(A, B, mod):
 
 
 def matrix_pow(M, power, mod):
+    #Special definition for power=0:
     if power <= 0:
       return M
+
+    # Order is 1,2,4,8,16,...
     powers = list(
         reversed([True if i == "1" else False for i in bin(power)[2:]]))
+
     matrices = [None for _ in powers]
     matrices[0] = M
+
     for i in range(1, len(powers)):
         matrices[i] = matrix_square(matrices[i-1], mod)
+
     result = None
+
     for matrix, power in zip(matrices, powers):
         if power:
             if result is None:
                 result = matrix
             else:
                 result = mat_mult(result, matrix, mod)
+
     return result
 
 
@@ -94,6 +102,42 @@ if __name__ == '__main__':
             print(0)
             T -= 1
             k += 1
+            continue
+        elif N[k] == 2:
+            print(1)
+            T -= 1
+            k += 1
+            continue
+        elif N[k] == 3:
+            print(1)
+            T -= 1
+            k += 1
+            continue
+        elif N[k] == 4:
+            print(2)
+            T -= 1
+            k += 1
+            continue
+        elif N[k] == 5:
+            print(2)
+            T -= 1
+            k += 1
+            continue
+        elif N[k] == 6:
+            print(2)
+            T -= 1
+            k += 1
+            continue
+        elif N[k] == 7:
+            print(2)
+            T -= 1
+            k += 1
+            continue
+        elif N[k] == 8:
+            print(3)
+            T -= 1
+            k += 1
+            continue
         else:
             if N[k] % 2 != 0:
                 c = bin(N[k] - 1)
