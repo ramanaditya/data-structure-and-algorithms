@@ -117,4 +117,4 @@ if __name__ == '__main__':
 
 
 # Time : 2.80 s
-# Constraint 2 didn't pass
+# Subtask 2 didn't pass
