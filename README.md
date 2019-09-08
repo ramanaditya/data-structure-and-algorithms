@@ -76,3 +76,9 @@
         | 1. | [Counting Pretty Numbers](https://www.codechef.com/problems/NUM239) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/easy/counting-pretty-numbers.py) |
         | 2. | [Processing a string](https://www.codechef.com/problems/KOL15A) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/easy/processing-a-string.py/) |
         
+    
+    - **Division 2**
+
+        | Sl No.| Questions | Solution |
+        | :---: | :--- | :--- |
+        | 1. | [Easy Fibonacci](https://www.codechef.com/SEPT19B/problems/FIBEASY) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/easy-fibonacci.py) |
