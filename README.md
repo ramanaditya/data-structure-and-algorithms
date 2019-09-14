@@ -73,7 +73,7 @@
 
         | Sl No.| Questions | Solution |
         | :---: | :--- | :--- |
-        | 1. | [Easy Fibonacci](https://www.codechef.com/SEPT19B/problems/FIBEASY) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/easy-fibonacci.py) |
+        | 1. | [Easy Fibonacci](https://www.codechef.com/SEPT19B/problems/FIBEASY) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/easy-fibonacci.py) | [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/easy-fibonacci.cpp) |
         
     
     - **Easy**
