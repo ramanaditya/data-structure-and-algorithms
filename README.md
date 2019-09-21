@@ -24,11 +24,18 @@
         | 977. | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/squares-of-a-sorted-array/) |
         
         
-     - **Binary Search**
+    - **Binary Search**
     
         | Sl No.| Questions | Solution |
         | :---: | :--- | :--- |
         | 1198. | [Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/find-smallest-common-element-in-all-rows.py) |
+
+    
+    - **Greedy**
+    
+        | Sl No.| Questions | Solution |
+        | :---: | :--- | :--- |
+        | 1196. | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/how-many-apples-can-you-put-into-the-basket.py) |
 
 
     - **Linked-List**
