@@ -24,6 +24,13 @@
         | 977. | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/squares-of-a-sorted-array/) |
         
         
+     - **Binary Search**
+    
+        | Sl No.| Questions | Solution |
+        | :---: | :--- | :--- |
+        | 1198. | [Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/find-smallest-common-element-in-all-rows.py) |
+
+
     - **Linked-List**
 
         | Sl No.| Questions | Solution |
