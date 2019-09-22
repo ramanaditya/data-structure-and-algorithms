@@ -1,7 +1,5 @@
 # DATA STRUCTURES AND ALGORITHMS
 
-
-
 - **Codechef**
 
     - **Division 2**
@@ -9,7 +7,7 @@
         | Sl No.| Questions | Solution |
         | :---: | :--- | :--- |
         | 1. | [Easy Fibonacci](https://www.codechef.com/SEPT19B/problems/FIBEASY) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/easy-fibonacci.py) | [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/easy-fibonacci.cpp) |
-        | 2. | [Chef and Interesting Subsequences ](https://www.codechef.com/SEPT19B/problems/CHEFINSQ) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/chef-and-interesting-subsequences.py) | [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/chef-and-interesting-subsequences.cpp) |
+        | 2. | [Chef and Interesting Subsequences ](https://www.codechef.com/SEPT19B/problems/CHEFINSQ) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/chef-and-interesting-subsequences.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/chef-and-interesting-subsequences.cpp) |
         | 3. | [Chef and Good Subsequences ](https://www.codechef.com/SEPT19B/problems/GDSUB) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/chef-and-good-subsequences.py) |
         
     
