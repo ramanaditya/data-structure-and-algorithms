@@ -1,5 +1,27 @@
 # DATA STRUCTURES AND ALGORITHMS
 
+
+
+- **Codechef**
+
+    - **Division 2**
+
+        | Sl No.| Questions | Solution |
+        | :---: | :--- | :--- |
+        | 1. | [Easy Fibonacci](https://www.codechef.com/SEPT19B/problems/FIBEASY) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/easy-fibonacci.py) | [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/easy-fibonacci.cpp) |
+        | 2. | [Chef and Interesting Subsequences ](https://www.codechef.com/SEPT19B/problems/CHEFINSQ) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/chef-and-interesting-subsequences.py) | [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/chef-and-interesting-subsequences.cpp) |
+        | 3. | [Chef and Good Subsequences ](https://www.codechef.com/SEPT19B/problems/GDSUB) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/chef-and-good-subsequences.py) |
+        
+    
+    - **Easy**
+
+        | Sl No.| Questions | Solution |
+        | :---: | :--- | :--- |
+        | 1. | [Counting Pretty Numbers](https://www.codechef.com/problems/NUM239) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/easy/counting-pretty-numbers.py) |
+        | 2. | [Processing a string](https://www.codechef.com/problems/KOL15A) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/easy/processing-a-string.py/) |
+        
+    
+    
 - **Leetcode**
 
     - **Array**
@@ -69,7 +91,8 @@
         | 125. | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-palindrome.py) |
         | 151. | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/reverse-words-in-a-string.py) |
         | 242. | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-anagram.py) |
-        | 771. | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/jewels-and-stones) |
+        | 771. | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/jewels-and-stones.py) |
+        | 917. | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/reverse-only-letters.py) |
         | 1108. | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.py) |
         | 1189. | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/maximum-number-of-balloons.py) |
     
@@ -81,23 +104,3 @@
         | 144. | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/binary-tree-preorder-traversal.py) |
         | 145. | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/binary-tree-postorder-traversal.py) |
 
-
-- **Codechef**
-
-    - **Division 2**
-
-        | Sl No.| Questions | Solution |
-        | :---: | :--- | :--- |
-        | 1. | [Easy Fibonacci](https://www.codechef.com/SEPT19B/problems/FIBEASY) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/easy-fibonacci.py) | [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/easy-fibonacci.cpp) |
-        | 2. | [Chef and Interesting Subsequences ](https://www.codechef.com/SEPT19B/problems/CHEFINSQ) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/chef-and-interesting-subsequences.py) | [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/chef-and-interesting-subsequences.cpp) |
-        | 3. | [Chef and Good Subsequences ](https://www.codechef.com/SEPT19B/problems/GDSUB) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/chef-and-good-subsequences.py) |
-        
-    
-    - **Easy**
-
-        | Sl No.| Questions | Solution |
-        | :---: | :--- | :--- |
-        | 1. | [Counting Pretty Numbers](https://www.codechef.com/problems/NUM239) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/easy/counting-pretty-numbers.py) |
-        | 2. | [Processing a string](https://www.codechef.com/problems/KOL15A) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/easy/processing-a-string.py/) |
-        
-    
