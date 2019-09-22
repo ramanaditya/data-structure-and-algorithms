@@ -1,14 +1,14 @@
 # DATA STRUCTURES AND ALGORITHMS
 
-- **Codechef**
+- ## **Codechef**
 
-    - **Cook Off 2**
+    - ### **Cook Off 2**
 
         | Sl No.| Questions | Solution |
         | :---: | :--- | :--- |
         | 1. | [Playing with Matches](https://www.codechef.com/COOK110B/problems/MATCHES) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/cookoff/playing-with-matches.py) |
 
-    - **Division 2**
+    - ### **Division 2**
 
         | Sl No.| Questions | Solution |
         | :---: | :--- | :--- |
@@ -17,7 +17,7 @@
         | 3. | [Chef and Good Subsequences ](https://www.codechef.com/SEPT19B/problems/GDSUB) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/division2/chef-and-good-subsequences.py) |
         
     
-    - **Easy**
+    - ### **Easy**
 
         | Sl No.| Questions | Solution |
         | :---: | :--- | :--- |
@@ -26,9 +26,9 @@
         
     
     
-- **Leetcode**
+- ## **Leetcode**
 
-    - **Array**
+    - ### **Array**
     
         | Sl No.| Questions | Solution |
         | :---: | :--- | :--- |
@@ -50,21 +50,21 @@
         | 977. | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/squares-of-a-sorted-array/) |
         
         
-    - **Binary Search**
+    - ### **Binary Search**
     
         | Sl No.| Questions | Solution |
         | :---: | :--- | :--- |
         | 1198. | [Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/find-smallest-common-element-in-all-rows.py) |
 
     
-    - **Greedy**
+    - ### **Greedy**
     
         | Sl No.| Questions | Solution |
         | :---: | :--- | :--- |
         | 1196. | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/how-many-apples-can-you-put-into-the-basket.py) |
 
 
-    - **Linked-List**
+    - ### **Linked-List**
 
         | Sl No.| Questions | Solution |
         | :---: | :--- | :--- |
@@ -81,14 +81,14 @@
         | 707. | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/design-linked-list.py) |
         | 876. | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/middle-of-the-linked-list.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/middle-of-the-linked-list.cpp) |
         
-    - **Stack**
+    - ### **Stack**
 
         | Sl No.| Questions | Solution |
         | :---: | :--- | :--- |
         | 155. | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/stack/min-stack.py) |
 
         
-    - **String**
+    - ### **String**
 
         | Sl No.| Questions | Solution |
         | :---: | :--- | :--- |
@@ -100,7 +100,7 @@
         | 1108. | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.py) |
         | 1189. | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/maximum-number-of-balloons.py) |
     
-    - **Tree**
+    - ### **Tree**
 
         | Sl No.| Questions | Solution |
         | :---: | :--- | :--- |
