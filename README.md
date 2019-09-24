@@ -46,7 +46,9 @@
         | 344. | [Revese String](https://leetcode.com/problems/reverse-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/reverse-string.py) |
         | 349. | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/Intersection-of-Two-Arrays.py) |
         | 448. | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/array/find-all-numbers-disappeared-in-an-array/) |
+        | 509. | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/array/fibonacci-number)
         | 812. | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/largest-triangle-area.py) |
+        | 832. | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/flipping-an-image.py) |
         | 977. | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/squares-of-a-sorted-array/) |
         
         
@@ -104,7 +106,7 @@
         | 242. | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-anagram.py) |
         | 771. | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/jewels-and-stones.py) |
         | 917. | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/reverse-only-letters.py) |
-        | 1108. | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.py) |
+        | 1108. | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.cpp) |
         | 1189. | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/maximum-number-of-balloons.py) |
     
     - ### **Tree**
