@@ -56,6 +56,13 @@
         | :---: | :--- | :--- |
         | 1198. | [Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/find-smallest-common-element-in-all-rows.py) |
 
+
+    - ### **Databases**
+
+        | Sl No.| Questions | Solution |
+        | :---: | :--- | :--- |
+        | 595. | [Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/big-countries.sql) |
+
     
     - ### **Greedy**
     
