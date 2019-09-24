@@ -49,6 +49,7 @@
         | 509. | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/array/fibonacci-number)
         | 812. | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/largest-triangle-area.py) |
         | 832. | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/flipping-an-image.py) |
+        | 905. | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/sort-array-by-parity.py) |
         | 977. | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/squares-of-a-sorted-array/) |
         
         
