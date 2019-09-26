@@ -46,13 +46,14 @@
         | 344. | [Revese String](https://leetcode.com/problems/reverse-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/reverse-string.py) |
         | 349. | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/Intersection-of-Two-Arrays.py) |
         | 448. | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/array/find-all-numbers-disappeared-in-an-array/) |
-        | 509. | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/array/fibonacci-number)
+        | 509. | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/array/fibonacci-number.py) |
+        | 744. | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/array/find-smallest-letter-greater-than-target.py) |
         | 812. | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/largest-triangle-area.py) |
         | 832. | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/flipping-an-image.py) |
         | 905. | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/sort-array-by-parity.py) |
         | 922. | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/sort-array-by-parity-ii.py) |
-        | 977. | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/squares-of-a-sorted-array/) |
-        | 1122. | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/relative-sort-array/) |
+        | 977. | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/squares-of-a-sorted-array.py/) |
+        | 1122. | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/relative-sort-array.py/) |
         
     - ### **Binary Search**
     
