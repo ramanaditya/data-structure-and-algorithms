@@ -24,8 +24,8 @@
         | 1. | [Counting Pretty Numbers](https://www.codechef.com/problems/NUM239) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/easy/counting-pretty-numbers.py) |
         | 2. | [Processing a string](https://www.codechef.com/problems/KOL15A) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/easy/processing-a-string.py/) |
         
-    
-    
+
+
 - # **Leetcode**
 
     - ### **Array**
@@ -52,7 +52,7 @@
         | 905. | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/sort-array-by-parity.py) |
         | 922. | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/sort-array-by-parity-ii.py) |
         | 977. | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/squares-of-a-sorted-array/) |
-        
+        | 1122. | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/relative-sort-array/) |
         
     - ### **Binary Search**
     
