@@ -52,8 +52,9 @@
         | 832. | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/flipping-an-image.py) |
         | 905. | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/sort-array-by-parity.py) |
         | 922. | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/sort-array-by-parity-ii.py) |
-        | 977. | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/squares-of-a-sorted-array.py/) |
-        | 1122. | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/relative-sort-array.py/) |
+        | 977. | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/squares-of-a-sorted-array.py) |
+        | 1122. | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/relative-sort-array.py) |
+        | 1051. | [Height Checker](https://leetcode.com/problems/height-checker/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/height-checker.py) |
         
     - ### **Binary Search**
     
@@ -110,6 +111,7 @@
         | 125. | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-palindrome.py) |
         | 151. | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/reverse-words-in-a-string.py) |
         | 242. | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-anagram.py) |
+        | 709. | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/to-lower-case.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/to-lower-case.c) \| [C](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/to-lower-case.cpp) |
         | 771. | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/jewels-and-stones.py) |
         | 917. | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/reverse-only-letters.py) |
         | 1108. | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.cpp) |
