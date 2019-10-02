@@ -40,6 +40,7 @@
         | 26. | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-element/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/remove-duplicates-from-sorted-array.py) |
         | 27. | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/remove-element.py) |
         | 35. | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/search-insert-position.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/search-insert-position.cpp) |
+        | 42. | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/trapping-rain-water.py) |
         | 88. | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/merge-sorted-array.py) |
         | 154. | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/find-minimum-in-rotated-sorted-array-ii/.py) |
         | 189. | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/rotate-array.py) |
@@ -78,6 +79,14 @@
         | :---: | :--- | :--- |
         | 1196. | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/how-many-apples-can-you-put-into-the-basket.py) |
 
+    - ### **Hash Table**
+
+        | Sl No.| Questions | Solution |
+        | :---: | :--- | :--- |
+        | 535. | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/encode-and-decode-tinyurl.py) |
+        | 1207. | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/unique-number-of-occurrences.py) |
+
+
 
     - ### **Linked-List**
 
@@ -113,9 +122,11 @@
         | 242. | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-anagram.py) |
         | 709. | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/to-lower-case.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/to-lower-case.c) \| [C](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/to-lower-case.cpp) |
         | 771. | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/jewels-and-stones.py) |
+        | 804. | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/unique-morse-code-words.py) |
         | 917. | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/reverse-only-letters.py) |
         | 1108. | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.cpp) |
         | 1189. | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/maximum-number-of-balloons.py) |
+        
     
     - ### **Tree**
 

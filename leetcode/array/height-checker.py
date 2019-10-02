@@ -37,5 +37,5 @@ class Solution:
                     i[j] = 0
         return A
 
-# Runtime: 64 ms
-# Memory Usage: 13.9 MB
+# Runtime: 44 ms
+# Memory Usage: 13.7 MB
