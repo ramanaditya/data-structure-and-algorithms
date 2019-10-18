@@ -58,6 +58,7 @@
         | 999. | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/available-captures-for-rook.py) |
         | 1122. | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/relative-sort-array.py) |
         | 1051. | [Height Checker](https://leetcode.com/problems/height-checker/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/height-checker.py) |
+        | 1200. | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/minimum-absolute-difference.py) |
         
     - ### **Binary Search**
     
