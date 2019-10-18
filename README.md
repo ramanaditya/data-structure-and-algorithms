@@ -55,6 +55,7 @@
         | 905. | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/sort-array-by-parity.py) |
         | 922. | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/sort-array-by-parity-ii.py) |
         | 977. | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/squares-of-a-sorted-array.py) |
+        | 999. | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/available-captures-for-rook.py) |
         | 1122. | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/relative-sort-array.py) |
         | 1051. | [Height Checker](https://leetcode.com/problems/height-checker/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/height-checker.py) |
         
