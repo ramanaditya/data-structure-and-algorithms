@@ -48,7 +48,6 @@ class Solution:
         count = 0
         i -= 1
         while i >= 0:
-            print(board[i][n])
             if board[i][n] == 'p':
                 count += 1
                 break
