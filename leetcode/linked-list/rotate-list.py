@@ -30,29 +30,56 @@ rotate 4 steps to the right: 2->0->1->NULL
 
 class Solution:
     def rotateRight(self, head: ListNode, k: int) -> ListNode:
+	
+		# If list is empty or has only one element it doesn't matter the number of times you rotate
         if not head or not head.next:
             return head
+		
+		# If number of rotation is zero, the list will be same
         if k == 0:
             return head
+		
+		# Copying head to another variable because we have to iterate over head
         head1 = head
-        count = 0
+		
+		# to count the no. of nodes
+		count = 0    
         while head:
             count += 1
             head = head.next
+		
+		# Getting the index from which the list will split
+		# Actual index woul dbe k % count from the right, but 
+		# we have to get the index from left so we have to subtract this from count
         index = count - (k % count)
+		
+		# Here count=1 because the index value we got started from 1
+		# Alternatively we can subtract 1 from index and start count from 0
         count = 1
+		
+		# Another list to store one part of the list
         temp = ListNode(-1)
+		
+		# Again copying the head because previous iteration took head to the last node
         head = head1
         while head1:
             if count == index:
-                temp.next = head1.next
-                head1.next = None
+				# You can also put return statement while just running the code below head1.next to check what actually both temp and head stores
+                temp.next = head1.next    # temp will store the first part of the resulting list
+                head1.next = None     # As head1 will be the last part of the list so last node must point to NULL value
+				# return temp
+				# return head
                 break
             count += 1
             head1 = head1.next
+		
+		# If one of the part doesn't contain any nodes
         if temp.next == None:
             return head
+		
+		# If both temp and head have some nodes
         head2 = temp.next    
+		
         while temp.next != None:
             temp = temp.next
         temp.next = head
