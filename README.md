@@ -1,4 +1,8 @@
 # DATA STRUCTURES AND ALGORITHMS
+<hr>
+## Abstract Data Type
+An Abstract Data Type is an abstraction of Data Structures
+
 
 - # **Codechef**
 
