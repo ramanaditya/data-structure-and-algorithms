@@ -1,4 +1,5 @@
 # Leetcode
+![](../images/comp.jpeg)
 
 - ### **Array**
 
@@ -18,6 +19,7 @@
     | 154. | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/find-minimum-in-rotated-sorted-array-ii.py) |
     | 169. | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/majority-element.py) |
     | 189. | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/rotate-array.py) |
+    | 283. | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/move-zeroes.py) |
     | 344. | [Revese String](https://leetcode.com/problems/reverse-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/reverse-string.py) |
     | 349. | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/Intersection-of-Two-Arrays.py) |
     | 414. | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/third-maximum-number.py) |
@@ -122,3 +124,4 @@
     | 144. | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/binary-tree-preorder-traversal.py) |
     | 145. | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/binary-tree-postorder-traversal.py) |
 
+![](../images/leetcode.png)
