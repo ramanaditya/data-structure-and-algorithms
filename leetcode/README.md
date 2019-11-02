@@ -1,5 +1,5 @@
 # Leetcode
-![](../images/comp.jpeg)
+![](../images/leetcode.png)
 
 - ### **Array**
 
@@ -124,4 +124,4 @@
     | 144. | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/binary-tree-preorder-traversal.py) |
     | 145. | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/binary-tree-postorder-traversal.py) |
 
-![](../images/leetcode.png)
+![](../images/comp.jpeg)

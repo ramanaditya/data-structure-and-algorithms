@@ -28,7 +28,3 @@
 - [Codechef](https://www.codechef.com/)
 - [Free Code Camp](https://www.freecodecamp.org/)
 - [Leetcode](https://leetcode.com/)
-
-![](images/freecodecamp.png)
-![](images/leetcode.png)
-![](images/codechef.png)

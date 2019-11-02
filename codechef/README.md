@@ -1,5 +1,5 @@
-# **Codechef**
-![](../images/comp.jpeg)
+# Codechef
+![](../images/codechef.png)
 
 - ### **Cook Off 2**
 
@@ -23,4 +23,4 @@
     | 1. | [Counting Pretty Numbers](https://www.codechef.com/problems/NUM239) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/easy/counting-pretty-numbers.py) |
     | 2. | [Processing a string](https://www.codechef.com/problems/KOL15A) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/easy/processing-a-string.py/) |
     
-![](../images/codechef.png)
+![](../images/comp.jpeg)
