@@ -1,6 +1,6 @@
 # DATA STRUCTURES AND ALGORITHMS
 ![](images/dsa.png)
-# Index
+# Contents
 
 - [Data Structures](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures)
     - [Abstract Data Type](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures#abstract-data-type)
