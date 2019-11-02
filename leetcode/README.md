@@ -40,6 +40,7 @@
     | 1122. | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/relative-sort-array.py) |
     | 1160. | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/find-words-that-can-be-formed-by-characters.py) |
     | 1200. | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/minimum-absolute-difference.py) |
+    | 1232. | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/check-if-it-is-a-straight-line.py) |
     
 - ### **Binary Search**
 
