@@ -1,4 +1,5 @@
 """
+10.2.1
 Can you implement the dynamic-set operation INSERT on a singly linked list in O(1) time? How about DELETE?
 """
 
