@@ -1,6 +1,8 @@
 # Data Structures
 ![](../images/ds.jpeg)
 
+#### *A data structure is a way of organizing data so that it can be used effectively.*
+
 ## Contents
 
 - [Abstract Data Type](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures#abstract-data-type)
@@ -27,3 +29,12 @@ There are only two things on which everything in Computer Science depends
 
     ### Big-O Notation
     It gives an upper bound of the complexity in the worst case. 
+    
+        - Constant Time : O(1)
+        - Logarithmic Time : O(log(n))
+        - Linear Time : O(n)
+        - Linearithmic TIme : O(nlog(n))
+        - Quadric Time : O(n<sup>2</sup>)
+        - Cubic Time : O(n<sup>3</sup>)
+        - Exponential : O(b<sup>n</sup>) , b > 1
+        - Factorial TIme : O(n!)
