@@ -3,8 +3,6 @@
 Implement a stack using a singly linked list L. The operations PUSH and POP should still take O.1/ time.
 """
 
-SIZE = 5
-
 
 class Node:
     def __init__(self, data=0, next=None):
@@ -15,19 +13,13 @@ class Node:
 class LinkedList:
     def __init__(self):
         self.head = None
-        self.SIZE_COUNT = 0
 
     def push(self, data):
-        if SIZE == self.SIZE_COUNT - 1:
-            print("Stack is overflow")
-            return
-        else:
-            new_node = Node(data)
-            print("Item Pushed :", end=" ")
-            print(data)
-            new_node.next = self.head
-            self.head = new_node
-            self.SIZE_COUNT += 1
+        new_node = Node(data)
+        print("Item Pushed :", end=" ")
+        print(data)
+        new_node.next = self.head
+        self.head = new_node
 
     def pop(self):
         curr = self.head
@@ -58,7 +50,6 @@ ll.push(5)
 ll.push(10)
 ll.push(15)
 ll.push(20)
-ll.push(25)
 ll.printll()
 ll.pop()
 ll.pop()
