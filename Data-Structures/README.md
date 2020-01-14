@@ -34,7 +34,14 @@ There are only two things on which everything in Computer Science depends
         - Logarithmic Time : O(log(n))
         - Linear Time : O(n)
         - Linearithmic TIme : O(nlog(n))
-        - Quadric Time : O(n<sup>2</sup>)
-        - Cubic Time : O(n<sup>3</sup>)
-        - Exponential : O(b<sup>n</sup>) , b > 1
+        - Quadric Time : O(n^2)
+        - Cubic Time : O(n^3)
+        - Exponential : O(b^n) , b > 1
         - Factorial TIme : O(n!)
+        
+    Big-O Properties
+    
+        - O(n + c) = O(n)
+        - O(cn) = O(n)
+        
+## Static and Dynamic Arrays
