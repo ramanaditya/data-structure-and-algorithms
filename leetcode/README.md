@@ -94,6 +94,12 @@
     | 445. | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/add-two-numbers-ii.py) |
     | 707. | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/design-linked-list.py) |
     | 876. | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/middle-of-the-linked-list.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/middle-of-the-linked-list.cpp) |
+
+- ### **Minimax**
+    
+    | Sl No.| Questions | Solution |
+    | :---: | :--- | :--- |
+    | 292. | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/minimax/nim-game.py) |
     
 - ### **Stack**
 
