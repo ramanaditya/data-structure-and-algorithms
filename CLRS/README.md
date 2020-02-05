@@ -20,3 +20,4 @@
         | 10.1-4 | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/CLRS/10-Elementary-Data-Structures/10-1-4.py) |
         | 10.2-1 | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/CLRS/10-Elementary-Data-Structures/10-2-1.py) |
         | 10.2-2 | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/CLRS/10-Elementary-Data-Structures/10-2-2.py) |
+    

@@ -100,6 +100,7 @@
     | Sl No.| Questions | Solution |
     | :---: | :--- | :--- |
     | 155. | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/stack/min-stack.py) |
+    | 1021. | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/stack/remove-outermost-parentheses.py) |
 
     
 - ### **String**
