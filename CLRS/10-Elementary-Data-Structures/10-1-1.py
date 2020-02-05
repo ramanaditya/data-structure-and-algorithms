@@ -6,11 +6,17 @@ POP(S), PUSH(S,8), and POP(S) on an initially empty stack S stored in array S[1.
 
 
 def push(S, ele):
+    if len(S) >= N:
+        print("Overflow")
+        return
     S.append(ele)
     return
 
 
 def pop(S):
+    if len(S) <= 0:
+        print("Underflow")
+        return
     S.pop()
     return
 
@@ -25,6 +31,8 @@ def display(S):
 
 if __name__ == "__main__":
     S = []
+    global N
+    N = 6
     display(S)
     push(S, 4)
     display(S)
