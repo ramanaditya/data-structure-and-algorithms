@@ -1,7 +1,7 @@
 # Array
 
 ## Static Array
-A static array is a fixes length container containing n elements indexablefrom the range [0 , n-1]
+A static array is a fixed length container containing n elements indexablefrom the range [0 , n-1]
 
 ### Complexity
 |  | Static Array | Dynamic Array |

@@ -43,5 +43,3 @@ There are only two things on which everything in Computer Science depends
     
         - O(n + c) = O(n)
         - O(cn) = O(n)
-        
-## Static and Dynamic Arrays
