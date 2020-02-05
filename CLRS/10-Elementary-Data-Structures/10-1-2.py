@@ -99,3 +99,18 @@ if __name__ == "__main__":
     stack.pop("S2")
     stack.pop("S2")
     stack.display()
+
+
+"""
+Solution:
+
+S1 Bottom => 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 ->  <= S1 top -  -  - Stack 2 is emptyOverflow for  11
+Overflow for  12
+
+S1 Bottom => 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 ->  <= S1 topS2 Top => 10 -> 9 -> 8 ->  <= S2 Bottom
+
+S1 Bottom => 1 -> 2 ->  <= S1 top -  -  -  -  - S2 Top => 10 -> 9 -> 8 ->  <= S2 Bottom
+
+S1 Bottom => 1 -> 2 ->  <= S1 top -  -  -  -  -  -  - S2 Top => 8 ->  <= S2 Bottom
+
+"""
