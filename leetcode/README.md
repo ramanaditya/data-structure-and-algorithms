@@ -75,7 +75,6 @@
     | 1207. | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/unique-number-of-occurrences.py) |
 
 
-
 - ### **Linked-List**
 
     | Sl No.| Questions | Solution |
@@ -100,7 +99,15 @@
     | Sl No.| Questions | Solution |
     | :---: | :--- | :--- |
     | 292. | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/minimax/nim-game.py) |
+  
+  
+- ### **Mock**
     
+    | Sl No.| Questions | Solution |
+    | :---: | :--- | :--- |
+    | 482. | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/mock/license-key-formatting.py) |
+       
+       
 - ### **Stack**
 
     | Sl No.| Questions | Solution |

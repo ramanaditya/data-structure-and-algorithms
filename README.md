@@ -21,6 +21,7 @@
         - [hash-table](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#hash-table)
         - [linked-list](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#linked-list)
         - [Minimax](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#minimax)
+        - [Mock](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#mock)
         - [stack](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#stack)
         - [string](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#string)
         - [tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#tree)
@@ -40,8 +41,8 @@
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 ## Contributor
-- **Aditya Raman** [www.ramanaditya.com](http://www.ramanaditya.com)
+- **Aditya Raman** : [www.ramanaditya.com](http://www.ramanaditya.com)
     - LinkedIn : [https://www.linkedin.com/in/ramanaditya/](https://www.linkedin.com/in/ramanaditya/)
-    - Github : [https://github.com/ramanaditya](https://github.com/ramanaditya)
-    - LeetCode : [https://leetcode.com/adityaraman/](https://leetcode.com/adityaraman/)
-    - Codechef : [https://www.codechef.com/users/ramanaditya](https://www.codechef.com/users/ramanaditya)
+    - GitHub : [https://github.com/ramanaditya](https://github.com/ramanaditya)
+    - LeetCode : [https://leetcode.com/ramanaditya/](https://leetcode.com/adityaraman/)
+    - CodeChef : [https://www.codechef.com/users/ramanaditya](https://www.codechef.com/users/ramanaditya)
