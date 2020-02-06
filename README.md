@@ -29,15 +29,15 @@
 
 ## Resources
 
-### Books
+#### Books
 - [CLRS](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
 - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 
-### Competitive Coding
+#### Competitive Coding
 - [Codechef](https://www.codechef.com/)
 - [Leetcode](https://leetcode.com/)
 
-### Online Study Materials
+#### Online Study Materials
 - [Free Code Camp](https://www.freecodecamp.org/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
