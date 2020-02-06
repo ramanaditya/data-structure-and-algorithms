@@ -20,16 +20,28 @@
         - [greedy](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#greedy)
         - [hash-table](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#hash-table)
         - [linked-list](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#linked-list)
+        - [Minimax](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#minimax)
         - [stack](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#stack)
         - [string](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#string)
         - [tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#tree)
 
-## Contributor
-- Aditya Raman
-
 ## Resources
-- [Codechef](https://www.codechef.com/)
-- [Free Code Camp](https://www.freecodecamp.org/)
-- [Leetcode](https://leetcode.com/)
+
+### Books
 - [CLRS](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
 - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
+
+### Competitive Coding
+- [Codechef](https://www.codechef.com/)
+- [Leetcode](https://leetcode.com/)
+
+### Online Study Materials
+- [Free Code Camp](https://www.freecodecamp.org/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+
+## Contributor
+- **Aditya Raman** [www.ramanaditya.com](http://www.ramanaditya.com)
+    - LinkedIn : [https://www.linkedin.com/in/ramanaditya/](https://www.linkedin.com/in/ramanaditya/)
+    - Github : [https://github.com/ramanaditya](https://github.com/ramanaditya)
+    - LeetCode : [https://leetcode.com/adityaraman/](https://leetcode.com/adityaraman/)
+    - Codechef : [https://www.codechef.com/users/ramanaditya](https://www.codechef.com/users/ramanaditya)
