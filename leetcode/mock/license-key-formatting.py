@@ -33,8 +33,10 @@ class Solution:
         len_str = len(new_str)
         off = len_str % K
         string = ""
+
         if off == 0:
             off = K
+
         string += new_str[:off].upper() + "-"
         i = off
         while i < len_str:
