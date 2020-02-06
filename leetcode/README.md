@@ -54,6 +54,15 @@
     | 1198. | [Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/find-smallest-common-element-in-all-rows.py) |
 
 
+  
+- ### **Bit Manipulation**
+    
+    | Sl No.| Questions | Solution |
+    | :---: | :--- | :--- |
+    | 461. | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/hamming-distance.py) |
+
+
+
 - ### **Databases**
 
     | Sl No.| Questions | Solution |
@@ -106,7 +115,7 @@
     | Sl No.| Questions | Solution |
     | :---: | :--- | :--- |
     | 482. | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/mock/license-key-formatting.py) |
-       
+
        
 - ### **Stack**
 
