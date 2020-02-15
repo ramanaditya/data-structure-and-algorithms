@@ -32,6 +32,7 @@
 #### Books
 - [CLRS](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
 - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
+- [Elements of Programming Interviews in Java](https://elementsofprogramminginterviews.com/)
 
 #### Competitive Coding
 - [Codechef](https://www.codechef.com/)
