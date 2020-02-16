@@ -145,6 +145,7 @@
     | Sl No.| Questions | Solution |
     | :---: | :--- | :--- |
     | 94. | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/binary-tree-inorder-traversal.py) |
+    | 100. | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/same-tree.py) |
     | 144. | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/binary-tree-preorder-traversal.py) |
     | 145. | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/binary-tree-postorder-traversal.py) |
 
