@@ -1,4 +1,4 @@
-'''
+"""
 ## Questions
 
 ### 2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
@@ -12,7 +12,7 @@ Example:
 Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
 Output: 7 -> 0 -> 8
 Explanation: 342 + 465 = 807.
-'''
+"""
 
 ## Solutions
 
@@ -22,9 +22,11 @@ Explanation: 342 + 465 = 807.
 #         self.val = x
 #         self.next = None
 
+
 class Solution:
     def __init__(self):
         self.head = None
+
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
         a = []
         b = []
@@ -43,7 +45,7 @@ class Solution:
         while l2:
             b.append(l2.val)
             l2 = l2.next
-        
+
         if len(a) != len(b):
             k = len(a) - len(b)
             if k > 0:
@@ -69,7 +71,7 @@ class Solution:
                 i -= 1
                 j -= 1
             else:
-                res.append(c%10)
+                res.append(c % 10)
                 carry = c // 10
                 i -= 1
                 j -= 1
@@ -84,9 +86,9 @@ class Solution:
             i -= 1
         return new_node
 
+
 # Runtime: 84 ms
 # Memory Usage: 14 MB
-
 
 
 # Definition for singly-linked list.
@@ -95,9 +97,11 @@ class Solution:
 #         self.val = x
 #         self.next = None
 
+
 class Solution:
     def __init__(self):
         self.head = None
+
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
         if not l1:
             return l2
@@ -146,9 +150,9 @@ class Solution:
         if carry > 0:
             new_node = ListNode(carry)
             l3.next = new_node
-            l3 = l3.next
         l3 = head_ref.next
         return l3
 
-# Runtime: 76 ms
-# Memory Usage: 13.9 MB
+
+# Runtime: 72 ms, faster than 50.09% of Python3 online submissions
+# Memory Usage: 12.8 MB, less than 100.00% of Python3 online submissions
