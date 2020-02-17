@@ -44,18 +44,13 @@ class Solution:
         self.ans = True
 
     def isSameTree(self, p: TreeNode, q: TreeNode) -> bool:
-        if p and q:
-            if p.val != q.val:
-                self.ans = False
-            self.isSameTree(p.left, q.left)
-            self.isSameTree(p.right, q.right)
-        elif p and not q:
-            self.ans = False
-            return self.ans
-        elif not p and q:
-            self.ans = False
-            return self.ans
-        return self.ans
+        if not p and not q:
+            return True
+        elif not p or not q:
+            return False
+        elif p.val != q.val:
+            return False
+        return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
 
 
 # Runtime: 28 ms, faster than 70.58% of Python3 online submissions
