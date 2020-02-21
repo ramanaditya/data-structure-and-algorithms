@@ -55,8 +55,11 @@ class Solution {
         }
         return 0;
     }
+}
+
+class reverseInterger{
     public static void main(String[] args){
-        Solution sol =new Solution();
+        Solution sol = new Solution();
         int x, res;
         System.out.println("Enter the value of x");
         Scanner sc = new Scanner(System.in);
@@ -67,7 +70,6 @@ class Solution {
 
     }
 }
-
 
 // Runtime: 1 ms, faster than 100.00% of Java online submissions
 // Memory Usage: 36.7 MB, less than 5.55% of Java online submissions
