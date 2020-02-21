@@ -68,6 +68,7 @@
     | Sl No.| Questions | Solution |
     | :---: | :--- | :--- |
     | 175. | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/combine-two-tables.sql) |
+    | 176. | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/second-highest-salary.sql) |
     | 595. | [Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/big-countries.sql) |
 
 
