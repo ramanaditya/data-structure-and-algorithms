@@ -5,7 +5,7 @@
 
     | Sl No.| Questions | Solution |
     | :---: | :--- | :--- |
-    | 1. | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/two-sum.py) |
+    | 1. | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/two-sum.py) \| [Java](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/two-sum.java) |
     | 4. | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/Median-of-two-sorted-arrays.py) |
     | 7. | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/reverse-integer.py) \| [Java](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/reverse-integer.java) |
     | 9. | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/palindrome-number.py) \| [C](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/palindrome-number.c) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/palindrome-number.cpp) |

@@ -69,9 +69,9 @@ class Solution {
         res = sol.reverse(x);
         System.out.println("Value of x : "+x);
         System.out.println("Reverse    : "+res);
-
+        sc.close();
     }
 }
 
 // Runtime: 1 ms, faster than 100.00% of Java online submissions
-// Memory Usage: 36.7 MB, less than 5.55% of Java online submissions
+// Memory Usage: 36.5 MB, less than 5.55% of Java online submissions
