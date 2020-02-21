@@ -27,8 +27,12 @@ Assume we are dealing with an environment which could only store integers within
 */
 
 // Solutions
+
 import java.util.Scanner;
+
 class Solution {
+    Solution(){
+    }
     public int reverse(int x) {
         int flag = 0;
         long res = 0;
@@ -55,9 +59,7 @@ class Solution {
         }
         return 0;
     }
-}
 
-class reverseInterger{
     public static void main(String[] args){
         Solution sol = new Solution();
         int x, res;
