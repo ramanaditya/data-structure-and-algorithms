@@ -69,6 +69,7 @@
     | :---: | :--- | :--- |
     | 175. | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/combine-two-tables.sql) |
     | 176. | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/second-highest-salary.sql) |
+    | 181. | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/employees-earning-more-than-their-managers.sql) |
     | 595. | [Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/big-countries.sql) |
 
 
