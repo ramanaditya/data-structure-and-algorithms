@@ -46,6 +46,6 @@
 - **Aditya Raman** : [www.ramanaditya.com](http://www.ramanaditya.com)
     - LinkedIn : [https://www.linkedin.com/in/ramanaditya/](https://www.linkedin.com/in/ramanaditya/)
     - GitHub : [https://github.com/ramanaditya](https://github.com/ramanaditya)
-    - LeetCode : [https://leetcode.com/ramanaditya/](https://leetcode.com/adityaraman/)
+    - LeetCode : [https://leetcode.com/ramanaditya/](https://leetcode.com/ramanaditya/)
     - CodeChef : [https://www.codechef.com/users/ramanaditya](https://www.codechef.com/users/ramanaditya)
     
