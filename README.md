@@ -1,4 +1,7 @@
 # DATA STRUCTURES AND ALGORITHMS
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9baa877d849545429d6888b83100799f)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ramanaditya/data-structure-and-algorithms&amp;utm_campaign=Badge_Grade)
+
 ![](images/dsa.png)
 # Contents
 
@@ -49,3 +52,5 @@
     - LeetCode : [https://leetcode.com/ramanaditya/](https://leetcode.com/ramanaditya/)
     - CodeChef : [https://www.codechef.com/users/ramanaditya](https://www.codechef.com/users/ramanaditya)
     
+
+If you like this [repository](https://github.com/ramanaditya/data-structure-and-algorithms), support it by star :star2:
