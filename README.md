@@ -63,7 +63,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/_adityaraman?style=social)](https://twitter.com/_adityaraman) 
 
 
-<a href="https://twitter.com/_adityaraman"><img src="assets/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/adityaraman6"><img src="assets/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/ramanaditya/"><img src="assets/linkedin.png" width="32px" height="32px"></a>
+<a href="https://twitter.com/_adityaraman"><img src="images/twitter.png" width="32px" height="32px"></a> 
+<a href="https://www.facebook.com/adityaraman6"><img src="images/facebook.png" width="32px" height="32px"></a> 
+<a href="https://www.linkedin.com/in/ramanaditya/"><img src="images/linkedin.png" width="32px" height="32px"></a>
+
 
 [![Relative date](https://img.shields.io/date/1542370176?color=important&label=started&logo=github)](https://github.com/ramanaditya/) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/ramanaditya/)
 
