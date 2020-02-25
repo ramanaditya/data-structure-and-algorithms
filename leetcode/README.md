@@ -53,8 +53,12 @@
     | 240. | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/search-a-2d-matrix-ii.py) |
     | 1198. | [Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/find-smallest-common-element-in-all-rows.py) |
 
+- ### **Binary Search Tree**
+    
+    | Sl No.| Questions | Solution |
+    | :---: | :--- | :--- |
+    | 1038. | Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search-tree/binary-search-tree-to-greater-sum-tree.py) |
 
-  
 - ### **Bit Manipulation**
     
     | Sl No.| Questions | Solution |
