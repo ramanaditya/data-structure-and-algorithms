@@ -1,4 +1,4 @@
-'''
+"""
 ## Questions
 
 ### 234. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
@@ -21,7 +21,7 @@ Output: true
 
 **Follow up:**
 Could you do it in O(n) time and O(1) space?
-'''
+"""
 
 
 ## Solutions
@@ -31,6 +31,7 @@ Could you do it in O(n) time and O(1) space?
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
+
 
 class Solution:
     def isPalindrome(self, head: ListNode) -> bool:
@@ -47,5 +48,44 @@ class Solution:
             j -= 1
         return True
 
+
 # Runtime: 76 ms
 # Memory Usage: 24.7 MB
+
+
+# Solution
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+
+class Solution:
+    """
+    Time Complexity: O(n)
+    Space Complexity: O(1)
+    """
+
+    def isPalindrome(self, head: ListNode) -> bool:
+        fast = slow = head
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+        temp = None
+        while slow:
+            next_node = slow.next
+            slow.next = temp
+            temp = slow
+            slow = next_node
+        while temp:
+            if temp.val != head.val:
+                return False
+            head = head.next
+            temp = temp.next
+        return True
+
+
+# Runtime: 64 ms, faster than 89.80% of Python3 online submissions
+# Memory Usage: 22.7 MB, less than 100.00% of Python3 online submissions
