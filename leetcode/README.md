@@ -107,6 +107,8 @@
     | 445. | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/add-two-numbers-ii.py) |
     | 707. | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/design-linked-list.py) |
     | 876. | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/middle-of-the-linked-list.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/middle-of-the-linked-list.cpp) |
+    | 1290. | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.py) \| [Java](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.java) |
+
 
 - ### **Minimax**
     
