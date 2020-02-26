@@ -44,7 +44,7 @@
     | 1160. | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/find-words-that-can-be-formed-by-characters.py) |
     | 1200. | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/minimum-absolute-difference.py) |
     | 1232. | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/check-if-it-is-a-straight-line.py) |
-    
+
 - ### **Binary Search**
 
     | Sl No.| Questions | Solution |
@@ -58,15 +58,13 @@
     
     | Sl No.| Questions | Solution |
     | :---: | :--- | :--- |
-    | 1038. | Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search-tree/binary-search-tree-to-greater-sum-tree.py) |
+    | 1038. | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search-tree/binary-search-tree-to-greater-sum-tree.py) |
 
 - ### **Bit Manipulation**
     
     | Sl No.| Questions | Solution |
     | :---: | :--- | :--- |
     | 461. | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/hamming-distance.py) |
-
-
 
 - ### **Databases**
 
@@ -79,23 +77,21 @@
     | 183. | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/customers-who-never-order.sql) |
     | 595. | [Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/big-countries.sql) |
 
-
 - ### **Greedy**
-
+    
     | Sl No.| Questions | Solution |
     | :---: | :--- | :--- |
     | 1196. | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/how-many-apples-can-you-put-into-the-basket.py) |
 
 - ### **Hash Table**
-
+    
     | Sl No.| Questions | Solution |
     | :---: | :--- | :--- |
     | 535. | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/encode-and-decode-tinyurl.py) |
     | 1207. | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/unique-number-of-occurrences.py) |
 
-
 - ### **Linked-List**
-
+    
     | Sl No.| Questions | Solution |
     | :---: | :--- | :--- |
     | 2. | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/add-two-numbers.py) |
@@ -115,21 +111,18 @@
     | 876. | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/middle-of-the-linked-list.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/middle-of-the-linked-list.cpp) |
     | 1290. | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.py) \| [Java](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.java) |
 
-
 - ### **Minimax**
     
     | Sl No.| Questions | Solution |
     | :---: | :--- | :--- |
     | 292. | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/minimax/nim-game.py) |
-  
-  
+
 - ### **Mock**
     
     | Sl No.| Questions | Solution |
     | :---: | :--- | :--- |
     | 482. | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/mock/license-key-formatting.py) |
 
-       
 - ### **Stack**
 
     | Sl No.| Questions | Solution |
@@ -137,7 +130,6 @@
     | 155. | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/stack/min-stack.py) |
     | 1021. | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/stack/remove-outermost-parentheses.py) |
 
-    
 - ### **String**
 
     | Sl No.| Questions | Solution |
@@ -152,7 +144,6 @@
     | 917. | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/reverse-only-letters.py) |
     | 1108. | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.cpp) |
     | 1189. | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/maximum-number-of-balloons.py) |
-    
 
 - ### **Tree**
 
@@ -164,5 +155,6 @@
     | 104. | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/maximum-depth-of-binary-tree.py) \| [C](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/maximum-depth-of-binary-tree.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/maximum-depth-of-binary-tree.cpp) \| [Java](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/maximum-depth-of-binary-tree.java) |
     | 144. | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/binary-tree-preorder-traversal.py) |
     | 145. | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/binary-tree-postorder-traversal.py) |
+    | 700. | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/search-in-a-binary-search-tree.py) |
 
 ![](../images/comp.jpeg)
