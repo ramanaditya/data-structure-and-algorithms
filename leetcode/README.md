@@ -17,6 +17,7 @@
     | 66. | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/plus-one.py) |
     | 88. | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/merge-sorted-array.py) |
     | 154. | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/find-minimum-in-rotated-sorted-array-ii.py) |
+    | 167. | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/two-sum-ii-input-array-is-sorted.py) |
     | 169. | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/majority-element.py) |
     | 189. | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/rotate-array.py) |
     | 283. | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/move-zeroes.py) |
@@ -155,6 +156,7 @@
     | 104. | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/maximum-depth-of-binary-tree.py) \| [C](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/maximum-depth-of-binary-tree.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/maximum-depth-of-binary-tree.cpp) \| [Java](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/maximum-depth-of-binary-tree.java) |
     | 144. | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/binary-tree-preorder-traversal.py) |
     | 145. | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/binary-tree-postorder-traversal.py) |
+    | 589. | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/n-ary-tree-preorder-traversal.py) |
     | 700. | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/search-in-a-binary-search-tree.py) |
 
 ![](../images/comp.jpeg)
