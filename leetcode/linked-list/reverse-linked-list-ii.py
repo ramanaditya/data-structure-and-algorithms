@@ -14,10 +14,10 @@ Output: 1->4->3->2->5->NULL
 ## Solutions
 
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
+class ListNode:
+    def __init__(self, x):
+        self.val = x
+        self.next = None
 
 
 class Solution:
@@ -25,8 +25,7 @@ class Solution:
         if not head or m > n:
             return
         count = 0
-        start_ref = start = ListNode(0)
-        head_ref = start_ref
+        head_ref = start = ListNode(0)
         mid_ref = ListNode(0)
         while count < m - 1 and head:
             start.next = head
