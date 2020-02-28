@@ -25,4 +25,4 @@
     
         | Question No | Solution |
         | :---: | :--- |
-        | 12.1-1 | [Markdown](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/CLRS/10-Elementary-Data-Structures/12-1-1.md) |
+        | 12.1-1 | [Markdown](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/CLRS/12-Binary-Search-Trees/12-1-1.md) |
