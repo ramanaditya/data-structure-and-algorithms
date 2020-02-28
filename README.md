@@ -71,4 +71,4 @@
 
 [![Relative date](https://img.shields.io/date/1542370176?color=important&label=started&logo=github)](https://github.com/ramanaditya/) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/ramanaditya/)
 
-If you like this [repository](https://github.com/ramanaditya/data-structure-and-algorithms), support it by star :star2:
+> If you like this [repository](https://github.com/ramanaditya/data-structure-and-algorithms), support it by star :star2:
