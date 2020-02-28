@@ -7,6 +7,7 @@
 
 - [Abstract Data Type](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures#abstract-data-type)
 - [Computational Complexity Analysis](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures#computational-complexity-analysis)
+- [Tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures/tree)
 
 ## Abstract Data Type
 An Abstract Data Type is an abstraction of Data Structures which provides only the interface to which a data structure must adhere to.
