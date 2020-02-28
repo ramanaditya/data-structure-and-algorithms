@@ -53,3 +53,18 @@ ORDER BY rating DESC;
 -- Runtime : 223 ms, faster than 68.89% of MySQL online submissions
 -- Memory Usage: 0B, less than 100.00% of MySQL online submissions
 -- MySQL
+
+
+-- Solution : 2
+
+-- Write your MySQL query statement below
+
+SELECT *
+FROM cinema
+WHERE (id%2 = 1 AND description NOT LIKE "boring")
+ORDER BY rating DESC;
+
+
+-- Runtime : 131 ms, faster than 94.32% of MySQL online submissions
+-- Memory Usage: 0B, less than 100.00% of MySQL online submissions
+-- MySQL
