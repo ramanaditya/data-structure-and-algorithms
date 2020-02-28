@@ -1,4 +1,4 @@
-'''
+"""
 ## Questions
 
 # 42. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
@@ -20,9 +20,10 @@ Note:
 -10000 <= A[i] <= 10000
 A is sorted in non-decreasing order.
 
-'''
+"""
 
 # Solutions
+
 
 class Solution(object):
     def trap(self, height):
@@ -35,23 +36,24 @@ class Solution(object):
         max_ = height[0]
         trap_water = 0
         for i in range(len(height)):
-            if(max_ - height[i] > 0):
-                trap_water += (max_ - height[i])
+            if max_ - height[i] > 0:
+                trap_water += max_ - height[i]
             else:
                 max_ = height[i]
         sum_ = 0
         print(trap_water)
         second_max = height[-1]
         j = len(height) - 1
-        for i in range(len(height)-1, 0, -1):
+        for i in range(j, 0, -1):
             if second_max - height[i] > 0:
-                sum_ += (max_ - second_max)
+                sum_ += max_ - second_max
             else:
                 if max_ == second_max:
                     break
                 second_max = height[i]
-                sum_ += (max_ - second_max)
+                sum_ += max_ - second_max
         return trap_water - sum_
+
 
 # Runtime: 36 ms
 # Memory Usage: 12.2 MB
