@@ -20,12 +20,13 @@ The above arrows point to positions where the corresponding bits are different.
 
 class Solution:
     def hammingDistance(self, x: int, y: int) -> int:
-        if x < y:
-            xor = y ^ x
-        else:
-            xor = x ^ y
-        a = list(bin(xor))
-        return a.count("1")
+        xor = x ^ y
+        count = 0
+        # Counting no of 1's
+        while xor:
+            xor = xor & (xor - 1)
+            count += 1
+        return count
 
 
 # Runtime: 24 ms, faster than 86.36% of Python3 online submissions

@@ -67,7 +67,7 @@
     | Sl No.| Questions | Solution |
     | :---: | :--- | :--- |
     | 461. | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/hamming-distance.py) |
-
+    | 1342. | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/number-of-steps-to-reduce-a-number-to-zero.py) |
 - ### **Databases**
 
     | Sl No.| Questions | Solution |
