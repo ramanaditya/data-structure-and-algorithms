@@ -78,7 +78,8 @@
     | 182. | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/duplicate-emails.sql) |
     | 183. | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/customers-who-never-order.sql) |
     | 595. | [Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/big-countries.sql) |
-
+    | 620. | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/not-boring-movies.sql) |
+    
 - ### **Greedy**
     
     | Sl No.| Questions | Solution |
