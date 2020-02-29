@@ -12,7 +12,45 @@ class Node:
 
 ## Traversal
 
-### 1. Inorder Traversal
+### 1. Preorder Traversal
+### a). Recursive
+```python
+res = []
+def inorderTraversal(root):
+    # Base Case
+    if not root:
+        return
+    # Recursive Case
+    else:
+        res.append(root.val)
+        inorderTraversal(root.left)
+        inorderTraversal(root.right)
+    return res
+
+# Time : O(n)
+
+```
+
+### b). Iterative
+```python
+def inorderTraversal(root):
+    stack = []
+    res = []
+    while root is not None or len(stack) > 0:
+        while root is not None:
+            stack.append(root)
+            root = root.left
+        root = stack.pop()
+        res.append(root.val)
+        root = root.right
+    return res
+
+# Time : O(n)
+
+```
+
+
+### 2. Inorder Traversal
 ### a). Recursive
 ```python
 res = []
