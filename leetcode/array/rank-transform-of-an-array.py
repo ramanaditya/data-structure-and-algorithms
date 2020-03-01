@@ -51,5 +51,5 @@ class Solution:
         return arr
 
 
-# Runtime: 384 ms, faster than 61.85% of Python3 online submissions
-# Memory Usage: 30.3 MB, less than 100.00% of Python3 online submissions
+# Runtime: 372 ms, faster than 77.68% of Python3 online submissions
+# Memory Usage: 30.2 MB, less than 100.00% of Python3 online submissions
