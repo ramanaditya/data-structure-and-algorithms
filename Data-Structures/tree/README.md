@@ -49,7 +49,6 @@ def inorderTraversal(root):
 
 ```
 
-
 ### 2. Inorder Traversal
 ### a). Recursive
 ```python
@@ -125,3 +124,4 @@ def postorderTraversal(root):
 # Time : O(n)
 
 ```
+
