@@ -37,9 +37,11 @@ class Solution:
     def is_symmetric(self, p, q):
         if not p and not q:
             return True
-        elif p and q and p.val == q.val:
-            return self.is_symmetric(p.left, q.right) and self.is_symmetric(
-                p.right, q.left
+        elif p and q:
+            return (
+                p.val == q.val
+                and self.is_symmetric(p.left, q.right)
+                and self.is_symmetric(p.right, q.left)
             )
         return False
 
@@ -53,5 +55,5 @@ class Solution:
         return self.is_symmetric(root, root)
 
 
-# Runtime: 36 ms, faster than 34.81% of Python3 online submissions
+# Runtime: 28 ms, faster than 89.63% of Python3 online submissions
 # Memory Usage: 12.9 MB, less than 100.00% of Python3 online submissions
