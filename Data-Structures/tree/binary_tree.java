@@ -1,9 +1,12 @@
+/*
+This file contains all the operations related to Binary Tree in Javas
+*/
 // Defining class for the Node
 class Node {
     int key;
     Node left, right;
 
-    // With every insertion of node left and right will be null
+    // With every insertion of node left and right will be null initially
     public Node(int item){
         key = item;
         left = right = null;
