@@ -1,11 +1,8 @@
 # Sorting
 
-| | Worst Time | Average Time | Memory |
-| --- | --- | --- | --- |
-| Bubble Sort | O(n^2) | O(n^2) | O(1) |
-
-
-- [Bubble Sort]()
+| Sl No. | Algorithm | Worst Time | Average Time | Best Time | Memory | Solution |
+| :---: | :--- | :---: | :---: | :---: | :---: | :--- |
+| 1. | Bubble Sort | O(n^2) | O(n^2) | O(n) | O(1) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/Sorting/bubble-sort.py) |
 
 
 
