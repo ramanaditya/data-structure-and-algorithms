@@ -5,17 +5,18 @@
 | 1. | Bubble Sort | O(n^2) | O(n^2) | O(n) | O(1) |
 
 ## Bubble Sort
+| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/Sorting/bubble-sort.py) |
 ```
 - Running Time : O(n^2)
 - In Place Sorting
 ```
 
 ```python
-def bubble_sort(data):
-    for i in range(len(data)):
-        for j in range(i + 1, len(data) - 1):
-            if data[j] < data[i]:
-                data[j], data[i] = data[i], data[j]
+def bubble_sort(self, data):
+    for i in range(len(data) - 1):
+        for j in range(0, len(data) - i - 1):
+            if data[j] > data[j + 1]:
+                data[j], data[j + 1] = data[j + 1], data[j]
     print(data)
 ```
 
