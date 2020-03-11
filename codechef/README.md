@@ -15,6 +15,7 @@
     | 2. | [Chef and Interesting Subsequences ](https://www.codechef.com/SEPT19B/problems/CHEFINSQ) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/chef-and-interesting-subsequences.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/chef-and-interesting-subsequences.cpp) |
     | 3. | [Chef and Good Subsequences ](https://www.codechef.com/SEPT19B/problems/GDSUB) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/chef-and-good-subsequences.py) |
     | 4. | [Weapon Value](https://www.codechef.com/NOV19B/problems/SC31) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/weapon-value.py) |
+    | 5. | [Pintu and Fruits](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/pintu-and-fruits.py) |
     
 
 - ### **Easy**
