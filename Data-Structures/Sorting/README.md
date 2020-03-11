@@ -1,5 +1,14 @@
 # Sorting
 
+| | Worst Time | Average Time | Memory |
+| --- | --- | --- | --- |
+| Bubble Sort | O(n^2) | O(n^2) | O(1) |
+
+
+- [Bubble Sort]()
+
+
+
 ## Heapsort
 
 ```
