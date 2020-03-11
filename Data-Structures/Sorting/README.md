@@ -1,22 +1,50 @@
 # Sorting
 
-| Sl No. | Algorithm | Worst Time | Average Time | Best Time | Memory |
-| :---: | :--- | :---: | :---: | :---: | :---: |
-| 1. | Bubble Sort | O(n^2) | O(n^2) | O(n) | O(1) |
+| Sl No. | Algorithm | Worst Time | Average Time | Best Time | Memory | Stability |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
+| 1. | Bubble Sort | O(n^2) | O(n^2) | O(n) | O(1) | Stable |
+| 2. | Selection Sort | O(n^2) | O(n^2) | O(n^2) | O(1) | Unstable |
+
+> **Stable** : Relative position of equal elements after sorting remains same.
+>
+> **In-place Sorting** : Sorting Input elements without having backup, thus unsorted form is lost.
+
 
 ## Bubble Sort
 | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/Sorting/bubble-sort.py) |
 ```
 - Running Time : O(n^2)
+- Memory : O(1)
 - In Place Sorting
+- Stable Sorting
 ```
 
 ```python
-def bubble_sort(self, data):
+def bubble_sort(data):
     for i in range(len(data) - 1):
         for j in range(0, len(data) - i - 1):
             if data[j] > data[j + 1]:
                 data[j], data[j + 1] = data[j + 1], data[j]
+    print(data)
+```
+
+## Selection Sort
+| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/Sorting/selection-sort.py) |
+```
+- Running Time : O(n^2)
+- Memory : O(1)
+- In Place Sorting
+- Unstable Sorting
+```
+
+```python
+def selection_sort(data):
+    for i in range(len(data)):
+        min_index = i
+        for j in range(i + 1, len(data)):
+            if data[min_index] > data[j]:
+                min_index = j
+        data[i], data[min_index] = data[min_index], data[i]
     print(data)
 ```
 
