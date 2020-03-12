@@ -4,6 +4,7 @@
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: |
 | 1. | Bubble Sort | O(n^2) | O(n^2) | O(n) | O(1) | Stable |
 | 2. | Selection Sort | O(n^2) | O(n^2) | O(n^2) | O(1) | Unstable |
+| 3. | Insertion Sort | O(n^2) | O(n^2) | O(n^2) | O(1) | Stable |
 
 > **Stable** : Relative position of equal elements after sorting remains same.
 >
@@ -45,6 +46,27 @@ def selection_sort(data):
             if data[min_index] > data[j]:
                 min_index = j
         data[i], data[min_index] = data[min_index], data[i]
+    print(data)
+```
+
+## Insertion Sort
+| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/Sorting/insertion-sort.py) |
+```
+- Running Time : O(n^2)
+- Memory : O(1)
+- In Place Sorting
+- Stable Sorting
+```
+
+```python
+def insertion_sort(self, data):
+    for i in range(1, len(data)):
+        key = data[i]
+        j = i - 1
+        while j >= 0 and key < data[j]:
+            data[j + 1] = data[j]
+            j -= 1
+        data[j + 1] = key
     print(data)
 ```
 
