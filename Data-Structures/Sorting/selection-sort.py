@@ -1,8 +1,9 @@
 """
-Bubble Sort:
+Selection Sort:
 Runtime:
     Worst: O(n^2)
     Average: O(n^2)
+    Best: O(n^2)
 Memory: O(1)
 """
 import sys
