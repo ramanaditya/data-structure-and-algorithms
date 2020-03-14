@@ -74,6 +74,49 @@ def insertion_sort(self, data):
 > Insertion sort is used when number of elements is small. 
 > It can also be useful when input array is almost sorted, only few elements are misplaced in complete big array.
 
+## Merge Sort
+| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/Sorting/merge-sort.py) |
+```
+- Running Time : O(n log(n) )
+- Memory : O(1)
+- In Place Sorting
+- Stable Sorting
+```
+
+```python
+def merge_sort(data):
+    if len(data) > 1:
+        mid = len(data) // 2
+        left = data[:mid]
+        right = data[mid:]
+
+        merge_sort(left)
+        merge_sort(right)
+
+        i = 0
+        j = 0
+        k = 0
+
+        while i < len(left) and j < len(right):
+            if left[i] < right[j]:
+                data[k] = left[i]
+                i += 1
+            else:
+                data[k] = right[j]
+                j += 1
+            k += 1
+
+        while i < len(left):
+            data[k] = left[i]
+            i += 1
+            k += 1
+
+        while j < len(right):
+            data[k] = right[j]
+            j += 1
+            k += 1
+```
+
 ## Heapsort
 
 ```
