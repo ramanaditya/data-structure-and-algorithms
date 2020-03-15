@@ -119,6 +119,41 @@ def merge_sort(data):
 
 ```
 
+## Quick Sort
+| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/Sorting/quick-sort.py) |
+```
+- Running Time : O( n^2 )
+- Memory : O( log(n) )
+- In Place Sorting
+- Unstable Sorting
+```
+
+#### Algorithm for partition
+```python
+def partition(data, low, high):
+    pivot = data[high]
+    i = low  # To keep the index of element smaller than pivot
+    j = low  # To keep the index of element greater than pivot
+
+    while j < high:
+        if data[j] < pivot:
+            data[j], data[i] = data[i], data[j]
+            i += 1
+        j += 1
+
+    data[i], data[high] = data[high], data[i]
+
+    return i
+```
+#### Recursive Algorithm for quicksort
+```python
+def quick_sort(data, low, high):
+    if low < high:
+        pivot = partition(data, low, high)
+        quick_sort(data, low, pivot - 1)
+        quick_sort(data, pivot + 1, high)
+```
+
 ## Heapsort
 
 ```

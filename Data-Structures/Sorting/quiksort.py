@@ -17,14 +17,18 @@ class QuickSort:
         pivot = data[high]
         i = low  # To keep the index of element smaller than pivot
         j = low  # To keep the index of element greater than pivot
+
         while j < high:
             if data[j] < pivot:
                 data[j], data[i] = data[i], data[j]
                 i += 1
             j += 1
+
         data[i], data[high] = data[high], data[i]
+
         print("pivot", pivot, end=" -> ")
         print(data)
+
         return i
 
     def quick_sort(self, data, low, high):
