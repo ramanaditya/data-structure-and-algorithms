@@ -6,6 +6,11 @@
 - [Data Structures](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures)
     - [Abstract Data Type](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures#abstract-data-type)
     - [Computational Complexity Analysis](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures#computational-complexity-analysis)
+    - [Array](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures/array)
+    - [Linked List](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures/linked-list)
+    - [Tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures/tree)
+    - [Sorting](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures/Sorting)
+    
 - Solution of Books
     - [CLRS](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/CLRS)
     - [Cracking the Coding Interview](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/cracking-the-coding-interview)
