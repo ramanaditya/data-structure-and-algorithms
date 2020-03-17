@@ -165,3 +165,4 @@
     | 590. | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/n-ary-tree-postorder-traversal.py) |
     | 617. | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/merge-two-binary-trees.py) |
     | 700. | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/search-in-a-binary-search-tree.py) |
+    | 1022. | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/sum-of-root-to-leaf-binary-numbers.py) |

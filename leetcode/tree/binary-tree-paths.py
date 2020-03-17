@@ -40,17 +40,13 @@ class Solution:
     def binaryTreePaths(self, root: TreeNode, level=0) -> List[str]:
         if root is None:
             return
-        if len(self.temp) > level:
-            self.temp[level] = root.val
-            self.temp = self.temp[: level + 1]
-        else:
-            self.temp.append(root.val)
+        while len(self.temp) > level:
+            self.temp.pop()
+        self.temp.append(root.val)
         level += 1
         if not root.left and not root.right:
-            string = ""
-            for i in self.temp:
-                string += str(i) + "->"
-            self.path.append(string[:-2])
+            string = "->".join([str(i) for i in self.temp])
+            self.path.append(string)
         else:
             self.binaryTreePaths(root.left, level)
             self.binaryTreePaths(root.right, level)
