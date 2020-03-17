@@ -42,6 +42,8 @@ Note: The merging process must start from the root nodes of both trees.
 #         self.left = None
 #         self.right = None
 
+# With extra space
+
 
 class Solution:
     def mergeTrees(self, t1: TreeNode, t2: TreeNode):
@@ -60,3 +62,24 @@ class Solution:
 
 # Runtime: 96 ms, faster than 34.60% of Python3 online submissions
 # Memory Usage: 14.1 MB, less than 20.00%  of Python3 online submissions
+
+# Withput Extra Space
+
+
+class Solution:
+    def mergeTrees(self, t1: TreeNode, t2: TreeNode) -> TreeNode:
+        if not t1 and not t2:
+            return None
+        elif t1 and t2:
+            t1.val += t2.val
+            t1.left = self.mergeTrees(t1.left, t2.left)
+            t1.right = self.mergeTrees(t1.right, t2.right)
+            return t1
+        elif t1:
+            return t1
+        elif t2:
+            return t2
+
+
+# Runtime: 92 ms, faster than 57.86% of Python3 online submissions
+# Memory Usage: 13.9 MB, less than 48.57%  of Python3 online submissions
