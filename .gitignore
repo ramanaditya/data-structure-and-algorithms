@@ -2,3 +2,4 @@ a.out
 .history
 .idea/
 *.class
+venv/
