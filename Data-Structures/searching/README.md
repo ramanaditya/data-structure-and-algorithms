@@ -5,7 +5,7 @@
 | 1. | Linear Search | O(n) | O(n) | O(1) | O(1)|
 
 ## Linear Search
-
+| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/searching/linear_search.py) |
 ```text
 - TIme Complexity
     - Worst Case : O(n)
