@@ -1,9 +1,26 @@
+"""
+==============
+Linear Search
+==============
+
+TIme Complexity
+    Worst Case : O(n)
+    Average Case : O(n)
+    Best Case : O(1)
+Space Complexity : O(1)
+
+------------
+This is a searching algorithm that iterates over each element to find the key element
+If key is found it will return the position
+else -1
+------------
+
+"""
 import sys
 
 
 class LinearSearch:
     def linear_search(self, array, key):
-        print(array)
         for i in range(len(array)):
             if array[i] == key:
                 return i
@@ -24,6 +41,6 @@ if __name__ == "__main__":
     key = data[-1]
     found = LinearSearch().linear_search(array, key)
     if found == -1:
-        print("Unable to find key")
+        print("Key not found")
     else:
         print("Key is found at position : {}".format(found))
