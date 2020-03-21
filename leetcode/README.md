@@ -46,6 +46,7 @@
     | 1160. | <span style="color:green">Easy</span> | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/find-words-that-can-be-formed-by-characters.py) |
     | 1200. | <span style="color:green">Easy</span> | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/minimum-absolute-difference.py) |
     | 1232. | <span style="color:green">Easy</span> | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/check-if-it-is-a-straight-line.py) |
+    | 1385 | <span style="color:green">Easy</span> | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/find-the-distance-value-between-two-arrays.py) |
 
 - ### **Binary Search**
 
