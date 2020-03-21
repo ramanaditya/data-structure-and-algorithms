@@ -69,6 +69,12 @@
     | 461. | <span style="color:green">Easy</span> | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/hamming-distance.py) |
     | 1342. | <span style="color:green">Easy</span> | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/number-of-steps-to-reduce-a-number-to-zero.py) |
 
+- ### **Contests**
+    
+    | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :--- | :--- |
+    | 1385. | <span style="color:green">Easy</span> | Find the Distance Value Between Two Arrays) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/contests/find-the-distance-value-between-two-arrays.py) |
+
 - ### **Databases**
 
     | Sl No.| Level | Questions | Solution |
