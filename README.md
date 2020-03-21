@@ -26,6 +26,7 @@
         - [binary-search](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#binary-search)
         - [binary-search-tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#binary-search-tree)
         - [bit-manipulation](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#bit-manipulation)
+        - [Contests](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#contests)
         - [databases](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#databases)
         - [greedy](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#greedy)
         - [hash-table](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#hash-table)

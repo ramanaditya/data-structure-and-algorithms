@@ -74,7 +74,7 @@
     
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
-    | 1385. | <span style="color:green">Easy</span> | Find the Distance Value Between Two Arrays) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/contests/find-the-distance-value-between-two-arrays.py) |
+    | 1385. | <span style="color:green">Easy</span> | Find the Distance Value Between Two Arrays | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/contests/find-the-distance-value-between-two-arrays.py) |
 
 - ### **Databases**
 
