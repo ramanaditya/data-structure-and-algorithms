@@ -29,19 +29,19 @@ The value of each element in nums will be in the range [-9999, 9999].
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         low = 0
-        high = len(nums)
+        high = len(nums) - 1
         if target < nums[0] or target > nums[-1]:
             return -1
-        while low < high:
+        while low <= high:
             mid = (low + high) // 2
             if nums[mid] == target:
                 return mid
             elif nums[mid] < target:
                 low = mid + 1
             else:
-                high = mid
+                high = mid - 1
         return -1
 
 
-# Runtime: 268 ms, faster than 36.39% of Python3 online submissions
-# Memory Usage: 14.1 MB, less than 54.84% of Python3 online submissions
+# Runtime: 264 ms, faster than 53.96% of Python3 online submissions
+# Memory Usage: 14.1 MB, less than 80.65% of Python3 online submissions
