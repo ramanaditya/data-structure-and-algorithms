@@ -24,7 +24,9 @@ class BinarySearch:
 if __name__ == "__main__":
     print(
         """
+    ==============
     Binary Search
+    ==============
     
     Input Format
     first line contains space separated sorted elements eg., 1 2 3 4 5 6 7 8 9
