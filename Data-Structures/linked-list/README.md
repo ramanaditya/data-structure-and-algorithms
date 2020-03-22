@@ -18,7 +18,7 @@ A linked-list is a sequential list of nodes that hold data which point to other 
 
 ### Complexity
 | | Singly Linked List | Doubly Linked List |
-| --- | --- | --- |
+| --- | :---: | :---: |
 | Search | O(n) | O(n) |
 | Insert at Head | O(1) | O(1) |
 | Insert at Tail | O(1) | O(1) |
@@ -27,6 +27,7 @@ A linked-list is a sequential list of nodes that hold data which point to other 
 | Remove in middle | O(n) | O(n) |
 
 ## Node
+
 ### Defining the node for a Linked List
 ```python
 def Node(data):
@@ -35,9 +36,11 @@ def Node(data):
 ```
 
 ## Operations
+
 > ```head = None``` # Initialize
 
 ### Search
+
 ```python
 def search(data):
     """To search the given data in the Linked list and find it's first occurrence, if it is not present return -1"""
@@ -52,6 +55,7 @@ def search(data):
 ```
 
 ### Insert
+
 #### Insert at head
 ```python
 def insert_at_head(data):

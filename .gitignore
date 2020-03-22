@@ -3,3 +3,5 @@ a.out
 .idea/
 *.class
 venv/
+*.pdf
+__pycache__/
