@@ -10,17 +10,20 @@
     - [Linked List](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures/linked-list)
     - [Tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures/tree)
     - [Sorting](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures/Sorting)
-    - [Searching]()
+    - [Searching](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures/searching)
     
 - Solution of Books
     - [CLRS](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/CLRS)
     - [Cracking the Coding Interview](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/cracking-the-coding-interview)
+    - [Elements of Programming Interviews]()
 
 - Competitive Coding
     - [Codechef](https://github.com/ramanaditya/data-structure-and-algorithms#abstract-data-type)
         - [cookoff](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/codechef#cook-off-2)
         - [easy](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/codechef#long-challenge)
         - [long-challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/codechef#long-challenge)
+    - [HackerEarth](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/hackerearth)
+        - [Circuits](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/hackerearth/circuits)
     - [Leetcode](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode)
         - [array](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#array)
         - [binary-search](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#binary-search)
@@ -46,6 +49,9 @@
 
 #### Competitive Coding
 - [Codechef](https://www.codechef.com/)
+- [Codeforces](https://codeforces.com/)
+- [HackerEarth](https://www.hackerearth.com/challenges/)
+- [HackerRank](https://www.hackerrank.com/)
 - [Leetcode](https://leetcode.com/)
 
 #### Online Study Materials
@@ -58,5 +64,7 @@
     - GitHub : [https://github.com/ramanaditya](https://github.com/ramanaditya)
     - LeetCode : [https://leetcode.com/ramanaditya/](https://leetcode.com/ramanaditya/)
     - CodeChef : [https://www.codechef.com/users/ramanaditya](https://www.codechef.com/users/ramanaditya)
+    - HackerEarth : [https://www.hackerearth.com/@ramanaditya](https://www.hackerearth.com/@ramanaditya)
+    - HackerRank : [https://www.hackerrank.com/ramanaditya](https://www.hackerrank.com/ramanaditya)
 
 > If you like this [repository](https://github.com/ramanaditya/data-structure-and-algorithms), support it by star :star2:
