@@ -2,6 +2,15 @@
 ==============
 Binary Search
 ==============
+
+TIme Complexity
+    Worst Case : O( log(n) )
+    Average Case : O( log(n) )
+    Best Case : O(1)
+Space Complexity : O(1)
+
+Binary Search is a sorting algorithm in which we select the mid element and compare key to the mid element if key is
+smaller then we search before mid else after mid. If key is found we return the index of key else -1.
 """
 import sys
 
@@ -11,7 +20,7 @@ class BinarySearch:
         low = 0
         high = len(array) - 1
         while low <= high:
-            mid = (low + high) // 2
+            mid = low + (high - low) // 2
             if array[mid] == key:
                 return mid
             elif array[mid] < key:
