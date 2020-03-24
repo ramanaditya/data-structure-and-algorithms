@@ -24,6 +24,7 @@
         - [long-challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/codechef#long-challenge)
     - [HackerEarth](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/hackerearth)
         - [Circuits](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/hackerearth/circuits)
+        - [CodeArena](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/hackerearth/codearena)
     - [Leetcode](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode)
         - [array](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#array)
         - [binary-search](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#binary-search)
