@@ -48,4 +48,4 @@ class Solution:
 
 
 # Runtime: 32 ms, faster than 73.53% of Python3 online submissions
-# Memory Usage: 13.1 MB, less than 100.00% of Python3 online submissions
+# Memory Usage: 13 MB, less than 100.00% of Python3 online submissions

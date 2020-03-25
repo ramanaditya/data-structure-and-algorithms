@@ -21,6 +21,7 @@ return its depth = 3.
 
 
 # Definition for a binary tree node.
+
 # class TreeNode:
 #     def __init__(self, x):
 #         self.val = x
@@ -29,9 +30,7 @@ return its depth = 3.
 
 
 class Solution:
-    def __init__(self):
-        self.left = 0
-        self.right = 0
+    """Bottom up Approach : Recursive"""
 
     def maxDepth(self, root: TreeNode) -> int:
         if not root:
@@ -42,3 +41,48 @@ class Solution:
 
 # Runtime: 40 ms, faster than 68.76% of Python3 online submissions
 # Memory Usage: 14.2 MB, less than 100.00% of Python3 online submissions
+
+
+class Solution:
+    """Top Down Approach : Recursive"""
+
+    def __init__(self):
+        self.count = 0
+
+    def maxDepth(self, root: TreeNode) -> int:
+        def helper(root, depth):
+            if not root:
+                return
+            if not root.left and not root.right:
+                self.count = max(self.count, depth)
+            helper(root.left, depth + 1)
+            helper(root.right, depth + 1)
+
+        helper(root, 1)
+        return self.count
+
+
+# Runtime: 40 ms, faster than 67.72% of Python3 online submissions
+# Memory Usage: 15 MB, less than 90.62% of Python3 online submissions
+
+
+class Solution:
+    """DFS : Iterative"""
+
+    def maxDepth(self, root: TreeNode) -> int:
+        if not root:
+            return 0
+        stack = [(root, 1)]
+        res = 0
+        while stack:
+            root, depth = stack.pop()
+            if root.left:
+                stack.append((root.left, depth + 1))
+            if root.right:
+                stack.append((root.right, depth + 1))
+            res = max(res, depth)
+        return res
+
+
+# Runtime: 36 ms, faster than 88.83% of Python3 online submissions
+# Memory Usage: 14.1 MB, less than 100.00% of Python3 online submissions
