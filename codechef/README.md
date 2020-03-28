@@ -1,13 +1,6 @@
 # Codechef
 ![](../images/codechef.png)
 
-- ### **Cook Off 2**
-
-    | Sl No.| Questions | Solution |
-    | :---: | :--- | :--- |
-    | 1. | [Playing with Matches](https://www.codechef.com/COOK110B/problems/MATCHES) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/cookoff/playing-with-matches.py) |
-    | 2. | [Find Your Gift](https://www.codechef.com/COOK116B/problems/GIFTSRC) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/cookoff/find-your-gift.py) |
-
 - ### **Long Challenge**
 
     | Sl No.| Questions | Solution |
@@ -18,7 +11,18 @@
     | 4. | [Weapon Value](https://www.codechef.com/NOV19B/problems/SC31) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/weapon-value.py) |
     | 5. | [Pintu and Fruits](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/pintu-and-fruits.py) |
     
+- ### **Cook Off**
 
+    | Sl No.| Questions | Solution |
+    | :---: | :--- | :--- |
+    | 1. | [Playing with Matches](https://www.codechef.com/COOK110B/problems/MATCHES) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/cookoff/playing-with-matches.py) |
+    | 2. | [Find Your Gift](https://www.codechef.com/COOK116B/problems/GIFTSRC) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/cookoff/find-your-gift.py) |
+
+- ### **Lunchtime**
+
+    | Sl No.| Questions | Solution |
+    | :---: | :--- | :--- |
+    
 - ### **Easy**
 
     | Sl No.| Questions | Solution |
