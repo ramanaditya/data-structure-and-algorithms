@@ -47,6 +47,7 @@
     | 1200. | <span style="color:green">Easy</span> | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/minimum-absolute-difference.py) |
     | 1232. | <span style="color:green">Easy</span> | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/check-if-it-is-a-straight-line.py) |
     | 1385. | <span style="color:green">Easy</span> | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/find-the-distance-value-between-two-arrays.py) |
+    | 1394. | <span style="color:green">Easy</span> | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/find-lucky-integer-in-an-array.py) |
     | 1395. | <span style="color:orange">Medium</span> | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/count-number-of-teams.py) |
 
 - ### **Binary Search**
