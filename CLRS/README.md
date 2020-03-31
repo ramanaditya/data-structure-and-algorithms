@@ -27,3 +27,10 @@
         | :---: | :--- |
         | 12.1-1 | [Markdown](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/CLRS/12-Binary-Search-Trees/12-1-1.md) |
         | 12.1-3 | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/CLRS/12-Binary-Search-Trees/12-1-3.py) |
+
+- VI. Graph Algorithms
+    - [22. Elementary Graph Algorithms](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/CLRS/22-Elementary-Graph-Algorithms/)
+        | Question No | Solution |
+        | :---: | :--- |
+        | 22.1-1 | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/CLRS/22-Elementary-Graph-Algorithms/22-1-1.py) |
+        
