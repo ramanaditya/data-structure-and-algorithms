@@ -1,6 +1,3 @@
-import sys
-
-
 def dfs(at, graph, visited):
     if visited[at]:
         return
