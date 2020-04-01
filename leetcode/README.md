@@ -71,6 +71,7 @@
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
     | 136. | <span style="color:green">Easy</span> | [Single Number](https://leetcode.com/problems/single-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/single-number.py) |
+    | 338. | <span style="color:orange">Medium</span> | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/counting-bits.py) |
     | 461. | <span style="color:green">Easy</span> | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/hamming-distance.py) |
     | 1342. | <span style="color:green">Easy</span> | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/number-of-steps-to-reduce-a-number-to-zero.py) |
 
