@@ -117,4 +117,6 @@ if __name__ == "__main__":
             op.display()
         elif choice == 9:
             quit()
+        else:
+            print("Invalid Choice")
         print("-------------------")
