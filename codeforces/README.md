@@ -13,4 +13,10 @@
 
     | Contest | Question | Solution |
     | :--- | :--- | :--- |
+    | 631. | [A. Dreamoon and Ranking Collection](https://codeforces.com/contest/1330/problem/A) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codeforces/div-2/dreamoon_and_ranking_collection.py) |
+
+- ### **Div 3**
+
+    | Contest | Question | Solution |
+    | :--- | :--- | :--- |
     | 629. | [A. Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codeforces/div-3/divisibility-problem.py) |
