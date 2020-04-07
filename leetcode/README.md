@@ -95,6 +95,13 @@
     | 595. | <span style="color:green">Easy</span> | [Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/big-countries.sql) |
     | 620. | <span style="color:green">Easy</span> | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/not-boring-movies.sql) |
     
+- ### **Geometry**
+    
+    | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :--- | :--- |
+    | 1401. | <span style="color:orange">Medium</span> | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/geometry/circle-and-rectangle-overlapping.py) |
+ 
+
 - ### **Greedy**
     
     | Sl No.| Level | Questions | Solution |
