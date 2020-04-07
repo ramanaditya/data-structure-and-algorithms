@@ -109,6 +109,7 @@
     | 535. | <span style="color:orange">Medium</span> | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/encode-and-decode-tinyurl.py) |
     | 1207. | <span style="color:green">Easy</span> | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/unique-number-of-occurrences.py) |
     | | | Counting Elements | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/counting-elements.py) |
+
 - ### **Linked-List**
     
     | Sl No.| Level | Questions | Solution |
@@ -156,6 +157,7 @@
 
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
+    | 49. | <span style="color:orange">Medium</span> | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/group-anagrams.py) |
     | 125. | <span style="color:green">Easy</span> | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-palindrome.py) |
     | 151. | <span style="color:orange">Medium</span> | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/reverse-words-in-a-string.py) |
     | 242. | <span style="color:green">Easy</span> | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-anagram.py) |
