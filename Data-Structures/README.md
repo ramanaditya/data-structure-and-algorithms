@@ -7,6 +7,7 @@
 
 - [Abstract Data Type](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures#abstract-data-type)
 - [Computational Complexity Analysis](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures#computational-complexity-analysis)
+- [Array](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures/array)
 - [Tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures/tree)
 
 ## Abstract Data Type
