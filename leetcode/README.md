@@ -98,6 +98,7 @@
     
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
+    | 122. | <span style="color:green">Easy</span> | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/best-time-to-buy-and-sell-stock-ii.py) |
     | 1196. | <span style="color:green">Easy</span> | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/how-many-apples-can-you-put-into-the-basket.py) |
 
 - ### **Hash Table**
