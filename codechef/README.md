@@ -11,6 +11,7 @@
     | Nov '2019 | [Weapon Value](https://www.codechef.com/NOV19B/problems/SC31) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/weapon-value.py) |
     | Mar '2020 | [Pintu and Fruits](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/pintu-and-fruits.py) |
     | Apr '2020 | [COVID Pandemic and Long Queue](https://www.codechef.com/APRIL20B/problems/COVIDLQ) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/COVIDLQ.py) |
+    | Apr '2020 | [Sell All the Cars ](https://www.codechef.com/APRIL20B/problems/CARSELL) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/CARSELL.py) |
     
 - ### **Cook Off**
 
