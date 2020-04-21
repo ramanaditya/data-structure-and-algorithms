@@ -64,7 +64,8 @@
     | 367. | <span style="color:green">Easy</span> | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/valid-perfect-square.py) |
     | 704. | <span style="color:green">Easy</span> |[Binary Search](https://leetcode.com/problems/binary-search/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/binary-search.py) |
     | 1198. | <span style="color:orange">Medium</span> | [Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/find-smallest-common-element-in-all-rows.py) |
-
+    | | | Leftmost Column with at Least a One | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/leftmost-column-with-atleast-a-one.py) |
+    
 - ### **Binary Search Tree**
     
     | Sl No.| Level | Questions | Solution |
