@@ -15,14 +15,15 @@
     
 - ### **Cook Off**
 
-    | Sl No.| Questions | Solution |
+    | Month 'Year | Questions | Solution |
     | :---: | :--- | :--- |
-    | 1. | [Playing with Matches](https://www.codechef.com/COOK110B/problems/MATCHES) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/cookoff/playing-with-matches.py) |
-    | 2. | [Find Your Gift](https://www.codechef.com/COOK116B/problems/GIFTSRC) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/cookoff/find-your-gift.py) |
-
+    | Sep '2019 | [Playing with Matches](https://www.codechef.com/COOK110B/problems/MATCHES) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/cookoff/playing-with-matches.py) |
+    | Mar '2020 | [Find Your Gift](https://www.codechef.com/COOK116B/problems/GIFTSRC) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/cookoff/find-your-gift.py) |
+    | Apr '2020 | [Lift Requests](https://www.codechef.com/COOK117B/problems/LIFTME) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/cookoff/LIFTME.py) |
+    
 - ### **Lunchtime**
 
-    | Sl No.| Questions | Solution |
+    | Month 'Year | Questions | Solution |
     | :---: | :--- | :--- |
     
 - ### **Easy**
