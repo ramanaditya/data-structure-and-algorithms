@@ -67,5 +67,5 @@ def complement(n: int) -> int:
     xor with a binary number 1...1(m times), where m is the bit length 
     of the number will give complement of that number
     """
-    return (n << (2 ** n.bit_length()) - 1) ^ n
+    return ((1 << n.bit_length()) - 1) ^ n
 ```

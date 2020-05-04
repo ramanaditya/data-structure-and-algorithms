@@ -1,61 +1,49 @@
 """
-Question : Medium
-[338. Counting Bits](https://leetcode.com/problems/counting-bits/)
-Given a non negative integer number num. For every numbers i in the range 0 ≤ i ≤ num calculate the number of 1's in
-their binary representation and return them as an array.
+Question : EASY
+[476. Number Complement](https://leetcode.com/problems/number-complement/)
+Given a positive integer, output its complement number. The complement strategy is to flip the bits of its binary
+representation.
 
 Example 1:
-Input: 2
-Output: [0,1,1]
+Input: 5
+Output: 2
+Explanation: The binary representation of 5 is 101 (no leading zero bits), and its complement is 010.
+So you need to output 2.
 
 Example 2:
-Input: 5
-Output: [0,1,1,2,1,2]
+Input: 1
+Output: 0
+Explanation: The binary representation of 1 is 1(no leading zero bits), and its complement is 0.So you need to output 0.
 
-Follow up:
-- It is very easy to come up with a solution with run time O(n*sizeof(integer)). But can you do it in linear time O(n)
-/possibly in a single pass?
-- Space complexity should be O(n).
-- Can you do it like a boss? Do it without using any builtin function like __builtin_popcount in c++ or in any other language.
+Note:
+The given integer is guaranteed to fit within the range of a 32-bit signed integer.
+You could assume no leading zero bit in the integer’s binary representation.
+This question is the same as 1009: https://leetcode.com/problems/complement-of-base-10-integer/
 """
 
 
 class Solution:
-    def countBits(self, num: int) -> List[int]:
-        a = []
-        for i in range(num + 1):
-            a.append(bin(i)[2:].count("1"))
-        return a
+    def findComplement(self, num: int) -> int:
+        binary = bin(num)[2:]
+        comp = ""
 
-
-# Runtime: 100 ms, faster than 29.50% of Python3 online submissions
-# Memory Usage: 20.8 MB, less than 5.00% of Python3 online submissions
-
-
-class Solution:
-    def countBits(self, num: int) -> List[int]:
-        a = [0]
-        for i in range(1, num + 1):
-            if i & 1:
-                a.append(a[i >> 1] + 1)
+        for i in binary:
+            if i == "0":
+                comp += "1"
             else:
-                a.append(a[i >> 1])
-        return a
+                comp += "0"
+
+        return int(comp, 2)
 
 
-# Runtime: 80 ms, faster than 83.42% of Python3 online submissions
-# Memory Usage: 20.5 MB, less than 5.00% of Python3 online submissions
+# Runtime: 24 ms, faster than 89.09% of Python3 online submissions
+# Memory Usage: 13.8 MB, less than 10.00% of Python3 online submissions
 
 
 class Solution:
-    """Condensed form of the above solution"""
-
-    def countBits(self, num: int) -> List[int]:
-        res = [0]
-        for i in range(1, num + 1):
-            res.append(res[i >> 1] + 1 if i & 1 else res[i >> 1])
-        return res
+    def findComplement(self, num: int) -> int:
+        return ((1 << num.bit_length()) - 1) ^ num
 
 
-# Runtime: 80 ms, faster than 83.42% of Python3 online submissions
-# Memory Usage: 20.5 MB, less than 5.00% of Python3 online submissions
+# Runtime: 20 ms, faster than 96.98% of Python3 online submissions
+# Memory Usage: 13.6 MB, less than 10.00% of Python3 online submissions
