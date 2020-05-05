@@ -86,7 +86,7 @@
     | 367. | <span style="color:green">Easy</span> | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/valid-perfect-square.py) |
     | 704. | <span style="color:green">Easy</span> |[Binary Search](https://leetcode.com/problems/binary-search/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/binary-search.py) |
     | 1198. | <span style="color:orange">Medium</span> | [Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/find-smallest-common-element-in-all-rows.py) |
-    | | | Leftmost Column with at Least a One | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/leftmost-column-with-atleast-a-one.py) |
+    | 1428. | <span style="color:orange">Medium</span> | [Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/leftmost-column-with-atleast-a-one.py) |
     
 - ### **Binary Search Tree**
     
@@ -108,7 +108,7 @@
     
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
-    | 1385. | <span style="color:green">Easy</span> | Find the Distance Value Between Two Arrays | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/contests/find-the-distance-value-between-two-arrays.py) |
+    | 1385. | <span style="color:green">Easy</span> | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/contests/find-the-distance-value-between-two-arrays.py) |
 
 - ### **Databases**
 
@@ -212,7 +212,7 @@
     | 925. | <span style="color:green">Easy</span> | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/long-pressed-name.py) |
     | 1108. | <span style="color:green">Easy</span> | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.cpp) |
     | 1189. | <span style="color:green">Easy</span> | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/maximum-number-of-balloons.py) |
-    | | | Perform String Shifts | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/perform-string-shifts.py) |
+    | 1427. | <span style="color:green">Easy</span> | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/perform-string-shifts.py) |
     
 - ### **Tree**
 
