@@ -48,7 +48,7 @@
         - [stack](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#stack)
         - [string](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#string)
         - [tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#tree)
-        - [May '20 Challenge]((https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#May-LeetCoding-Challenge--2020))
+        - [May '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#May-LeetCoding-Challenge--2020)
         
 ## Resources
 
