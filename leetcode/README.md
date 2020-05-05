@@ -5,6 +5,22 @@
 | Sl No. | Name | Link |
 | :---: | :--- | :--- |
 | 1. | Array | [Search Here](#Array) |
+| 2. | Binary Search | [Search Here](#Binary Search) |
+| 3. | Binary Search Tree | [Search Here](#Binary Search Tree) |
+| 4. | Bit Manipulation | [Search Here](#Bit Manipulation) |
+| 5. | Contests | [Search Here](#Contests) |
+| 6. | Databases | [Search Here](#Databases) |
+| 7. | Geometry | [Search Here](#Geometry) |
+| 8. | Greedy | [Search Here](#Greedy) |
+| 9. | Hash Table | [Search Here](#Hash Table) |
+| 10. | Linked-List | [Search Here](#Linked-List) |
+| 11. | Minimax | [Search Here](#Minimax) |
+| 12. | Mock | [Search Here](#Mock) |
+| 13. | Stack | [Search Here](#Stack) |
+| 14. | String | [Search Here](#String) |
+| 15. | Tree | [Search Here](#Tree) |
+| 16. | May '20 Challenge | [Search Here](#May LeetCoding Challenge : 2020) |
+
 
 - ### **Array**
 
@@ -58,7 +74,7 @@
     | 1394. | <span style="color:green">Easy</span> | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/find-lucky-integer-in-an-array.py) |
     | 1395. | <span style="color:orange">Medium</span> | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/count-number-of-teams.py) |
     | 1399. | <span style="color:green">Easy</span> | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/count-largest-group.py) |
-    
+  
 - ### **Binary Search**
 
     | Sl No.| Level | Questions | Solution |

@@ -1,47 +1,62 @@
 """
 Easy
 ## Questions
-### [704. Binary Search](https://leetcode.com/problems/binary-search/)
+### [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
 
-Given a sorted (in ascending order) integer array nums of n elements and a target value, write a function to search
-target in nums. If target exists, then return its index, otherwise return -1.
+You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of
+your product fails the quality check. Since each version is developed based on the previous version, all the versions
+after a bad version are also bad.
 
-Example 1:
-Input: nums = [-1,0,3,5,9,12], target = 9
-Output: 4
-Explanation: 9 exists in nums and its index is 4
+Suppose you have n versions [1, 2, ..., n] and you want to find out the first bad one, which causes all the following
+ones to be bad.
 
-Example 2:
-Input: nums = [-1,0,3,5,9,12], target = 2
-Output: -1
-Explanation: 2 does not exist in nums so return -1
+You are given an API bool isBadVersion(version) which will return whether version is bad. Implement a function to find
+the first bad version. You should minimize the number of calls to the API.
 
+Example:
+Given n = 5, and version = 4 is the first bad version.
 
-Note:
-You may assume that all elements in nums are unique.
-n will be in the range [1, 10000].
-The value of each element in nums will be in the range [-9999, 9999].
+call isBadVersion(3) -> false
+call isBadVersion(5) -> true
+call isBadVersion(4) -> true
+
+Then 4 is the first bad version. .
 """
 
 ## Solutions
 
 
+# The isBadVersion API is already defined for you.
+# @param version, an integer
+# @return a bool
+# def isBadVersion(version):
+
+
 class Solution:
-    def search(self, nums: List[int], target: int) -> int:
-        low = 0
-        high = len(nums) - 1
-        if target < nums[0] or target > nums[-1]:
-            return -1
+    def binary_search(self, low, high):
         while low <= high:
-            mid = (low + high) // 2
-            if nums[mid] == target:
+            mid = low + (high - low) // 2
+            get_ele = isBadVersion(mid)
+
+            if get_ele == True and (mid == 1 or isBadVersion(mid - 1) == False):
                 return mid
-            elif nums[mid] < target:
+            elif get_ele == False:
                 low = mid + 1
             else:
                 high = mid - 1
+
         return -1
 
+    def firstBadVersion(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        if n <= 0:
+            return -1
+        else:
+            return self.binary_search(1, n)
 
-# Runtime: 264 ms, faster than 53.96% of Python3 online submissions
-# Memory Usage: 14.1 MB, less than 80.65% of Python3 online submissions
+
+# Runtime: 24 ms, faster than 90.24% of Python3 online submissions
+# Memory Usage: 13.9 MB, less than 6.90% of Python3 online submissions
