@@ -124,7 +124,7 @@
     | 535. | <span style="color:orange">Medium</span> | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/encode-and-decode-tinyurl.py) |
     | 1207. | <span style="color:green">Easy</span> | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/unique-number-of-occurrences.py) |
     | 1365. | <span style="color:green">Easy</span> | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/how-many-numbers-are-smaller-than-the-current-number.py) |
-    | | | Counting Elements | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/counting-elements.py) |
+    | 1426. | <span style="color:green">Easy</span> | [Counting Elements](https://leetcode.com/problems/counting-elements/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/counting-elements.py) |
 
 - ### **Linked-List**
     
@@ -215,3 +215,16 @@
     | 872. | <span style="color:green">Easy</span> | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/leaf-similar-trees.py) |
     | 938. | <span style="color:green">Easy</span> | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/range-sum-of-bst.py) |
     | 1022. | <span style="color:green">Easy</span> | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/sum-of-root-to-leaf-binary-numbers.py) |
+   
+    
+- ### **May LeetCoding Challenge : 2020**
+
+    | Day | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :---: | :--- | :--- |
+    | 2. | 771. | <span style="color:green">Easy</span> | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/jewels-and-stones.py) |
+    | 3. | 383. | <span style="color:green">Easy</span> | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/ransom-note.py) |
+    | 4. | 476. | <span style="color:green">Easy</span> | [Number Complement](https://leetcode.com/problems/number-complement/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/number-complement.py) |
+    | 5. | 387. | <span style="color:green">Easy</span> | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/first-unique-character-in-a-string.py) |
+    
+    
+    
