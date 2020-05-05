@@ -5,21 +5,21 @@
 | Sl No. | Name | Link |
 | :---: | :--- | :--- |
 | 1. | Array | [Search Here](#Array) |
-| 2. | Binary Search | [Search Here](#Binary Search) |
-| 3. | Binary Search Tree | [Search Here](#Binary Search Tree) |
-| 4. | Bit Manipulation | [Search Here](#Bit Manipulation) |
+| 2. | Binary Search | [Search Here](#Binary-Search) |
+| 3. | Binary Search Tree | [Search Here](#Binary-Search-Tree) |
+| 4. | Bit Manipulation | [Search Here](#Bit-Manipulation) |
 | 5. | Contests | [Search Here](#Contests) |
 | 6. | Databases | [Search Here](#Databases) |
 | 7. | Geometry | [Search Here](#Geometry) |
 | 8. | Greedy | [Search Here](#Greedy) |
-| 9. | Hash Table | [Search Here](#Hash Table) |
+| 9. | Hash Table | [Search Here](#Hash-Table) |
 | 10. | Linked-List | [Search Here](#Linked-List) |
 | 11. | Minimax | [Search Here](#Minimax) |
 | 12. | Mock | [Search Here](#Mock) |
 | 13. | Stack | [Search Here](#Stack) |
 | 14. | String | [Search Here](#String) |
 | 15. | Tree | [Search Here](#Tree) |
-| 16. | May '20 Challenge | [Search Here](#May LeetCoding Challenge : 2020) |
+| 16. | May '20 Challenge | [Search Here](#May-LeetCoding-Challenge--2020) |
 
 
 - ### **Array**
