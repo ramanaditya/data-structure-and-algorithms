@@ -12,6 +12,7 @@
     | Mar '2020 | [Pintu and Fruits](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/pintu-and-fruits.py) |
     | Apr '2020 | [COVID Pandemic and Long Queue](https://www.codechef.com/APRIL20B/problems/COVIDLQ) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/COVIDLQ.py) |
     | Apr '2020 | [Sell All the Cars ](https://www.codechef.com/APRIL20B/problems/CARSELL) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/CARSELL.py) |
+    | May '2020 | [Coronavirus Spread](https://www.codechef.com/MAY20B/problems/COVID19) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/COVID19.py) |
     
 - ### **Cook Off**
 
