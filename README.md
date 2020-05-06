@@ -4,7 +4,7 @@
 
 # Contents
 
-- [Data Structures](Data-Structures)
+- ## [Data Structures](Data-Structures)
     - [Abstract Data Type](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures#abstract-data-type)
     - [Computational Complexity Analysis](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures#computational-complexity-analysis)
     - [Array](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures/array)
@@ -35,27 +35,24 @@
         | [April Fools Day](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/codeforces#april-fools-day) | |
         
     - #### [HackerEarth](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/hackerearth)
-        - [Circuits](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/hackerearth#circuits)
-        - [CodeArena](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/hackerearth#codearena)
+        
+        | [Circuits](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/hackerearth#circuits) | [CodeArena](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/hackerearth#codearena) |
+        | :---: | :---: |
+        
     - #### [HackerRank](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/hackerrank)
         - [Contest : MentorshipKarona Webinar by Vinit Shahdeo](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/hackerrank#contest--mentorshipkarona-webinar-by-vinit-shahdeo)
     - #### [Leetcode](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode)
-        - [array](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#array)
-        - [binary-search](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#binary-search)
-        - [binary-search-tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#binary-search-tree)
-        - [bit-manipulation](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#bit-manipulation)
-        - [Contests](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#contests)
-        - [databases](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#databases)
-        - [Geometry](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#Geomtry)
-        - [greedy](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#greedy)
-        - [hash-table](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#hash-table)
-        - [linked-list](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#linked-list)
-        - [minimax](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#minimax)
-        - [mock](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#mock)
-        - [stack](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#stack)
-        - [string](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#string)
-        - [tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#tree)
-        - [May '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#May-LeetCoding-Challenge--2020)
+        
+        | | |
+        | :--- | :--- |
+        | [array](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#array) | [hash-table](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#hash-table) |
+        | [binary-search](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#binary-search) | [linked-list](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#linked-list) |
+        | [binary-search-tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#binary-search-tree) | [minimax](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#minimax) |
+        | [bit-manipulation](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#bit-manipulation) | [mock](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#mock) |
+        | [Contests](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#contests) | [stack](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#stack) |
+        | [databases](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#databases) | [string](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#string) |
+        | [Geometry](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#Geomtry) | [tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#tree) |
+        | [greedy](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#greedy) | [May '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#May-LeetCoding-Challenge--2020) |
         
 ## Resources
 
