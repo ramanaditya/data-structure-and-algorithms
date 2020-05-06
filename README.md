@@ -52,7 +52,8 @@
         | [Contests](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#contests) | [stack](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#stack) |
         | [databases](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#databases) | [string](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#string) |
         | [Geometry](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#Geomtry) | [tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#tree) |
-        | [greedy](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#greedy) | [May '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#May-LeetCoding-Challenge--2020) |
+        | [greedy](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#greedy) | |
+        | [April '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#April-LeetCoding-Challenge--2020) | [May '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#May-LeetCoding-Challenge--2020) |
         
 ## Resources
 

@@ -134,6 +134,7 @@
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
     | 122. | <span style="color:green">Easy</span> | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/best-time-to-buy-and-sell-stock-ii.py) |
+    | 1046. | <span style="color:green">Easy</span> | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/last-stone-weight.py) |
     | 1196. | <span style="color:green">Easy</span> | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/how-many-apples-can-you-put-into-the-basket.py) |
 
 - ### **Hash Table**
@@ -238,6 +239,26 @@
     | 938. | <span style="color:green">Easy</span> | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/range-sum-of-bst.py) |
     | 1022. | <span style="color:green">Easy</span> | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/sum-of-root-to-leaf-binary-numbers.py) |
    
+   
+- ### **April LeetCoding Challenge : 2020**
+
+    | Day | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :---: | :--- | :--- |
+    | 1 | 136. | <span style="color:green">Easy</span> | [Single Number](https://leetcode.com/problems/single-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/single-number.py) |
+    | 2 | 202. | <span style="color:green">Easy</span> | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/happy-number.py) |
+    | 3 | 53. | <span style="color:green">Easy</span> | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/maximum-subarray.py) |
+    | 4 | 283. | <span style="color:green">Easy</span> | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/move-zeroes.py) |
+    | 5 | 122. | <span style="color:green">Easy</span> | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/best-time-to-buy-and-sell-stock-ii.py) |
+    | 6 | 49. | <span style="color:orange">Medium</span> | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/group-anagrams.py) |
+    | 7 | 1426. | <span style="color:green">Easy</span> | [Counting Elements](https://leetcode.com/problems/counting-elements/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/counting-elements.py) | 
+    | 8 | 876. | <span style="color:green">Easy</span> | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/middle-of-the-linked-list.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/middle-of-the-linked-list.cpp) |
+    | 9 | 844. | <span style="color:green">Easy</span> | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/backspace-string-compare.py) |
+    | 10 | 155. | <span style="color:green">Easy</span> | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/stack/min-stack.py) |
+    | 11 | 543. | <span style="color:green">Easy</span> | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/diameter-of-binary-tree.py) |
+    | 12 | 1046. | <span style="color:green">Easy</span> | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/last-stone-weight.py) |
+    | 13 | 525. | <span style="color:orange">Medium</span> | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | |
+    | 14 | 1427. | <span style="color:green">Easy</span> | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/perform-string-shifts.py) |
+    
     
 - ### **May LeetCoding Challenge : 2020**
 
