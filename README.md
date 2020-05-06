@@ -23,8 +23,8 @@
 
 - ## Competitive Coding
     - #### [Codechef](https://github.com/ramanaditya/data-structure-and-algorithms#abstract-data-type)
-      
-      | [Cookoff]((https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/codechef#cook-off-2)) | [Long Challenge]((https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/codechef#long-challenge)) |
+     
+      | [Cookoff](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/codechef#cook-off-2) | [Long Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/codechef#long-challenge) |
       | :---: | :---: |
       | [Easy]((https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/codechef#long-challenge)) | |
      
