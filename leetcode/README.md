@@ -19,7 +19,8 @@
 | 13.   | Stack                | [Search Here](#Stack) |
 | 14.   | String               | [Search Here](#String) |
 | 15.   | Tree                 | [Search Here](#Tree) |
-| 16.   | May '20 Challenge    | [Search Here](#May-LeetCoding-Challenge--2020) |
+| 16.   | April '20 Challenge    | [Search Here](#April-LeetCoding-Challenge--2020) |
+| 17.   | May '20 Challenge    | [Search Here](#May-LeetCoding-Challenge--2020) |
 
 
 - ### **Array**
