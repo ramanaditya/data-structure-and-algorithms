@@ -2,7 +2,4 @@
 ![](../images/algo.png)
 
 ## Array
-
-| Sl No. | Algorithm | Language |
-| :--- | :--- | :--- |
-| 1. | Boyer Moore Majority Vote Algorithm | [Python]() |
+- [Boyer Moore Majority Vote Algorithm](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/algorithms/array/boyer-moore-majority-vote-algorithm.md)
