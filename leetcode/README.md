@@ -248,6 +248,7 @@
     | 3 | 383. | <span style="color:green">Easy</span> | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/ransom-note.py) |
     | 4 | 476. | <span style="color:green">Easy</span> | [Number Complement](https://leetcode.com/problems/number-complement/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/number-complement.py) |
     | 5 | 387. | <span style="color:green">Easy</span> | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/first-unique-character-in-a-string.py) |
+    | 6 | 169. | <span style="color:green">Easy</span> | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/majority-element.py) |
     
     
     
