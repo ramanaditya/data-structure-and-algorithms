@@ -19,7 +19,7 @@
 | 13.   | Stack                | [Search Here](#Stack) |
 | 14.   | String               | [Search Here](#String) |
 | 15.   | Tree                 | [Search Here](#Tree) |
-| 16.   | April '20 Challenge    | [Search Here](#April-LeetCoding-Challenge--2020) |
+| 16.   | April '20 Challenge  | [Search Here](#April-LeetCoding-Challenge--2020) |
 | 17.   | May '20 Challenge    | [Search Here](#May-LeetCoding-Challenge--2020) |
 
 
@@ -37,6 +37,7 @@
     | 35. | <span style="color:green">Easy</span> | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/search-insert-position.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/search-insert-position.cpp) |
     | 42. | <span style="color:red">Hard</span> | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/trapping-rain-water.py) |
     | 53. | <span style="color:green">Easy</span> | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/maximum-subarray.py) |
+    | 64. | <span style="color:orange">Medium</span> | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/minimum-path-sum.py) |
     | 66. | <span style="color:green">Easy</span> | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/plus-one.py) |
     | 88. | <span style="color:green">Easy</span> | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/merge-sorted-array.py) |
     | 121. | <span style="color:green">Easy</span> | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/best-time-to-buy-and-sell-stock.py) |
@@ -259,6 +260,11 @@
     | 12 | 1046. | <span style="color:green">Easy</span> | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/last-stone-weight.py) |
     | 13 | 525. | <span style="color:orange">Medium</span> | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | |
     | 14 | 1427. | <span style="color:green">Easy</span> | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/perform-string-shifts.py) |
+    | 15 | 238. | <span style="color:orange">Medium</span> | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/product-of-array-except-self.py) |
+    | 16 | 678. | <span style="color:orange">Medium</span> | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-parenthesis-string.py) |
+    | 17 | 200. | <span style="color:orange">Medium</span> | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | |
+    | 18 | 64. | <span style="color:orange">Medium</span> | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/minimum-path-sum.py) |
+    
     
     
 - ### **May LeetCoding Challenge : 2020**
