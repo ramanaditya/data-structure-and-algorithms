@@ -15,12 +15,12 @@
 - Show Enthusiasm
     - Demonstrate convincing enthusiasm for the company and the position.
     - Ask Questions
-    - Be Motivates
+    - Be Motivated
 
 ## Common Mistakes
 - Lack of Professionalism
     - Never be late for an interview
-    - How you Dress.
+    - How you Dress matters.
     - How you present yourself.
     - Job Etiquette like saying Thank You.
 - Lack of Preparation
