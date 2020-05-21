@@ -1,5 +1,5 @@
 # Data Structures
-![](../images/ds.jpeg)
+![](../images/ds.png)
 
 #### *A data structure is a way of organizing data so that it can be used effectively.*
 
