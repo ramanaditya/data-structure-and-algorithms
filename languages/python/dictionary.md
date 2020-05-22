@@ -1,4 +1,4 @@
-# Some useful piece of Code during programming
+# Dictionary: Some useful piece of Code during programming
 
 ### Counting the occurrence of elements
 ```python
