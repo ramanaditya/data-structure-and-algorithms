@@ -3,7 +3,7 @@
 
 ## Description 
 To find the majority element from the sequence, majority means the element should be present more than n/2
-times the total length of the sequence.
+times the total length, n,  of the sequence.
 
 If the no such element occurs, then algorithm can return any arbitrary element, that is not guaranteed that this element
 will be the mode or occurred maximum number of times.

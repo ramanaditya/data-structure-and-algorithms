@@ -1,4 +1,4 @@
-'''
+"""
 ## Question
 ### 999. [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)
 On an 8 x 8 chessboard, there is one white rook.  There also may be empty squares, white bishops, and black pawns.  These are given as characters 'R', '.', 'B', and 'p' respectively. Uppercase characters represent white pieces, and lowercase characters represent black pieces.
@@ -29,9 +29,10 @@ Note:
 - board.length == board[i].length == 8
 - board[i][j] is either 'R', '.', 'B', or 'p'
 - There is exactly one cell with board[i][j] == 'R'
-'''
+"""
 
 ## Solutions
+
 
 class Solution:
     def numRookCaptures(self, board: List[List[str]]) -> int:
@@ -48,38 +49,39 @@ class Solution:
         count = 0
         i -= 1
         while i >= 0:
-            if board[i][n] == 'p':
+            if board[i][n] == "p":
                 count += 1
                 break
-            elif board[i][n] == 'B':
+            elif board[i][n] == "B":
                 break
             i -= 1
-        i = m+1
+        i = m + 1
         while i < len(board[0]):
-            if board[i][n] == 'p':
+            if board[i][n] == "p":
                 count += 1
                 break
-            elif board[i][n] == 'B':
+            elif board[i][n] == "B":
                 break
             i += 1
         j -= 1
         while j >= 0:
-            if board[m][j] == 'p':
+            if board[m][j] == "p":
                 count += 1
                 break
-            elif board[m][j] == 'B':
+            elif board[m][j] == "B":
                 break
             j -= 1
         j = n + 1
         while j < len(board):
-            if board[m][j] == 'p':
+            if board[m][j] == "p":
                 count += 1
                 break
-            elif board[m][j] == 'B':
+            elif board[m][j] == "B":
                 break
             j += 1
-            
+
         return count
+
 
 # Runtime: 36 ms
 # Memory Usage: 13.9 MB

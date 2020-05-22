@@ -19,6 +19,10 @@ Networking is interacting with others to exchange information and develop profes
         - Be appreciative
         - Note next steps
     - Medium Connections
+    - Low Connections
+    - Targeting Specific Employers: Reach out to the employees of your target companies.
+    - How to Contact: Don't spam out for messages just for networking favour.
+    - Following Up: Thank them for even their smallest help. Thank them when you get a job.
     
     
  
