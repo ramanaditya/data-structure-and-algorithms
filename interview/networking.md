@@ -24,5 +24,18 @@ Networking is interacting with others to exchange information and develop profes
     - How to Contact: Don't spam out for messages just for networking favour.
     - Following Up: Thank them for even their smallest help. Thank them when you get a job.
     
-    
- 
+- LinkedIn
+    - Setting up profile: put clear, professional photo.
+    - About Section: Write a nice summary without using generic words like experienced, learning etc. Update it regularly.
+    - How to be found: 
+        - Change the public url to your name or username.
+        - Adapt Public Visibility
+        - Use Keywords
+        - Complete your Contact Details
+        - List only relevant Skills
+    - LinkedIn Contacts:
+        - Your Contacts
+        - Don't Spam
+        - Informational Interviews
+    - Finding Jobs 
+    - Jumping Gatekeepers
