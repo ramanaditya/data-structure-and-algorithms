@@ -147,6 +147,7 @@
     | 202. | <span style="color:green">Easy</span> | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/happy-number.py) |
     | 347. | <span style="color:orange">Medium</span> | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/top-k-frequent-elements.py) |
     | 387. | <span style="color:green">Easy</span> | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/first-unique-character-in-a-string.py) |
+    | 451. | <span style="color:orange">Medium</span> | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/sort-characters-by-frequency.py) |
     | 535. | <span style="color:orange">Medium</span> | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/encode-and-decode-tinyurl.py) |
     | 1207. | <span style="color:green">Easy</span> | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/unique-number-of-occurrences.py) |
     | 1365. | <span style="color:green">Easy</span> | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/how-many-numbers-are-smaller-than-the-current-number.py) |
@@ -262,7 +263,7 @@
     | 13 | 525. | <span style="color:orange">Medium</span> | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | |
     | 14 | 1427. | <span style="color:green">Easy</span> | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/perform-string-shifts.py) |
     | 15 | 238. | <span style="color:orange">Medium</span> | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/product-of-array-except-self.py) |
-    | 16 | 678. | <span style="color:orange">Medium</span> | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-parenthesis-string.py) |
+    | 16 | 678. | <span style="color:orange">Medium</span> | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-parenthesis-string.py) |
     | 17 | 200. | <span style="color:orange">Medium</span> | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | |
     | 18 | 64. | <span style="color:orange">Medium</span> | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/minimum-path-sum.py) |
     
@@ -284,4 +285,13 @@
     | 10 | | | | |
     | 11 | | | | |
     | 12 | 540. | <span style="color:orange">Medium</span> | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/single-element-in-a-sorted-array.py) |
-    
+    | 13 | | | | |
+    | 14 | | | | |
+    | 15 | | | | |
+    | 16 | | | | |
+    | 17 | | | | |
+    | 18 | | | | |
+    | 19 | | | | |
+    | 20 | | | | |
+    | 21 | | | | |
+    | 22 | 451. | <span style="color:orange">Medium</span> | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/sort-characters-by-frequency.py) |
