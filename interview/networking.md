@@ -39,3 +39,12 @@ Networking is interacting with others to exchange information and develop profes
         - Informational Interviews
     - Finding Jobs 
     - Jumping Gatekeepers
+    
+- Keep a clean Web Presence
+    - Don't use bad spelling or grammars.
+    - Personal Website
+    - GitHub
+        - Fill out your profile
+        - Be mindful about pinned repository
+        - Cleaned up your starred repository
+        - Include an informative readme

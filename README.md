@@ -1,6 +1,16 @@
-# DATA STRUCTURES AND ALGORITHMS
-
 ![](images/dsa.png)
+
+![image](https://img.shields.io/badge/code%20style-black-000000.svg)
+[![GitHub license](https://img.shields.io/github/license/ramanaditya/data-structure-and-algorithms.svg?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/ramanaditya/data-structure-and-algorithms.svg?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/stargazers) 
+[![GitHub forks](https://img.shields.io/github/forks/ramanaditya/data-structure-and-algorithms.svg?logo=github&color=teal)](https://github.com/ramanaditya/data-structure-and-algorithms/network/members) 
+[![GitHub top language](https://img.shields.io/github/languages/top/ramanaditya/data-structure-and-algorithms?color=blue&logo=python)](https://github.com/ramanaditya/data-structure-and-algorithms/)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/) 
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ramanaditya/data-structure-and-algorithms?color=bluevoilet&logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/commits/) 
+[![GitHub repo size](https://img.shields.io/github/repo-size/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/)
+[![GitHub issues](https://img.shields.io/github/issues/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/issues) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/pulls) 
+[![GitHub last commit](https://img.shields.io/github/last-commit/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/)
 
 # Contents
 
@@ -16,10 +26,17 @@
 - ## [Algorithms](algorithms)
     - [Boyer Moore Majority Vote Algorithm](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/algorithms/array/boyer-moore-majority-vote-algorithm.md)
 
+- ## [Interview Preparation](interview)
+    - [Interview Preparation](./interview/README.md)
+    - [Networking](./interview/networking.md)
+
 - ## Solution of Books
     - [CLRS](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/CLRS)
     - [Cracking the Coding Interview](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/cracking-the-coding-interview)
     - [Elements of Programming Interviews]()
+
+- ## [Programming Languages](./languages)
+    - [Python](./languages/python)
 
 - ## Competitive Coding
     - #### [Codechef](https://github.com/ramanaditya/data-structure-and-algorithms#abstract-data-type)
