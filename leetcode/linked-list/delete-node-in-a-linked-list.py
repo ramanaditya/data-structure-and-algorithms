@@ -32,7 +32,7 @@ Note:
 
 '''
 
-## Solutions
+# Solution
 
 # Definition for singly-linked list.
 # class ListNode:
@@ -40,19 +40,42 @@ Note:
 #         self.val = x
 #         self.next = None
 
+
 class Solution:
     def deleteNode(self, node):
         """
         :type node: ListNode
         :rtype: void Do not return anything, modify node in-place instead.
         """
-        if node is None:
-            return
-        else:
-            temp = node.next
-            node.val = temp.val
-            node.next = temp.next
-            temp = None
+        temp = node.next
+        node.val = temp.val
+        node.next = temp.next
+        temp = None
 
 # Runtime: 40 ms
 # Memory Usage: 14 MB
+
+# Solution
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+
+class Solution:
+    def deleteNode(self , node):
+        """
+        :type node: ListNode
+        :rtype: void Do not return anything, modify node in-place instead.
+        """
+        while node.next.next:
+            node.val = node.next.val
+            node = node.next
+
+        node.val = node.next.val
+        node.next = None
+
+# Runtime: 28 ms, faster than 98.78% of Python3 online submissions
+# Memory Usage: 14.3 MB, less than 9.38% of Python3 online submissions

@@ -302,3 +302,6 @@
     | Day | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :---: | :--- | :--- |
     | 1 | 226. | <span style="color:green">Easy</span> | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/invert-binary-tree.py) |
+    | 2 | 237. | <span style="color:green">Easy</span> | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/delete-node-in-a-linked-list.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/delete-node-in-a-linked-list.cpp) |
+    
+    
