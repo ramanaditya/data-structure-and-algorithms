@@ -295,3 +295,10 @@
     | 20 | | | | |
     | 21 | | | | |
     | 22 | 451. | <span style="color:orange">Medium</span> | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/sort-characters-by-frequency.py) |
+    
+    
+- ### **June LeetCoding Challenge : 2020**
+
+    | Day | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :---: | :--- | :--- |
+    | 1 | 226. | <span style="color:green">Easy</span> | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/invert-binary-tree.py) |
