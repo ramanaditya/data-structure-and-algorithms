@@ -138,6 +138,7 @@
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
     | 122. | <span style="color:green">Easy</span> | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/best-time-to-buy-and-sell-stock-ii.py) |
+    | 1029. | <span style="color:green">Easy</span> | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/two-city-scheduling.py) |
     | 1046. | <span style="color:green">Easy</span> | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/last-stone-weight.py) |
     | 1196. | <span style="color:green">Easy</span> | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/how-many-apples-can-you-put-into-the-basket.py) |
 
@@ -304,5 +305,5 @@
     | :---: | :---: | :---: | :--- | :--- |
     | 1 | 226. | <span style="color:green">Easy</span> | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/invert-binary-tree.py) |
     | 2 | 237. | <span style="color:green">Easy</span> | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/delete-node-in-a-linked-list.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/delete-node-in-a-linked-list.cpp) |
-    
+    | 3 | 1029. | <span style="color:green">Easy</span> | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/two-city-scheduling.py) | 
     
