@@ -29,3 +29,12 @@ class Solution:
 
 # Runtime: 32 ms, faster than 60.00% of Python3 online submissions
 # Memory Usage: 14 MB, less than 11.42% of Python3 online submissions
+
+
+class Solution:
+    def isPowerOfTwo(self, n: int) -> bool:
+        return False if n < 0 else bin(n)[2:].count("1") == 1
+   
+
+# Runtime: 32 ms, faster than 60.00% of Python3 online submissions
+# Memory Usage: 13.8 MB, less than 51.79% of Python3 online submissions
