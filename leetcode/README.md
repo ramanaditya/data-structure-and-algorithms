@@ -104,6 +104,7 @@
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
     | 136. | <span style="color:green">Easy</span> | [Single Number](https://leetcode.com/problems/single-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/single-number.py) |
+    | 231. | <span style="color:green">Easy</span> | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/power-of-two.py) |
     | 338. | <span style="color:orange">Medium</span> | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/counting-bits.py) |
     | 461. | <span style="color:green">Easy</span> | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/hamming-distance.py) |
     | 476. | <span style="color:green">Easy</span> | [Number Complement](https://leetcode.com/problems/number-complement/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/number-complement.py) |
@@ -309,3 +310,4 @@
     | 3 | 1029. | <span style="color:green">Easy</span> | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/two-city-scheduling.py) | 
     | 4 | 344. | <span style="color:green">Easy</span> | [Revese String](https://leetcode.com/problems/reverse-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/reverse-string.py) |
     | 5 | 528. | <span style="color:orange">Medium</span> | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/random-pick-with-weight.py) |
+    | 9 | 231. | <span style="color:green">Easy</span> | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/power-of-two.py) |
