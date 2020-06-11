@@ -299,7 +299,6 @@
     | 16 | | | | |
     | 17 | | | | |
     | 18 | | | | |
-    | 19 | | | | |
     | 22 | 451. | <span style="color:orange">Medium</span> | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/sort-characters-by-frequency.py) |
     
     
