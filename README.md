@@ -6,7 +6,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/ramanaditya/data-structure-and-algorithms.svg?logo=github&color=teal)](https://github.com/ramanaditya/data-structure-and-algorithms/network/members) 
 [![GitHub top language](https://img.shields.io/github/languages/top/ramanaditya/data-structure-and-algorithms?color=blue&logo=python)](https://github.com/ramanaditya/data-structure-and-algorithms/)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/) 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ramanaditya/data-structure-and-algorithms?color=bluevoilet&logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/commits/) 
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ramanaditya/data-structure-and-algorithms?color=blue&logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/commits/) 
 [![GitHub repo size](https://img.shields.io/github/repo-size/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/)
 [![GitHub issues](https://img.shields.io/github/issues/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/issues) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/pulls) 
