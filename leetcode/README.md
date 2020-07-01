@@ -21,6 +21,8 @@
 | 15.   | Tree                 | [Search Here](#Tree) |
 | 16.   | April '20 Challenge  | [Search Here](#April-LeetCoding-Challenge--2020) |
 | 17.   | May '20 Challenge    | [Search Here](#May-LeetCoding-Challenge--2020) |
+| 16.   | June '20 Challenge   | [Search Here](#June-LeetCoding-Challenge--2020) |
+| 17.   | July '20 Challenge   | [Search Here](#July-LeetCoding-Challenge--2020) |
 
 
 - ### **Array**
@@ -87,6 +89,7 @@
     | 240. | <span style="color:orange">Medium</span> | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/search-a-2d-matrix-ii.py) |
     | 278. | <span style="color:green">Easy</span> | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/first-bad-version.py) |
     | 367. | <span style="color:green">Easy</span> | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/valid-perfect-square.py) |
+    | 441. | <span style="color:green">Easy</span> | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/arranging-coins.py) |
     | 528. | <span style="color:orange">Medium</span> | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/random-pick-with-weight.py) |
     | 540. | <span style="color:orange">Medium</span> | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/single-element-in-a-sorted-array.py) |
     | 704. | <span style="color:green">Easy</span> |[Binary Search](https://leetcode.com/problems/binary-search/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/binary-search.py) |
@@ -311,3 +314,9 @@
     | 4 | 344. | <span style="color:green">Easy</span> | [Revese String](https://leetcode.com/problems/reverse-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/reverse-string.py) |
     | 5 | 528. | <span style="color:orange">Medium</span> | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/random-pick-with-weight.py) |
     | 9 | 231. | <span style="color:green">Easy</span> | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/power-of-two.py) |
+
+- ### **July LeetCoding Challenge : 2020**
+
+    | Day | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :---: | :--- | :--- |
+    | 1 | 441. | <span style="color:green">Easy</span> | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/arranging-coins.py) |
