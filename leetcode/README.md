@@ -309,3 +309,4 @@
     | Day | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :---: | :--- | :--- |
     | 1 | 441. | <span style="color:green">Easy</span> | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/arranging-coins.py) |
+    | 6 | 66. | <span style="color:green">Easy</span> | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/plus-one.py) |
