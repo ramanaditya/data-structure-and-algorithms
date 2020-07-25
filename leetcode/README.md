@@ -130,7 +130,9 @@
     | 183. | <span style="color:green">Easy</span> | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/customers-who-never-order.sql) |
     | 196. | <span style="color:green">Easy</span> | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/delete-duplicate-emails.sql) |
     | 595. | <span style="color:green">Easy</span> | [Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/big-countries.sql) |
+    | 596. | <span style="color:green">Easy</span> | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/classes-more-than-5-students.sql) |
     | 620. | <span style="color:green">Easy</span> | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/not-boring-movies.sql) |
+    | 627. | <span style="color:green">Easy</span> | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/swap-salary.sql) |
     
 - ### **Geometry**
     
