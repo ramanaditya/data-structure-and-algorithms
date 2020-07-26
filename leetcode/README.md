@@ -14,15 +14,16 @@
 | 8.    | Greedy               | [Search Here](#Greedy) |
 | 9.    | Hash Table           | [Search Here](#Hash-Table) |
 | 10.   | Linked-List          | [Search Here](#Linked-List) |
-| 11.   | Minimax              | [Search Here](#Minimax) |
-| 12.   | Mock                 | [Search Here](#Mock) |
-| 13.   | Stack                | [Search Here](#Stack) |
-| 14.   | String               | [Search Here](#String) |
-| 15.   | Tree                 | [Search Here](#Tree) |
-| 16.   | April '20 Challenge  | [Search Here](#April-LeetCoding-Challenge--2020) |
-| 17.   | May '20 Challenge    | [Search Here](#May-LeetCoding-Challenge--2020) |
-| 16.   | June '20 Challenge   | [Search Here](#June-LeetCoding-Challenge--2020) |
-| 17.   | July '20 Challenge   | [Search Here](#July-LeetCoding-Challenge--2020) |
+| 11.   | Math                 | [Search Here](#Math) |
+| 12.   | Minimax              | [Search Here](#Minimax) |
+| 13.   | Mock                 | [Search Here](#Mock) |
+| 14.   | Stack                | [Search Here](#Stack) |
+| 15.   | String               | [Search Here](#String) |
+| 16.   | Tree                 | [Search Here](#Tree) |
+| 17.   | April '20 Challenge  | [Search Here](#April-LeetCoding-Challenge--2020) |
+| 18.   | May '20 Challenge    | [Search Here](#May-LeetCoding-Challenge--2020) |
+| 19.   | June '20 Challenge   | [Search Here](#June-LeetCoding-Challenge--2020) |
+| 20.   | July '20 Challenge   | [Search Here](#July-LeetCoding-Challenge--2020) |
 
 
 - ### **Array**
