@@ -188,6 +188,13 @@
     | 876. | <span style="color:green">Easy</span> | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/middle-of-the-linked-list.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/middle-of-the-linked-list.cpp) |
     | 1290. | <span style="color:green">Easy</span> | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.py) \| [Java](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.java) |
 
+- ### **Math**
+    
+    | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :--- | :--- |
+    | 258. | <span style="color:green">Easy</span> | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/add-digits.py) |
+ 
+
 - ### **Minimax**
     
     | Sl No.| Level | Questions | Solution |
@@ -313,3 +320,4 @@
     | :---: | :---: | :---: | :--- | :--- |
     | 1 | 441. | <span style="color:green">Easy</span> | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/arranging-coins.py) |
     | 6 | 66. | <span style="color:green">Easy</span> | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/plus-one.py) |
+    | 26 | 258. | <span style="color:green">Easy</span> | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/add-digits.py) |
