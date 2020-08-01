@@ -24,6 +24,7 @@
 | 18.   | May '20 Challenge    | [Search Here](#May-LeetCoding-Challenge--2020) |
 | 19.   | June '20 Challenge   | [Search Here](#June-LeetCoding-Challenge--2020) |
 | 20.   | July '20 Challenge   | [Search Here](#July-LeetCoding-Challenge--2020) |
+| 21.   | August '20 Challenge   | [Search Here](#August-LeetCoding-Challenge--2020) |
 
 
 - ### **Array**
@@ -226,6 +227,7 @@
     | 345. | <span style="color:green">Easy</span> | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/reverse-vowels-of-a-string.py) |
     | 383. | <span style="color:green">Easy</span> | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/ransom-note.py) |
     | 468. | <span style="color:orange">Medium</span> | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/validate-ip-address.py) |
+    | 520. | <span style="color:green">Easy</span> | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/detect-capital.py) |
     | 551. | <span style="color:green">Easy</span> | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/student-attendance-record-i.py) \| [Java](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/student-attendance-record-i.java) |
     | 678. | <span style="color:orange">Medium</span> | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-parenthesis-string.py) |
     | 709. | <span style="color:green">Easy</span> | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/to-lower-case.py) \| [C](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/to-lower-case.c) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/to-lower-case.cpp) |
@@ -322,3 +324,9 @@
     | 1 | 441. | <span style="color:green">Easy</span> | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/arranging-coins.py) |
     | 6 | 66. | <span style="color:green">Easy</span> | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/plus-one.py) |
     | 26 | 258. | <span style="color:green">Easy</span> | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/add-digits.py) |
+
+- ### **August LeetCoding Challenge : 2020**
+
+    | Day | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :---: | :--- | :--- |
+    | 1 | 520. | <span style="color:green">Easy</span> | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/detect-capital.py) |
