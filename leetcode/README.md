@@ -335,5 +335,4 @@
     | 2 | 705. | <span style="color:green">Easy</span> | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/design-hashset.py) |
     | 2 | 125. | <span style="color:green">Easy</span> | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-palindrome.py) |
     | 3 | 342. | <span style="color:green">Easy</span> | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/power-of-four.py) |
-    | 4 
-    
+  
