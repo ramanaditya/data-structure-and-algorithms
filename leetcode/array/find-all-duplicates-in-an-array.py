@@ -22,8 +22,8 @@ Output:
 
 class Solution:
     """
-    Time Complexity: Adding in Dictionary ( n^2 ) + Loop( n ) = O( n^2 )
-    Space Complexity: Output List ( n ) + Dictionary ( n ) = O( n )
+    Time Complexity: Adding in Dictionary ( n ) + Loop( n ) = O( n )
+    Space Complexity: Dictionary ( n ) = O( n )
     """
 
     def findDuplicates(self, nums: List[int]) -> List[int]:
@@ -44,7 +44,7 @@ class Solution:
 class Solution:
     """
     Time Complexity: Sorting (n log(n) ) + Loop( n ) = O( n log (n) )
-    Space Complexity: Output List ( n ) = O( n )
+    Space Complexity: Constant = O( 1 )
     """
 
     def findDuplicates(self, nums: List[int]) -> List[int]:
@@ -61,3 +61,23 @@ class Solution:
 
 # Runtime: 408 ms, faster than 60.15% of Python3 online submissions
 # Memory Usage: 20.7 MB, less than 96.50% of Python3 online submissions
+
+
+class Solution:
+    """
+    Time Complexity: Loop( n ) = O( n )
+    Space Complexity: Constant = O( 1 )
+    """
+
+    def findDuplicates(self, nums: List[int]) -> List[int]:
+        ans = []
+        for num in nums:
+            if nums[abs(num) - 1] < 0:
+                ans.append(abs(num))
+            else:
+                nums[abs(num) - 1] *= -1
+        return ans
+
+
+# Runtime: 420 ms, faster than 52.90% of Python3 online submissions
+# Memory Usage: 21.2 MB, less than 41.96% of Python3 online submissions
