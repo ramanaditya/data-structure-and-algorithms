@@ -1,73 +1,52 @@
-'''
+"""
 ## Questions
 
 ### 206. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 Reverse a singly linked list.
 
-**Example:**
-
-```
+Example:
 Input: 1->2->3->4->5->NULL
 Output: 5->4->3->2->1->NULL
-```
 
-**Follow up:**
-
+Follow up:
 A linked list can be reversed either iteratively or recursively. Could you implement both?
-'''
+"""
 
-## Solutions
 
-{% highlight c %}
-
-/*
- *
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     struct ListNode *next;
- * };
-*/
-
-struct ListNode* reverseList(struct ListNode* head){
-    struct ListNode *prev = NULL;
-    struct ListNode *nextnode = NULL;
-    while(head != NULL){
-        nextnode = head->next;
-        head->next = prev;
-        prev = head;
-        head = nextnode;
-    }
-    return prev;
-}
-
-# Runtime: 4 ms
-# Memory Usage: 7.7 MB
-
-{% endhighlight %}
-
-{% highlight python %}
+# Solutions
 
 # Definition for singly-linked list.
 # class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
-
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
+    """
+    Time Complexity: O( n )
+    Space Complexity: O( 1 )
+    """
+
     def reverseList(self, head: ListNode) -> ListNode:
+        if not head or not head.next:
+            return head
+
+        # Pointer to track the reversed list
         prev = None
-        temp = None
+
         while head:
+            # Storing next value
             temp = head.next
+
+            # Reverse
             head.next = prev
             prev = head
+
+            # Increment head
             head = temp
-        head = prev
-        return head
 
-# Runtime: 40 ms
-# Memory Usage: 14**.7 MB
+        return prev
 
-{% endhighlight %}
+
+# Runtime: 28 ms, faster than 97.79% of Python3 online submissions
+# Memory Usage: 15.1 MB, less than 93.46% of Python3 online submissions
