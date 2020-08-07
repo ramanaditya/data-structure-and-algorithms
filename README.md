@@ -153,6 +153,6 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
 
 | &nbsp; &nbsp; &nbsp; Community &nbsp; &nbsp; &nbsp; | Documentation |
 | :---: | :---: |
-| [![Gitter Logo](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/gitter.png)](https://gitter.im/data-structure-and-algorithms/community) | <a href="https://interview-docs.readthedocs.io"><img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/read-the-docs.png" width="100%" /></a> |
+| [![Gitter Logo](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/gitter.png)](https://gitter.im/data-structure-and-algorithms/community) | <a href="https://interview-docs.readthedocs.io"><img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/read-the-docs.png" width="75%" /></a> |
 | **Gitter** | **Read the Docs** |
 | [Join Now](https://gitter.im/data-structure-and-algorithms/community) | [Read the Docs](https://interview-docs.readthedocs.io/) |
