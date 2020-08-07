@@ -171,8 +171,8 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
 
 > If you like this [repository](https://github.com/ramanaditya/data-structure-and-algorithms), support it by star :star2:
 
-| Community | Documentation | Source Code |
+| Documentation | Source Code | Community |
 | :---: | :---: | :---: |
-| <a href="https://gitter.im/data-structure-and-algorithms/community"><img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/gitter.png" width="100%"/></a> | <a href="https://interview-docs.readthedocs.io"><img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/read-the-docs.png" width="90%" /></a> | <a href="https://github.com/ramanaditya/data-structure-and-algorithms"><img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/github.png" width="40%"></a> |
-| **Gitter Community** | **Read the Docs** | **GitHub** |
-| [Join Now](https://gitter.im/data-structure-and-algorithms/community) | [Read the Docs](https://interview-docs.readthedocs.io/) | [View Code](https://github.com/ramanaditya/data-structure-and-algorithms) |
+| <a href="https://interview-docs.readthedocs.io"><img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/read-the-docs.png" width="90%" /></a> | <a href="https://github.com/ramanaditya/data-structure-and-algorithms"><img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/github.png" width="40%"></a> | <a href="https://gitter.im/data-structure-and-algorithms/community"><img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/gitter.png" width="100%"/></a> |
+| **Read the Docs** | **GitHub** | **Gitter** |
+| [Read the Docs](https://interview-docs.readthedocs.io/) | [View Code](https://github.com/ramanaditya/data-structure-and-algorithms) | [Join Now](https://gitter.im/data-structure-and-algorithms/community) |
