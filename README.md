@@ -30,7 +30,7 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
 
 | Community | Documentation |
 | :---: | :---: |
-| [![Gitter Logo](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/gitter.png)](https://gitter.im/data-structure-and-algorithms/community) | [![Read the Docs](./images/read-the-docs.png)](https://interview-docs.readthedocs.io/) |
+| [![Gitter Logo](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/gitter.png)](https://gitter.im/data-structure-and-algorithms/community) | <a href="https://interview-docs.readthedocs.io"><img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/read-the-docs.png" width="90%" /></a> |
 | **Gitter** | **Read the Docs** |
 | [Join Now](https://gitter.im/data-structure-and-algorithms/community) | [Read the Docs](https://interview-docs.readthedocs.io/) |
 
