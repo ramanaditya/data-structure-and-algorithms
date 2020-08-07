@@ -8,6 +8,8 @@
 [![Relative date](https://img.shields.io/date/1541894400?color=important&label=started&logo=github)](https://github.com/ramanaditya/) 
 [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/ramanaditya/)
 
+<hr>
+
 ## Documentation
 [![Documentation Status](https://readthedocs.org/projects/interview-docs/badge/?version=latest)](https://interview-docs.readthedocs.io/en/latest/?badge=latest)
 
@@ -122,6 +124,7 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/) 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ramanaditya/data-structure-and-algorithms?color=blue&logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/commits/) 
 [![GitHub repo size](https://img.shields.io/github/repo-size/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/)
+
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/ramanaditya/data-structure-and-algorithms?logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/compare)  
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-closed-raw/ramanaditya/data-structure-and-algorithms?logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/pulls?q=is%3Apr+is%3Aclosed)
 [![GitHub contributors](https://img.shields.io/github/contributors/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/graphs/contributors)
