@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Data Structures and Algorithms's documentation!
+Welcome to Interview Documentation!
 ======================================================================
 
 .. toctree::
@@ -12,10 +12,19 @@ Welcome to Data Structures and Algorithms's documentation!
 
    data-structures
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Resources
+
+   resources
+
+.. toctree::
+   :caption: Appendix
+
+   genindex
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`

@@ -12,7 +12,9 @@
 #
 import os
 import sys
+import sphinx_rtd_theme
 
+html_theme = "sphinx_rtd_theme"
 # import django
 # sys.path.insert(0, os.path.abspath('..'))
 # os.environ.setdefault("DJANGO_SETTINGS_MODULE", "config.settings.local")
@@ -21,7 +23,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = "Data Structures and Algorithms"
+project = "Interview Documentation"
 copyright = """2020, Aditya Raman"""
 author = "Aditya Raman"
 version = "v0.1.0"
@@ -32,7 +34,7 @@ version = "v0.1.0"
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = []
+extensions = ["sphinx_rtd_theme"]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
