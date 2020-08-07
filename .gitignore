@@ -5,3 +5,5 @@ a.out
 venv/
 *.pdf
 __pycache__/
+
+_build/

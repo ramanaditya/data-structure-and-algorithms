@@ -1,4 +1,4 @@
-'''
+"""
 ## Questions
 
 ### 445. [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
@@ -15,115 +15,109 @@ Example:
 
 Input: (7 -> 2 -> 4 -> 3) + (5 -> 6 -> 4)
 Output: 7 -> 8 -> 0 -> 7
-'''
+"""
 
-## Solutions
+
+# Solutions
 
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
+
+
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+
 
 class Solution:
-    def __init__(self):
-        self.head = None
+    """
+    Time Complexity: O( max(n, m) )
+    Space Complexity: O( max(n, m) )
+    Converting List to Array
+    """
+
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-        a = []
-        b = []
         if not l1:
             return l2
         if not l2:
             return l1
-        while l1 and l2:
-            a.append(l1.val)
-            b.append(l2.val)
-            l1 = l1.next
-            l2 = l2.next
+
+        stack1 = []
+        stack2 = []
+
         while l1:
-            a.append(l1.val)
+            stack1.append(l1.val)
             l1 = l1.next
         while l2:
-            b.append(l2.val)
+            stack2.append(l2.val)
             l2 = l2.next
-        a = a[::-1]
-        b = b[::-1]
-        if len(a) != len(b):
-            k = len(a) - len(b)
-            if k > 0:
-                while k > 0:
-                    b.append(0)
-                    k -= 1
-            else:
-                k = k * (-1)
-                while k > 0:
-                    a.append(0)
-                    k -= 1
-        print(a,b)
-        res = []
-        carry = 0
-        i = 0
-        j = 0
-        while i < len(a) and j < len(b):
-            c = a[i] + b[j] + carry
-            if c < 9:
-                res.append(c)
-                carry = 0
-                i += 1
-                j += 1
-            else:
-                res.append(c%10)
-                carry = c // 10
-                i += 1
-                j += 1
-        if carry > 0:
-            res.append(carry)
-        res = res[::-1]
-        i = len(res) - 1
-        new_node = ListNode(None)
-        while i >= 0:
-            new_node = ListNode(res[i])
-            new_node.next = self.head
-            self.head = new_node
-            i -= 1
-        return new_node
 
-# Runtime: 88 ms
-# Memory Usage: 14 MB
+        total = 0
+        head = None
+
+        while stack1 or stack2 or total:
+            total += 0 if not len(stack1) else stack1.pop()
+            total += 0 if not len(stack2) else stack2.pop()
+
+            temp = ListNode(total % 10)
+            temp.next = head
+            head = temp
+
+            total //= 10
+
+        return head
+
+
+# Runtime: 76 ms, faster than 78.28% of Python3 online submissions
+# Memory Usage: 13.7 MB, less than 83.45% of Python3 online submissions
 
 
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
+class ListNode:
+    def __init__(self, x):
+        self.val = x
+        self.next = None
+
 
 class Solution:
+    """
+    Time Complexity: O( max(n, m) )
+    Space Complexity: O( max(n, m) )
+    """
+
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-        a = 0
         if not l1:
             return l2
         if not l2:
             return l1
+
+        num1 = 0
+        num2 = 0
+
         while l1:
-            a = a * 10 + l1.val
+            num1 = num1 * 10 + l1.val
             l1 = l1.next
-        b = 0
+
         while l2:
-            b = b * 10 + l2.val
+            num2 = num2 * 10 + l2.val
             l2 = l2.next
-        c = a + b
-        if c == 0:
-            new_node = ListNode(c)
+
+        total = num1 + num2
+
+        if total == 0:
+            new_node = ListNode(total)
             return new_node
+
         l3 = None
-        while c != 0:
-            q = c % 10
-            new_node = ListNode(q)
+
+        while total != 0:
+            new_node = ListNode(total % 10)
             new_node.next = l3
             l3 = new_node
-            c = c//10
+            total //= 10
+
         return l3
-            
-# Runtime: 72 ms
-# Memory Usage: 13.9 MB
+
+
+# Runtime: 68 ms, faster than 96.35% of Python3 online submissions
+# Memory Usage: 13.6 MB, less than 93.79% of Python3 online submissions

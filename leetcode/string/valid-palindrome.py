@@ -1,4 +1,4 @@
-'''
+"""
 ## Questions
 
 ### 125. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
@@ -21,31 +21,28 @@ Output: true
 Input: "race a car"
 Output: false
 ```
-'''
+"""
 
-## Solutions
+# Solutions
+
 
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         s = s.lower()
-        i = 0
-        j = len(s) - 1
-        while i < j:
-            if s[i].isalnum() and s[j].isalnum():
-                if s[i] == s[j] :
-                    i += 1
-                    j -= 1
-                    continue
-                else:
-                    return False
-            elif s[i].isalnum() and not s[j].isalnum() :
-                j -= 1
-            elif not s[i].isalnum() and s[j].isalnum():
-                i += 1
+        start = 0
+        end = len(s) - 1
+        while start < end:
+            if s[start].isalnum() and s[end].isalnum() and s[start] != s[end]:
+                return False
+            elif s[start].isalnum() and not s[end].isalnum():
+                end -= 1
+            elif not s[start].isalnum() and s[end].isalnum():
+                start += 1
             else:
-                i += 1
-                j -= 1
+                start += 1
+                end -= 1
         return True
 
-# Runtime: 56 ms
-# Memory Usage: 14 MB
+
+# Runtime: 52 ms, faster than 67.33% of Python3 online submissions
+# Memory Usage: 14.3 MB, less than 68.45% of Python3 online submissions

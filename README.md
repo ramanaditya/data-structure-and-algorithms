@@ -6,11 +6,17 @@
 [![GitHub forks](https://img.shields.io/github/forks/ramanaditya/data-structure-and-algorithms.svg?logo=github&color=teal)](https://github.com/ramanaditya/data-structure-and-algorithms/network/members) 
 [![GitHub top language](https://img.shields.io/github/languages/top/ramanaditya/data-structure-and-algorithms?color=blue&logo=python)](https://github.com/ramanaditya/data-structure-and-algorithms/)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/) 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ramanaditya/data-structure-and-algorithms?color=bluevoilet&logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/commits/) 
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ramanaditya/data-structure-and-algorithms?color=blue&logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/commits/) 
 [![GitHub repo size](https://img.shields.io/github/repo-size/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/)
 [![GitHub issues](https://img.shields.io/github/issues/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/issues) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/pulls) 
 [![GitHub last commit](https://img.shields.io/github/last-commit/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/)
+[![Documentation Status](https://readthedocs.org/projects/interview-docs/badge/?version=latest)](https://interview-docs.readthedocs.io/en/latest/?badge=latest)
+[![Gitter](https://badges.gitter.im/data-structure-and-algorithms/community.svg)](https://gitter.im/data-structure-and-algorithms/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+## [Read the Complete Interview Docs](https://interview-docs.readthedocs.io/)
+[![](./images/read-the-docs.png)](https://interview-docs.readthedocs.io/)
+
 
 # Contents
 
@@ -64,14 +70,15 @@
         | :--- | :--- |
         | [array](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#array) | [hash-table](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#hash-table) |
         | [binary-search](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#binary-search) | [linked-list](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#linked-list) |
-        | [binary-search-tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#binary-search-tree) | [minimax](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#minimax) |
-        | [bit-manipulation](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#bit-manipulation) | [mock](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#mock) |
-        | [Contests](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#contests) | [stack](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#stack) |
-        | [databases](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#databases) | [string](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#string) |
-        | [Geometry](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#Geomtry) | [tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#tree) |
-        | [greedy](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#greedy) | |
+        | [binary-search-tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#binary-search-tree) | [math](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#math) |
+        | [bit-manipulation](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#bit-manipulation) | [minimax](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#minimax) |
+        | [Contests](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#contests) | [mock](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#mock) |
+        | [databases](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#databases) | [stack](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#stack) |
+        | [Geometry](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#Geomtry) | [string](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#string) |
+        | [greedy](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#greedy) | [tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#tree) |
         | [April '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#April-LeetCoding-Challenge--2020) | [May '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#May-LeetCoding-Challenge--2020) |
-        | [June '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#June-LeetCoding-Challenge--2020) |  |
+        | [June '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#June-LeetCoding-Challenge--2020) | [July '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#July-LeetCoding-Challenge--2020) |
+        | [August '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#August-LeetCoding-Challenge--2020) |  |
         
 ## Resources
 

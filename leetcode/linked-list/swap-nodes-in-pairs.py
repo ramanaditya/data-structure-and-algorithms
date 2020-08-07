@@ -17,10 +17,10 @@ Explanation: 342 + 465 = 807.
 ## Solutions
 
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
+class ListNode:
+    def __init__(self, x):
+        self.val = x
+        self.next = None
 
 
 class Solution:
@@ -62,27 +62,69 @@ class Solution:
 
 
 class Solution:
-    """Iterative Solution"""
+    """
+    Iterative Solution
+    Time Complexity: O( n )
+    Space Complexity: O( 1 )
+    """
 
     def swapPairs(self, head: ListNode) -> ListNode:
         if not head or not head.next:
             return head
+
         head_ref = head
         prev = None
+
         while head and head.next:
             fast = head.next
             slow = head
+
             slow.next = head.next.next
             fast.next = slow
+
             if prev:
                 prev.next = fast
                 prev = slow
             else:
                 prev = slow
                 head_ref = fast
+
             head = head.next
         return head_ref
 
 
 # Runtime: 20 ms, faster than 97.86% of Python3 online submissions
 # Memory Usage: 13.8 MB, less than 6.06% of Python3 online submissions
+
+
+# Definition for singly-linked list.
+class Solution:
+    """
+    Time Complexity: O( n )
+    Space Complexity: O( 1 )
+    """
+
+    def swapPairs(self, head: ListNode) -> ListNode:
+        if not head or not head.next:
+            return head
+
+        # Add None node in the start of head
+        head_ref = ListNode(None)
+        head_ref.next = head
+        head = head_ref
+
+        while head and head.next and head.next.next:
+            slow = head.next
+            fast = slow.next
+
+            slow.next = fast.next
+            fast.next = slow
+
+            head.next = fast
+            head = slow
+
+        return head_ref.next
+
+
+# Runtime: 24 ms, faster than 96.70% of Python3 online submissions
+# Memory Usage: 13.9 MB, less than 37.66% of Python3 online submissions
