@@ -14,7 +14,8 @@
 ## Documentation
 [![Documentation Status](https://readthedocs.org/projects/interview-docs/badge/?version=latest)](https://interview-docs.readthedocs.io/en/latest/?badge=latest)
 
-This is well documented and maintained at the `Read the Docs`. Follow the link [https://interview-docs.readthedocs.io](https://interview-docs.readthedocs.io) or click the image below to read the Complete Interview Docs
+This is well documented and maintained at the `Read the Docs`. 
+Follow the link [https://interview-docs.readthedocs.io](https://interview-docs.readthedocs.io) or click the image below to read the Complete Interview Docs
 
 [![](./images/read-the-docs.png)](https://interview-docs.readthedocs.io/)
 
@@ -25,8 +26,13 @@ All the discussions related to the **Interview** and **Data Structures and Algor
 
 Follow the link [https://gitter.im/data-structure-and-algorithms/community](https://gitter.im/data-structure-and-algorithms/community) or click the Gitter Logo below to join the community
 
-<a href="https://gitter.im/data-structure-and-algorithms/community"><img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/gitter.png"/></a>
+<a href="https://gitter.im/data-structure-and-algorithms/community"><img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/gitter.png" width="25%"/></a>
 
+| Community | Documentation |
+| :---: | :---: |
+| [![Gitter Logo](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/gitter.png)](https://gitter.im/data-structure-and-algorithms/community) | [![Read the Docs](./images/read-the-docs.png)](https://interview-docs.readthedocs.io/) |
+| **Gitter** | **Read the Docs** |
+| [Join Now](https://gitter.im/data-structure-and-algorithms/community) | [Read the Docs](https://interview-docs.readthedocs.io/) |
 
 # Contents
 
