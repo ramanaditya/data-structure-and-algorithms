@@ -24,7 +24,7 @@ Follow the link [https://interview-docs.readthedocs.io](https://interview-docs.r
 
 <img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/gitter.png" width="25%" align="left"/>
 
-### Gitter
+### Gitter Community
 All the discussions related to the **Interview** and **Data Structures and Algorithms** are discussed on the Gitter Community Channel.
 
 Follow the link [https://gitter.im/data-structure-and-algorithms/community](https://gitter.im/data-structure-and-algorithms/community) or click the Gitter Logo below to join the community
@@ -112,9 +112,11 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
 - [Free Code Camp](https://www.freecodecamp.org/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
+<hr>
+
 ## Issues
-[![GitHub issues](https://img.shields.io/github/issues/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/issues) 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/pulls) 
+[![GitHub issues](https://img.shields.io/github/issues/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/pulls)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/)
 
 > 1. Graph Algorithm
