@@ -22,11 +22,10 @@ Follow the link [https://interview-docs.readthedocs.io](https://interview-docs.r
 ## Community
 [![Gitter](https://badges.gitter.im/data-structure-and-algorithms/community.svg)](https://gitter.im/data-structure-and-algorithms/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+<img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/gitter.png" width="25%" align="left"/>
 All the discussions related to the **Interview** and **Data Structures and Algorithms** are discussed on the Gitter Community Channel.
 
 Follow the link [https://gitter.im/data-structure-and-algorithms/community](https://gitter.im/data-structure-and-algorithms/community) or click the Gitter Logo below to join the community
-
-<a href="https://gitter.im/data-structure-and-algorithms/community"><img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/gitter.png" width="25%"/></a>
 
 # Contents
 
@@ -125,7 +124,7 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ramanaditya/data-structure-and-algorithms?color=blue&logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/commits/) 
 [![GitHub repo size](https://img.shields.io/github/repo-size/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/)
 
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/ramanaditya/data-structure-and-algorithms?logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/compare)  
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/ramanaditya/data-structure-and-algorithms?logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/compare)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-closed-raw/ramanaditya/data-structure-and-algorithms?logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/pulls?q=is%3Apr+is%3Aclosed)
 [![GitHub contributors](https://img.shields.io/github/contributors/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/graphs/contributors)
 
