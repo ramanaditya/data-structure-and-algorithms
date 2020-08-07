@@ -12,6 +12,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/pulls) 
 [![GitHub last commit](https://img.shields.io/github/last-commit/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/)
 [![Documentation Status](https://readthedocs.org/projects/interview-docs/badge/?version=latest)](https://interview-docs.readthedocs.io/en/latest/?badge=latest)
+[![Gitter](https://badges.gitter.im/data-structure-and-algorithms/community.svg)](https://gitter.im/data-structure-and-algorithms/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## [Read the Complete Interview Docs](https://interview-docs.readthedocs.io/)
 [![](./images/read-the-docs.png)](https://interview-docs.readthedocs.io/)
