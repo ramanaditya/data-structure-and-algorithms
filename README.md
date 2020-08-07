@@ -24,10 +24,12 @@ Follow the link [https://interview-docs.readthedocs.io](https://interview-docs.r
 
 <img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/gitter.png" width="25%" align="left"/>
 
+### Gitter
 All the discussions related to the **Interview** and **Data Structures and Algorithms** are discussed on the Gitter Community Channel.
 
 Follow the link [https://gitter.im/data-structure-and-algorithms/community](https://gitter.im/data-structure-and-algorithms/community) or click the Gitter Logo below to join the community
 
+<br>
 <hr>
 
 # Contents
