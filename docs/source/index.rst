@@ -6,10 +6,10 @@
 Welcome to Interview Documentation!
 ===================================================
 
-
 .. toctree::
    :maxdepth: 3
    :caption: Table of Contents
+   :hidden:
 
 .. raw:: latex
 
@@ -18,7 +18,7 @@ Welcome to Interview Documentation!
 .. toctree::
    :maxdepth: 3
    :caption: Data Structures
-   :numbered:
+   :name: Data Structures
    :hidden:
 
    data-structures/list
@@ -31,7 +31,7 @@ Welcome to Interview Documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Algorithms
-   :numbered:
+   :name: Algorithms
    :hidden:
 
    algorithms/array
@@ -43,7 +43,7 @@ Welcome to Interview Documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Resources
-   :numbered:
+   :name: Resources
    :hidden:
 
    resources
