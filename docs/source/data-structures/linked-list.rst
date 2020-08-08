@@ -1,7 +1,11 @@
 Linked List
 ============
 
-A linked-list is a sequential list of nodes that hold data which point to other nodes also containing data
+.. py:currentmodule:: ds-linked_list
+
+.. important::
+   A linked-list is a sequential list of nodes that hold data which point to other nodes also containing data
+
 
 Where are they used
 --------------------
@@ -49,6 +53,8 @@ Node
 Defining the node for a Linked List
 ````````````````````````````````````
 
+.. py:function:: Node(data: int)
+
 .. code-block:: python
 
     def Node(data):
@@ -57,10 +63,12 @@ Defining the node for a Linked List
 
 .. code-block:: python
 
-    head = None # Initialize
+    head = None
 
 Search
 -------
+
+.. py:function:: search(data: int)
 
 .. code-block:: python
 
@@ -84,6 +92,8 @@ Insert
 Insert at head
 ````````````````
 
+.. py:function:: insert_at_head(data: int)
+
 .. code-block:: python
 
     def insert_at_head(data):
@@ -94,6 +104,8 @@ Insert at head
 
 Insert at Tail
 ````````````````
+
+.. py:function:: insert_at_tail(data: int)
 
 .. code-block:: python
 
@@ -111,6 +123,8 @@ Insert at Tail
 
 Insert at an Index
 ````````````````````
+
+.. py:function:: insert_at_index(data: int)
 
 .. code-block:: python
 
@@ -154,6 +168,8 @@ Delete
 Delete at head
 ```````````````
 
+.. py:function:: delete_head()
+
 .. code-block:: python
 
     def delete_head():
@@ -169,6 +185,9 @@ Delete at head
 
 Delete at Tail
 ```````````````
+
+.. py:function:: delete_tail()
+
 .. code-block:: python
 
     def delete_tail():
@@ -188,6 +207,8 @@ Delete at Tail
 
 Delete at Index
 ````````````````
+
+.. py:function:: delete_at_index(index: int)
 
 .. code-block:: python
 
