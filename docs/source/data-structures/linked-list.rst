@@ -253,7 +253,7 @@ Leetcode Problems
 
 .. list-table:: Cycle
    :header-rows: 1
-   :widths: 10, 10, 10, 20, 10
+   :widths: 5, 5, 15, 15, 10
 
    * - Sl No
      - Level

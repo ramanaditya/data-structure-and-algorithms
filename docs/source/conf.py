@@ -78,6 +78,7 @@ latex_elements = {
     #
     # 'figure_align': 'htbp',
 }
+latex_show_urls = "footnote"
 
 # If true, the current module name will be prepended to all description
 # unit titles (such as .. function::).
