@@ -12,9 +12,9 @@
 #
 import os
 import sys
+from datetime import date
 
 sys.path.insert(0, os.path.abspath("."))
-
 
 # -- Project information -----------------------------------------------------
 
@@ -24,8 +24,8 @@ author = "Aditya Raman"
 
 # The full version, including alpha/beta/rc tags
 release = "v0.1.0"
-
-
+today = str(date.today())
+language = "en"
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -40,7 +40,6 @@ templates_path = ["_templates"]
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ["_build"]
-
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -83,3 +82,5 @@ latex_show_urls = "footnote"
 # If true, the current module name will be prepended to all description
 # unit titles (such as .. function::).
 add_module_names = False
+add_function_parentheses = False
+show_authors = True
