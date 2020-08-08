@@ -22,7 +22,7 @@ Follow the link [https://interview-docs.readthedocs.io](https://interview-docs.r
 ## Community
 [![Gitter](https://badges.gitter.im/data-structure-and-algorithms/community.svg)](https://gitter.im/data-structure-and-algorithms/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-<img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/gitter.png" width="20%" align="left"/>
+<a href="https://gitter.im/data-structure-and-algorithms/community"><img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/gitter.png" width="20%" align="left"/></a>
 
 ### Gitter Community
 All the discussions related to the **Interview** and **Data Structures and Algorithms** are discussed on the Gitter Community Channel.
