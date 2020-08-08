@@ -117,7 +117,6 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
 ## Issues
 [![GitHub issues](https://img.shields.io/github/issues/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/)
-
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/ramanaditya/data-structure-and-algorithms?logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/compare)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-closed-raw/ramanaditya/data-structure-and-algorithms?logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/pulls?q=is%3Apr+is%3Aclosed)
 
