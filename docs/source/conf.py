@@ -10,10 +10,11 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
+import os
+import sys
+from datetime import date
 
+sys.path.insert(0, os.path.abspath("."))
 
 # -- Project information -----------------------------------------------------
 
@@ -23,8 +24,8 @@ author = "Aditya Raman"
 
 # The full version, including alpha/beta/rc tags
 release = "v0.1.0"
-
-
+today = str(date.today())
+language = "en"
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -40,7 +41,6 @@ templates_path = ["_templates"]
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ["_build"]
 
-
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
@@ -53,4 +53,34 @@ html_theme = "sphinx_rtd_theme"
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ["_static"]
 
+# These paths are either relative to html_static_path
+# or fully qualified paths (eg. https://...)
+html_css_files = [
+    "css/color.css",
+]
+
+html_style = "css/color.css"
+
 master_doc = "index"
+
+latex_elements = {
+    # The paper size ('letterpaper' or 'a4paper').
+    #
+    "papersize": "a4paper",
+    # The font size ('10pt', '11pt' or '12pt').
+    #
+    # 'pointsize': '10pt',
+    # Additional stuff for the LaTeX preamble.
+    #
+    "preamble": "\\addto\\captionsenglish{\\renewcommand{\\contentsname}{Table of contents}}",
+    # Latex figure (float) alignment
+    #
+    # 'figure_align': 'htbp',
+}
+latex_show_urls = "footnote"
+
+# If true, the current module name will be prepended to all description
+# unit titles (such as .. function::).
+add_module_names = False
+add_function_parentheses = False
+show_authors = True

@@ -1,0 +1,15 @@
+@import url("theme.css");
+/*
+All the colors to be used
+Put it in the alphabetical order
+*/
+
+.green {
+    color: green;
+}
+.orange {
+    color: orange;
+}
+.red {
+  color: red;
+}
