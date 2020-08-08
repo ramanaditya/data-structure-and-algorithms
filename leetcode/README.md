@@ -264,6 +264,7 @@
     | 700. | <span style="color:green">Easy</span> | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/search-in-a-binary-search-tree.py) |
     | 872. | <span style="color:green">Easy</span> | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/leaf-similar-trees.py) |
     | 938. | <span style="color:green">Easy</span> | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/range-sum-of-bst.py) |
+    | 987. | <span style="color:orange">Medium</span> | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/vertical-order-traversal-of-a-binary-tree.py) |
     | 1022. | <span style="color:green">Easy</span> | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/sum-of-root-to-leaf-binary-numbers.py) |
    
    
@@ -331,8 +332,9 @@
 
     | Day | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :---: | :--- | :--- |
-    | 1 | 520. | <span style="color:green">Easy</span> | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/detect-capital.py) |
-    | 2 | 705. | <span style="color:green">Easy</span> | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/design-hashset.py) |
-    | 2 | 125. | <span style="color:green">Easy</span> | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-palindrome.py) |
-    | 3 | 342. | <span style="color:green">Easy</span> | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/power-of-four.py) |
-    | 5 | 442. | <span style="color:orange">Medium</span> | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/find-all-duplicates-in-an-array.py) |  
+    | 2 | 520. | <span style="color:green">Easy</span> | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/detect-capital.py) |
+    | 3 | 705. | <span style="color:green">Easy</span> | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/design-hashset.py) |
+    | 4 | 125. | <span style="color:green">Easy</span> | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-palindrome.py) |
+    | 5 | 342. | <span style="color:green">Easy</span> | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/power-of-four.py) |
+    | 7 | 442. | <span style="color:orange">Medium</span> | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/find-all-duplicates-in-an-array.py) |  
+    | 8 | 987. | <span style="color:orange">Medium</span> | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/vertical-order-traversal-of-a-binary-tree.py) |
