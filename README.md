@@ -27,7 +27,7 @@ Follow the link [https://interview-docs.readthedocs.io](https://interview-docs.r
 ### Gitter Community
 All the discussions related to the **Interview** and **Data Structures and Algorithms** are discussed on the Gitter Community Channel.
 
-Follow the link [https://gitter.im/data-structure-and-algorithms/community](https://gitter.im/data-structure-and-algorithms/community) or click the Gitter Logo below to join the community
+Follow the link [https://gitter.im/data-structure-and-algorithms/community](https://gitter.im/data-structure-and-algorithms/community) or click the Gitter Logo on the left to join the community
 
 <br>
 <hr>
@@ -116,8 +116,10 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
 
 ## Issues
 [![GitHub issues](https://img.shields.io/github/issues/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/issues)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/pulls)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/)
+
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/ramanaditya/data-structure-and-algorithms?logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/compare)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed-raw/ramanaditya/data-structure-and-algorithms?logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/pulls?q=is%3Apr+is%3Aclosed)
 
 > 1. Graph Algorithm
 > 2. Solutions of CLRS
@@ -130,10 +132,7 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/) 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ramanaditya/data-structure-and-algorithms?color=blue&logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/commits/) 
 [![GitHub repo size](https://img.shields.io/github/repo-size/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/)
-
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/ramanaditya/data-structure-and-algorithms?logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/compare)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed-raw/ramanaditya/data-structure-and-algorithms?logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/pulls?q=is%3Apr+is%3Aclosed)
-[![GitHub contributors](https://img.shields.io/github/contributors/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/graphs/contributors)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/ramanaditya/data-structure-and-algorithms/pulls)
 
 - Write clear meaningful git commit messages (Do read [this](http://chris.beams.io/posts/git-commit/)).
 
@@ -152,6 +151,8 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
 - Refer [this](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/CONTRIBUTING.md) for more.
 
 ## Contributor
+[![GitHub contributors](https://img.shields.io/github/contributors/ramanaditya/data-structure-and-algorithms?logo=github)](https://github.com/ramanaditya/data-structure-and-algorithms/graphs/contributors)
+
 [![](https://sourcerer.io/fame/ramanaditya/ramanaditya/data-structure-and-algorithms/images/0)](https://sourcerer.io/fame/ramanaditya/ramanaditya/data-structure-and-algorithms/links/0)
 [![](https://sourcerer.io/fame/ramanaditya/ramanaditya/data-structure-and-algorithms/images/1)](https://sourcerer.io/fame/ramanaditya/ramanaditya/data-structure-and-algorithms/links/1)
 [![](https://sourcerer.io/fame/ramanaditya/ramanaditya/data-structure-and-algorithms/images/2)](https://sourcerer.io/fame/ramanaditya/ramanaditya/data-structure-and-algorithms/links/2)

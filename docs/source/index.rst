@@ -15,6 +15,12 @@ Welcome to Interview Documentation!
 
 .. toctree::
    :maxdepth: 2
+   :caption: Algorithms
+
+   algorithms/array
+
+.. toctree::
+   :maxdepth: 2
    :caption: Resources
 
    resources
