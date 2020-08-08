@@ -15,11 +15,11 @@ Welcome to Interview Documentation!
 
    \part{Data Structures}
 
+
 .. toctree::
    :maxdepth: 3
    :caption: Data Structures
    :name: Data Structures
-   :hidden:
 
    data-structures/list
    data-structures/linked-list
@@ -32,7 +32,6 @@ Welcome to Interview Documentation!
    :maxdepth: 2
    :caption: Algorithms
    :name: Algorithms
-   :hidden:
 
    algorithms/array
 
@@ -44,7 +43,6 @@ Welcome to Interview Documentation!
    :maxdepth: 2
    :caption: Resources
    :name: Resources
-   :hidden:
 
    resources
 
