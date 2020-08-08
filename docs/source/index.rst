@@ -5,14 +5,11 @@
 
 Welcome to Interview Documentation!
 ===================================================
-.. raw:: latex
 
-   \part{Table of Contents}
 
 .. toctree::
    :maxdepth: 3
    :caption: Table of Contents
-   :hidden:
 
 .. raw:: latex
 
@@ -21,6 +18,7 @@ Welcome to Interview Documentation!
 .. toctree::
    :maxdepth: 3
    :caption: Data Structures
+   :numbered:
    :hidden:
 
    data-structures/list
@@ -33,6 +31,7 @@ Welcome to Interview Documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Algorithms
+   :numbered:
    :hidden:
 
    algorithms/array
@@ -44,6 +43,7 @@ Welcome to Interview Documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Resources
+   :numbered:
    :hidden:
 
    resources
