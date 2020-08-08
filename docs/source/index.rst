@@ -6,12 +6,18 @@
 Welcome to Interview Documentation!
 ===================================================
 
+Data Structures
+================
+
 .. toctree::
    :maxdepth: 3
    :caption: Data Structures
 
    data-structures/list
    data-structures/linked-list
+
+Algorithms
+===========
 
 .. toctree::
    :maxdepth: 2
