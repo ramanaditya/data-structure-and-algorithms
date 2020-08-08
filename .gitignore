@@ -6,4 +6,4 @@ venv/
 *.pdf
 __pycache__/
 
-_build/
+build/
