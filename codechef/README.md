@@ -14,6 +14,9 @@
     | Apr '2020 | [Sell All the Cars ](https://www.codechef.com/APRIL20B/problems/CARSELL) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/CARSELL.py) |
     | May '2020 | [Coronavirus Spread](https://www.codechef.com/MAY20B/problems/COVID19) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/COVID19.py) |
     | May '2020 | [Isolation Centers](https://www.codechef.com/MAY20B/problems/CORUS) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/CORUS.py) |
+    | Aug '2020 | [Chef Wars - Return of the Jedi](https://www.codechef.com/AUG20B/problems/CHEFWARS) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/CHEFWARS.py) |
+    | Aug '2020 | [Chef and Linear Chess](https://www.codechef.com/AUG20B/problems/LINCHESS) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/LINCHESS.py) |
+    | Aug '2020 | [Another Card Game Problem](https://www.codechef.com/AUG20B/problems/CRDGAME3) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/CRDGAME3.py) |
     
 - ### **Cook Off**
 
@@ -34,4 +37,3 @@
     | :---: | :--- | :--- |
     | 1. | [Counting Pretty Numbers](https://www.codechef.com/problems/NUM239) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/easy/counting-pretty-numbers.py) |
     | 2. | [Processing a string](https://www.codechef.com/problems/KOL15A) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/easy/processing-a-string.py/) |
-    

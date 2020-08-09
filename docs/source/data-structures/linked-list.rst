@@ -1,8 +1,6 @@
 Linked List
 ============
 
-.. py:currentmodule:: ds-linked_list
-
 .. important::
    A linked-list is a sequential list of nodes that hold data which point to other nodes also containing data
 
@@ -46,6 +44,13 @@ Complexity
 +----------------------+-----------------------+----------------------+
 | Remove in middle     |         O(n)          |         O(n)         |
 +----------------------+-----------------------+----------------------+
+
+.. automodule:: linked_list.singlyll
+   :members:
+   :private-members:
+   :inherited-members:
+   :show-inheritance:
+
 
 Node
 -----
@@ -251,7 +256,7 @@ Important Problems
 Leetcode Problems
 ```````````````````
 
-.. list-table:: Cycle
+.. list-table:: Linked List Cycle
    :header-rows: 1
    :widths: 5, 5, 15, 15, 10
 
@@ -267,3 +272,8 @@ Leetcode Problems
      - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/linked-list-cycle.py>`__
      - Two Pointers
 
+   * - 142
+     - :orange:`Medium`
+     - `Linked List Cycle II <https://leetcode.com/problems/linked-list-cycle-ii/>`__
+     - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/linked-list-cycle-ii.py>`__
+     - Hash Table

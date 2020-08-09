@@ -4,7 +4,13 @@ Array
 Boyer–Moore majority vote algorithm
 ------------------------------------
 
-.. currentmodule:: algo-array
+.. automodule:: Array.boyer_moore_voting_algorithm
+   :members:
+   :undoc-members:
+   :private-members:
+   :special-members:
+   :inherited-members:
+   :show-inheritance:
 
 Description
 ````````````
@@ -21,33 +27,6 @@ will be the mode or occurred maximum number of times.
 
 .. seealso::
     Reference : `wiki <https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm>`__
-
-
-.. function:: boyer_moore_voting_algorithm ( arr : list ) -> int
-
-Python
-````````
-
-.. code-block:: python
-
-    def boyer_moore_voting_algorithm(arr: list) -> int:
-        """
-        :param arr: list
-        :return: int
-        """
-        res = arr[0]  # Initialization
-        counter = 0  # Counter
-
-        for i in range(len(arr)):
-            if counter == 0:
-                res = arr[i]
-                counter = 1
-            elif res == arr[i]:
-                counter += 1
-            else:
-                counter -= 1
-
-        return res
 
 Implementation
 ````````````````
