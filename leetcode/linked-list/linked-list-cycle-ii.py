@@ -46,6 +46,7 @@ class Solution:
         while head:
             if track.get(head):
                 return head
+
             track[head] = head
             head = head.next
 
@@ -54,3 +55,34 @@ class Solution:
 
 # Runtime: 40 ms, faster than 99.46% of Python3 online submissions
 # Memory Usage: 16.7 MB, less than 90.57% of Python3 online submissions
+
+
+class Solution:
+    def detectCycle(self, head: ListNode) -> ListNode:
+
+        # Two pointers
+        tortoise, hare = head, head
+
+        while True:
+            # Condition when pointer reaches to end
+            if not hare or not hare.next:
+                return None
+
+            tortoise = tortoise.next
+            hare = hare.next.next
+
+            if tortoise == hare:
+                break
+
+        # Iterating over the ll to find
+        tortoise = head
+        while tortoise != hare:
+            tortoise = tortoise.next
+            hare = hare.next
+
+        # Returning node where cycle was found
+        return tortoise
+
+
+# Runtime: 48 ms, faster than 91.52% of Python3 online submissions
+# Memory Usage: 16.8 MB, less than 81.29% of Python3 online submissions

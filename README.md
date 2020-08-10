@@ -44,7 +44,10 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
     - [Searching](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures/searching)
     
 - ## [Algorithms](algorithms)
-    - [Boyer Moore Majority Vote Algorithm](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/algorithms/array/boyer-moore-majority-vote-algorithm.md)
+    - ### Array
+        - [Boyer Moore Majority Vote Algorithm](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/algorithms/array/boyer-moore-majority-vote-algorithm.md)
+    - ### Linked List
+        - [Floyd's Tortoise and Hare](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/algorithms/LinkedList/floyds_tortoise_and_hare.py))
 
 - ## [Interview Preparation](interview)
     - [Interview Preparation](./interview/README.md)
