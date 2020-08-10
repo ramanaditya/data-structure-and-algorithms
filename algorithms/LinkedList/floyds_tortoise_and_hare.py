@@ -31,7 +31,7 @@ class FloydTortoiseAndHare:
 
     def check_cycle(self, head):
         """
-        Return True is cycle is present else False
+        Return True if cycle is present else False
         :param head:
         :return:
         """

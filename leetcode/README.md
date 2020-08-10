@@ -198,6 +198,7 @@
     
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
+    | 171. | <span style="color:green">Easy</span> | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/excel-sheet-column-number.py) |
     | 258. | <span style="color:green">Easy</span> | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/add-digits.py) |
  
 
@@ -340,3 +341,4 @@
     | 4 | 342. | <span style="color:green">Easy</span> | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/power-of-four.py) |
     | 6 | 442. | <span style="color:orange">Medium</span> | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/find-all-duplicates-in-an-array.py) |  
     | 7 | 987. | <span style="color:orange">Medium</span> | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/vertical-order-traversal-of-a-binary-tree.py) |
+    | 10 | 171. | <span style="color:green">Easy</span> | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/excel-sheet-column-number.py) |
