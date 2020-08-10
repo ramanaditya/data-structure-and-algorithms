@@ -46,6 +46,7 @@ Welcome to Interview Documentation!
    :name: Resources
 
    resources
+   credits
 
 Indices and tables
 ==================
