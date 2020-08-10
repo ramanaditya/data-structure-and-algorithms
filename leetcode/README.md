@@ -81,6 +81,7 @@
     | 1395. | <span style="color:orange">Medium</span> | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/count-number-of-teams.py) |
     | 1399. | <span style="color:green">Easy</span> | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/count-largest-group.py) |
     | 1464. | <span style="color:green">Easy</span> | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/maximum-product-of-two-elements-in-an-array.py) |
+    | 1539. | <span style="color:green">Easy</span> | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/kth-missing-positive-number.py) |
   
 - ### **Binary Search**
 
