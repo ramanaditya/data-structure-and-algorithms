@@ -30,7 +30,7 @@ Constraints:
 1 <= n <= 10^4
 """
 
-## Solutions
+# Solutions
 
 
 class Solution:
@@ -45,7 +45,7 @@ class Solution:
     def countLargestGroup(self, n: int) -> int:
         from collections import Counter
 
-        d = {}
+        d = dict()
         for i in range(1, n + 1):
             sum_ = self.dig_sum(i)
             d[sum_] = d.get(sum_, 0) + 1

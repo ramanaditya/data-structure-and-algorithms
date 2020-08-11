@@ -21,7 +21,7 @@ Output: 0
 Explanation: In this case, no transaction is done, i.e. max profit = 0.
 """
 
-## Solutions
+# Solutions
 
 
 class Solution:

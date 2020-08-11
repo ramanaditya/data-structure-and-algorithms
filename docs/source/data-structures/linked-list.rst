@@ -45,7 +45,7 @@ Complexity
 | Remove in middle     |         O(n)          |         O(n)         |
 +----------------------+-----------------------+----------------------+
 
-.. automodule:: linked_list.singlyll
+.. automodule:: LinkedList.singlyll
    :members:
    :private-members:
    :inherited-members:

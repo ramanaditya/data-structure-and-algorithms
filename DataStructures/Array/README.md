@@ -13,7 +13,4 @@ A static array is a fixed length container containing n elements indexablefrom t
 | Deletion | NA | O(n) |
 
 ## Array Operations
-| [Python](array.py) |
-
-    
-    
+| [Python](Array.py) |

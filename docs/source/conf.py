@@ -19,6 +19,7 @@ sys.path.insert(0, os.path.abspath("./Scripts"))
 sys.path.insert(0, os.path.abspath("./Scripts/data_structures"))
 sys.path.insert(0, os.path.abspath("./Scripts/algorithms"))
 sys.path.insert(0, os.path.abspath("../../algorithms/"))
+sys.path.insert(0, os.path.abspath("../../DataStructures/"))
 
 # -- Project information -----------------------------------------------------
 
