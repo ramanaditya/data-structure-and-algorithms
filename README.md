@@ -40,15 +40,17 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
     - [Array](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/DataStructures/Array)
     - [Linked List](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/DataStructures/LinkedList)
     - [Tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/DataStructures/tree)
-    - [Sorting](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/DataStructures/Sorting)
-    - [Searching](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/DataStructures/searching)
     
 - ## [Algorithms](algorithms)
     - ### Array
         - [Boyer Moore Majority Vote Algorithm](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/algorithms/array/boyer-moore-majority-vote-algorithm.md)
     - ### Linked List
-        - [Floyd's Tortoise and Hare](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/algorithms/LinkedList/floyds_tortoise_and_hare.py))
-
+        - [Floyd's Tortoise and Hare](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/algorithms/LinkedList/floyds_tortoise_and_hare.py)
+    - ### Searching
+        - [Searching](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/algorithms/searching)
+    - ### Sorting
+        - [Sorting](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/algorithms/Sorting)
+    
 - ## [Interview Preparation](interview)
     - [Interview Preparation](./interview/README.md)
     - [Networking](./interview/networking.md)

@@ -35,6 +35,8 @@ Welcome to Interview Documentation!
 
    algorithms/array
    algorithms/linked-list
+   algorithms/searching
+
 
 .. raw:: latex
 
@@ -47,6 +49,7 @@ Welcome to Interview Documentation!
 
    resources
    credits
+   collaborators
 
 Indices and tables
 ==================
