@@ -13,7 +13,7 @@ Description
 ````````````
 
 Floyd's cycle-finding algorithm is a pointer algorithm that uses only two pointers, which move through the sequence at
-different speeds. It is also called the "tortoise and the hare algorithm"
+different speeds. It is also called the **tortoise and the hare algorithm**
 
 Checking the existence of the cycle in the linked-list. We can also find the node with which linked-list is linked
 
