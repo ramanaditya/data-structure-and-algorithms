@@ -13,11 +13,15 @@ Input: [3,3,7,7,10,11,11]
 Output: 10
 """
 
-## Solutions
+# Solutions
 
 
 class Solution:
-    """XOR with same number is 0 and other number is other number"""
+    """
+    XOR with same number is 0 and other number is other number
+    Time Complexity: O( n )
+    Space Complexity: O( 1 )
+    """
 
     def singleNumber(self, nums: List[int]) -> int:
         res = 0
@@ -31,7 +35,11 @@ class Solution:
 
 
 class Solution:
-    """Using Binary Search"""
+    """
+    Using Binary Search
+    Time Complexity: O( log (n) )
+    Space Complexity: O( 1 )
+    """
 
     def singleNonDuplicate(self, nums: List[int]) -> int:
         low = 0
