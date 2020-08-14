@@ -11,14 +11,17 @@ There might be cases when your name might not be in the list please feel free to
     If you want to add email in contact write as
         `Email <email_id>`__
 
-.. list-table:: We thank You
-   :widths: 5 25 70
-   :header-rows: 1
+..  list-table:: We thank You
+    :widths: 5 35 60
+    :header-rows: 1
+    :align: center
 
-   * - Sl. No.
-     - Name
-     - Contact
-
-   * - 1
-     - `Aditya Raman <https://www.ramanaditya.com>`__
-     - `LinkedIn <https://www.linkedin.com/in/ramanaditya/>`__, `GitHub <https://github.com/ramanaditya>`__
+    *   - Sl. No.
+        - Name
+        - Contact
+    *   - 1
+        - Pamela Skillings
+        -
+    *   - 2
+        - William Fiset
+        -

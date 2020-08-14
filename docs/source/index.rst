@@ -38,6 +38,17 @@ Welcome to Interview Documentation!
    algorithms/searching
    algorithms/sorting
 
+.. raw:: latex
+
+   \part{Interview}
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Interview
+   :name: Interview
+
+   interview/preparation
+   interview/networking
 
 .. raw:: latex
 
