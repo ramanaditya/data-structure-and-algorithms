@@ -27,6 +27,10 @@ class TreeNode:
 
 
 class Solution:
+    """
+    Recursive Solution
+    """
+
     def __init__(self):
         self.list = []
 
@@ -53,19 +57,32 @@ class Solution:
 
 
 class Solution:
-    def __init__(self):
-        self.stack = []
-        self.res = []
+    """
+    Iterative Solution
+    Time Complexity: O( n )
+    Space Complexity: O( n )
+    """
 
     def inorderTraversal(self, root: TreeNode) -> List[int]:
-        while root is not None or len(self.stack) > 0:
-            while root is not None:
-                self.stack.append(root)
+        # Base Case
+        if not root:
+            return
+
+        stack = []
+        res = []
+
+        while root or stack:
+            # Traverse to the extreme left
+            while root:
+                stack.append(root)
                 root = root.left
-            root = self.stack.pop()
-            self.res.append(root.val)
+
+            root = stack.pop()
+            res.append(root.val)
+
             root = root.right
-        return self.res
+
+        return res
 
 
 # Runtime: 20 ms, faster than 96.86% of Python3 online submissions

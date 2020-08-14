@@ -43,3 +43,33 @@ public:
 
 // Runtime: 0 ms, faster than 100.00% of C++ online submissions
 // Memory Usage: 11.2 MB, less than 5.00% of C++ online submissions
+
+
+class Solution {
+// Iterative Method
+public:
+    vector<int> inorderTraversal(TreeNode* root) {
+        if(root == NULL)
+            return {};
+
+        stack<TreeNode*> s;
+        vector<int> res;
+
+        while(root != NULL || !s.empty()) {
+            while(root != NULL){
+                s.push(root);
+                root = root->left;
+            }
+
+            root = s.top();
+            s.pop();
+            res.push_back(root->val);
+
+            root = root->right;
+        }
+        return res;
+    }
+};
+
+// Runtime: 0 ms, faster than 100.00% of C++ online submissions
+// Memory Usage: 8.6 MB, less than 25.83% of C++ online submissions
