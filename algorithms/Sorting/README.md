@@ -14,7 +14,7 @@
 
 
 ## Bubble Sort
-| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/Sorting/bubble-sort.py) |
+| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/Sorting/bubble_sort.py) |
 ```
 - Running Time : O(n^2)
 - Memory : O(1)
@@ -32,7 +32,7 @@ def bubble_sort(data):
 ```
 
 ## Selection Sort
-| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/Sorting/selection-sort.py) |
+| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/Sorting/selection_sort.py) |
 ```
 - Running Time : O(n^2)
 - Memory : O(1)
@@ -52,7 +52,7 @@ def selection_sort(data):
 ```
 
 ## Insertion Sort
-| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/Sorting/insertion-sort.py) |
+| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/Sorting/insertion_sort.py) |
 ```
 - Running Time : O(n^2)
 - Memory : O(1)
@@ -76,7 +76,7 @@ def insertion_sort(self, data):
 > It can also be useful when input array is almost sorted, only few elements are misplaced in complete big array.
 
 ## Merge Sort
-| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/Sorting/merge-sort.py) |
+| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/Sorting/merge_sort.py) |
 ```
 - Running Time : O(n log(n) )
 - Memory : O(1)
@@ -120,7 +120,7 @@ def merge_sort(data):
 ```
 
 ## Quick Sort
-| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/Sorting/quick-sort.py) |
+| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/Sorting/quick_sort.py) |
 ```
 - Running Time : O( n^2 )
 - Memory : O( log(n) )

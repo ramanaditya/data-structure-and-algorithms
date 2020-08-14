@@ -1,6 +1,34 @@
 Searching
 ==========
 
+..  list-table:: Search Algorithms
+    :widths: 10, 30, 15, 15, 15, 15
+    :header-rows: 1
+    :stub-columns: 2
+    :align: center
+
+    *   - Sl No.
+        - Algorithm
+        - Worst Time
+        - Average Time
+        - Best Time
+        - Memory
+    *   - 1
+        - Linear Search
+        - .. math:: 1
+        - .. math:: n
+        - .. math:: 1
+        - .. math:: 1
+    *   - 2
+        - Binary Search
+        - .. math:: log(n)
+        - .. math:: log(n)
+        - .. math:: 1
+        - .. math:: 1
+
+
+
+
 Linear Search
 ------------------------------------
 
@@ -69,7 +97,7 @@ smaller then we search before mid else after mid.
 
 If key is found we return the index of key else -1.
 
-.. tip::
+.. attention::
     Finding problems associated with Binary Search
         * list/array is sorted
         * Have to find element within the sorted list

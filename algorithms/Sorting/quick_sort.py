@@ -1,3 +1,4 @@
+""""""
 """
 Quick Sort:
 Runtime:
@@ -9,6 +10,7 @@ Memory: O( log(n) )
 In place Sorting
 Unstable
 """
+
 import sys
 
 
