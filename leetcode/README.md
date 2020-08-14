@@ -4,26 +4,26 @@
 ### **Index**
 | Sl No. | Topic | Link |
 | :---: | :--- | :--- |
-| 1.    | Array                | [Search Here](#Array) |
-| 2.    | Binary Search        | [Search Here](#Binary-Search) |
-| 3.    | Binary Search Tree   | [Search Here](#Binary-Search-Tree) |
-| 4.    | Bit Manipulation     | [Search Here](#Bit-Manipulation) |
-| 5.    | Contests             | [Search Here](#Contests) |
-| 6.    | Databases            | [Search Here](#Databases) |
-| 7.    | Geometry             | [Search Here](#Geometry) |
-| 8.    | Greedy               | [Search Here](#Greedy) |
-| 9.    | Hash Table           | [Search Here](#Hash-Table) |
-| 10.   | Linked-List          | [Search Here](#Linked-List) |
-| 11.   | Math                 | [Search Here](#Math) |
-| 12.   | Minimax              | [Search Here](#Minimax) |
-| 13.   | Mock                 | [Search Here](#Mock) |
-| 14.   | Stack                | [Search Here](#Stack) |
-| 15.   | String               | [Search Here](#String) |
-| 16.   | Tree                 | [Search Here](#Tree) |
-| 17.   | April '20 Challenge  | [Search Here](#April-LeetCoding-Challenge--2020) |
-| 18.   | May '20 Challenge    | [Search Here](#May-LeetCoding-Challenge--2020) |
-| 19.   | June '20 Challenge   | [Search Here](#June-LeetCoding-Challenge--2020) |
-| 20.   | July '20 Challenge   | [Search Here](#July-LeetCoding-Challenge--2020) |
+| 1.    | Array                  | [Search Here](#Array) |
+| 2.    | Binary Search          | [Search Here](#Binary-Search) |
+| 3.    | Binary Search Tree     | [Search Here](#Binary-Search-Tree) |
+| 4.    | Bit Manipulation       | [Search Here](#Bit-Manipulation) |
+| 5.    | Contests               | [Search Here](#Contests) |
+| 6.    | Databases              | [Search Here](#Databases) |
+| 7.    | Geometry               | [Search Here](#Geometry) |
+| 8.    | Greedy                 | [Search Here](#Greedy) |
+| 9.    | Hash Table             | [Search Here](#Hash-Table) |
+| 10.   | Linked-List            | [Search Here](#Linked-List) |
+| 11.   | Math                   | [Search Here](#Math) |
+| 12.   | Minimax                | [Search Here](#Minimax) |
+| 13.   | Mock                   | [Search Here](#Mock) |
+| 14.   | Stack                  | [Search Here](#Stack) |
+| 15.   | String                 | [Search Here](#String) |
+| 16.   | Tree                   | [Search Here](#Tree) |
+| 17.   | April '20 Challenge    | [Search Here](#April-LeetCoding-Challenge--2020) |
+| 18.   | May '20 Challenge      | [Search Here](#May-LeetCoding-Challenge--2020) |
+| 19.   | June '20 Challenge     | [Search Here](#June-LeetCoding-Challenge--2020) |
+| 20.   | July '20 Challenge     | [Search Here](#July-LeetCoding-Challenge--2020) |
 | 21.   | August '20 Challenge   | [Search Here](#August-LeetCoding-Challenge--2020) |
 
 
@@ -246,7 +246,8 @@
     | 1108. | <span style="color:green">Easy</span> | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.cpp) |
     | 1189. | <span style="color:green">Easy</span> | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/maximum-number-of-balloons.py) |
     | 1427. | <span style="color:green">Easy</span> | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/perform-string-shifts.py) |
-    
+    | 1540. | <span style="color:orange">Medium</span> | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/can-convert-string-in-k-moves.py) |
+
 - ### **Tree**
 
     | Sl No.| Level | Questions | Solution |
