@@ -54,22 +54,63 @@ class Solution:
 #         self.right = None
 
 
+from collections import deque
+
+
 class Solution:
+    """
+    Iterative Solution
+    Time Complexity: O( n )
+    Space Complexity: O( n )
+    """
+
     def postorderTraversal(self, root: TreeNode) -> List[int]:
-        from collections import deque
+        if not root:
+            return
 
         stack = []
         res = deque()
-        while root or len(stack) > 0:
+
+        while root or stack:
             if root:
                 stack.append(root)
                 res.appendleft(root.val)
                 root = root.right
             else:
-                node = stack.pop()
-                root = node.left
+                root = stack.pop()
+                root = root.left
+
         return res
 
 
-# Runtime: 28 ms, faster than 65.91% of Python3 online submissions
-# Memory Usage: 12.9 MB, less than 100.00% of Python3 online submissions
+# Runtime: 20 ms, faster than 98.81% of Python3 online submissions
+# Memory Usage: 13.7 MB, less than 84.50% of Python3 online submissions
+
+
+class Solution:
+    """
+    Iterative Solution
+    Time Complexity: O( n )
+    Space Complexity: O( n )
+    """
+
+    def postorderTraversal(self, root: TreeNode) -> List[int]:
+        if not root:
+            return
+
+        stack = [root]
+        res = []
+
+        while stack:
+            root = stack.pop()
+            res.append(root.val)
+            if root.left:
+                stack.append(root.left)
+            if root.right:
+                stack.append(root.right)
+
+        return res[::-1]
+
+
+# Runtime: 24 ms, faster than 94.20% of Python3 online submissions
+# Memory Usage: 13.7 MB, less than 91.81% of Python3 online submissions
