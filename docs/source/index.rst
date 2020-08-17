@@ -37,6 +37,7 @@ Welcome to Interview Documentation!
    algorithms/linked-list
    algorithms/searching
    algorithms/sorting
+   algorithms/two-pointers
 
 .. raw:: latex
 

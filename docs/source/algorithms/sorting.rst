@@ -2,7 +2,7 @@ Sorting
 ==========
 
 ..  list-table:: Sorting Algorithms
-    :widths: 10, 30, 10, 10, 10, 10, 20
+    :widths: 5, 20, 15, 15, 15, 15, 15
     :header-rows: 1
     :stub-columns: 2
     :align: center

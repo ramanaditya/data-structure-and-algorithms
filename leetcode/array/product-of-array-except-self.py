@@ -37,5 +37,33 @@ class Solution:
         return ans
 
 
-# Runtime: 116 ms, faster than 93.01% of Python3 online submissions
-# Memory Usage: 20.4 MB, less than 82.00% of Python3 online submissions
+# Runtime       : 116 ms, faster than 93.01% of Python3 online submissions
+# Memory Usage  : 20.4 MB, less than 82.00% of Python3 online submissions
+
+
+class Solution:
+    """
+    Two Pointers
+    Time Complexity: O( n )
+    Space Complexity: O( 1 )
+    """
+
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        start = 1
+        res = [1 for _ in range(len(nums))]
+
+        left, right = 1, 1
+
+        while start < len(nums):
+            left *= nums[start - 1]
+            right *= nums[-start]
+            res[-start - 1] *= right
+            res[start] *= left
+
+            start += 1
+
+        return res
+
+
+# Runtime       : 128 ms, faster than 71.92%  of Python3 online submissions
+# Memory Usage  : 20.3 MB, less than 91.59% of Python3 online submissions

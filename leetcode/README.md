@@ -10,21 +10,22 @@
 | 4.    | Bit Manipulation       | [Search Here](#Bit-Manipulation) |
 | 5.    | Contests               | [Search Here](#Contests) |
 | 6.    | Databases              | [Search Here](#Databases) |
-| 7.    | Geometry               | [Search Here](#Geometry) |
-| 8.    | Greedy                 | [Search Here](#Greedy) |
-| 9.    | Hash Table             | [Search Here](#Hash-Table) |
-| 10.   | Linked-List            | [Search Here](#Linked-List) |
-| 11.   | Math                   | [Search Here](#Math) |
-| 12.   | Minimax                | [Search Here](#Minimax) |
-| 13.   | Mock                   | [Search Here](#Mock) |
-| 14.   | Stack                  | [Search Here](#Stack) |
-| 15.   | String                 | [Search Here](#String) |
-| 16.   | Tree                   | [Search Here](#Tree) |
-| 17.   | April '20 Challenge    | [Search Here](#April-LeetCoding-Challenge--2020) |
-| 18.   | May '20 Challenge      | [Search Here](#May-LeetCoding-Challenge--2020) |
-| 19.   | June '20 Challenge     | [Search Here](#June-LeetCoding-Challenge--2020) |
-| 20.   | July '20 Challenge     | [Search Here](#July-LeetCoding-Challenge--2020) |
-| 21.   | August '20 Challenge   | [Search Here](#August-LeetCoding-Challenge--2020) |
+| 7.    | Dynamic Programming    | [Search Here](#Dynamic-Programming) |
+| 8.    | Geometry               | [Search Here](#Geometry) |
+| 9.    | Greedy                 | [Search Here](#Greedy) |
+| 10.   | Hash Table             | [Search Here](#Hash-Table) |
+| 11.   | Linked-List            | [Search Here](#Linked-List) |
+| 12.   | Math                   | [Search Here](#Math) |
+| 13.   | Minimax                | [Search Here](#Minimax) |
+| 14.   | Mock                   | [Search Here](#Mock) |
+| 15.   | Stack                  | [Search Here](#Stack) |
+| 16.   | String                 | [Search Here](#String) |
+| 17.   | Tree                   | [Search Here](#Tree) |
+| 18.   | April '20 Challenge    | [Search Here](#April-LeetCoding-Challenge--2020) |
+| 19.   | May '20 Challenge      | [Search Here](#May-LeetCoding-Challenge--2020) |
+| 20.   | June '20 Challenge     | [Search Here](#June-LeetCoding-Challenge--2020) |
+| 21.   | July '20 Challenge     | [Search Here](#July-LeetCoding-Challenge--2020) |
+| 22.   | August '20 Challenge   | [Search Here](#August-LeetCoding-Challenge--2020) |
 
 
 - ### **Array**
@@ -35,6 +36,7 @@
     | 4. | <span style="color:red">Hard</span> | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/Median-of-two-sorted-arrays.py) |
     | 7. | <span style="color:green">Easy</span> | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/reverse-integer.py) \| [Java](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/reverse-integer.java) |
     | 9. | <span style="color:green">Easy</span> | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/palindrome-number.py) \| [C](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/palindrome-number.c) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/palindrome-number.cpp) |
+    | 11. | <span style="color:orange">Medium</span> | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/container-with-most-water.py) |
     | 13. | <span style="color:green">Easy</span> | [Roman to Integer](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/roman-to-integer.py) |
     | 26. | <span style="color:green">Easy</span> | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-element/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/remove-duplicates-from-sorted-array.py) |
     | 27. | <span style="color:green">Easy</span> | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/remove-element.py) |
@@ -82,7 +84,8 @@
     | 1399. | <span style="color:green">Easy</span> | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/count-largest-group.py) |
     | 1464. | <span style="color:green">Easy</span> | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/maximum-product-of-two-elements-in-an-array.py) |
     | 1539. | <span style="color:green">Easy</span> | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/kth-missing-positive-number.py) |
-  
+    | 1550. | <span style="color:green">Easy</span> | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/three-consecutive-odds.py) |
+    
 - ### **Binary Search**
 
     | Sl No.| Level | Questions | Solution |
@@ -138,6 +141,13 @@
     | 620. | <span style="color:green">Easy</span> | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/not-boring-movies.sql) |
     | 627. | <span style="color:green">Easy</span> | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/swap-salary.sql) |
     
+- ### **Dynamic Programming**
+    
+    | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :--- | :--- |
+    | 1553. | <span style="color:red">Hard</span> | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/dynamic-programming/minimum-number-of-days-to-eat-n-oranges.py) |
+
+
 - ### **Geometry**
     
     | Sl No.| Level | Questions | Solution |
@@ -203,7 +213,7 @@
     | :---: | :---: | :--- | :--- |
     | 171. | <span style="color:green">Easy</span> | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/excel-sheet-column-number.py) |
     | 258. | <span style="color:green">Easy</span> | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/add-digits.py) |
- 
+    | 1551. | <span style="color:orange">Medium</span> | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/minimum-operations-to-make-array-equal.py) |
 
 - ### **Minimax**
     
