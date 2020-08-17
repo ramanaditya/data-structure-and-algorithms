@@ -17,6 +17,8 @@
     | Aug '2020 | [Chef Wars - Return of the Jedi](https://www.codechef.com/AUG20B/problems/CHEFWARS) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/CHEFWARS.py) |
     | Aug '2020 | [Chef and Linear Chess](https://www.codechef.com/AUG20B/problems/LINCHESS) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/LINCHESS.py) |
     | Aug '2020 | [Another Card Game Problem](https://www.codechef.com/AUG20B/problems/CRDGAME3) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/CRDGAME3.py) |
+    | Aug '2020 | [Smallest KMP](https://www.codechef.com/AUG20B/problems/SKMP) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/SKMP.py) |
+    | Aug '2020 | [Chef and Wedding Arrangements](https://www.codechef.com/AUG20B/problems/CHEFWED) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/codechef/long-challenge/CHEFWED.py) |
     
 - ### **Cook Off**
 

@@ -1,6 +1,5 @@
 """
-Easy
-## Questions
+## Questions: EASY
 ### [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
 
 You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of
@@ -23,7 +22,7 @@ call isBadVersion(4) -> true
 Then 4 is the first bad version. .
 """
 
-## Solutions
+# Solutions
 
 
 # The isBadVersion API is already defined for you.
@@ -58,5 +57,40 @@ class Solution:
             return self.binary_search(1, n)
 
 
-# Runtime: 24 ms, faster than 90.24% of Python3 online submissions
-# Memory Usage: 13.9 MB, less than 6.90% of Python3 online submissions
+# Runtime       : 24 ms, faster than 90.24% of Python3 online submissions
+# Memory Usage  : 13.9 MB, less than 6.90% of Python3 online submissions
+
+
+# The isBadVersion API is already defined for you.
+# @param version, an integer
+# @return a bool
+# def isBadVersion(version):
+
+
+class Solution:
+    """Using Binary Search General Template"""
+
+    def binary_search(self, low, high):
+        while low < high:
+            mid = low + (high - low) // 2
+
+            if isBadVersion(mid):
+                high = mid
+            else:
+                low = mid + 1
+
+        return low
+
+    def firstBadVersion(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        if n <= 0:
+            return -1
+        else:
+            return self.binary_search(1, n)
+
+
+# Runtime       : 28 ms, faster than 79.70% of Python3 online submissions
+# Memory Usage  : 13.8 MB, less than 61.61% of Python3 online submissions
