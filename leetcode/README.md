@@ -187,6 +187,7 @@
     
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
+    | 703. | <span style="color:green">Easy</span> | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/heap/kth-largest-element-in-a-stream.py) |
     | 973. | <span style="color:orange">Medium</span> | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/heap/k-closest-points-to-origin.py) |
     | 1046. | <span style="color:green">Easy</span> | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/heap/last-stone-weight.py) |
 
