@@ -1,5 +1,5 @@
 """
-## Questions
+## Questions: EASY
 
 ### 1046. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 
@@ -64,3 +64,26 @@ class Solution:
 
 # Runtime: 28 ms, faster than 75.54% of Python3 online submissions
 # Memory Usage: 13.9 MB, less than 100.00% of Python3 online submissions
+
+import heapq
+
+
+class Solution:
+    def lastStoneWeight(self, stones: List[int]) -> int:
+        if len(stones) <= 1:
+            return stones[0] if len(stones) == 1 else None
+
+        for i in range(len(stones)):
+            stones[i] *= -1
+
+        heapq.heapify(stones)
+        while len(stones) > 2:
+            first = heapq.heappop(stones)
+            second = heapq.heappop(stones)
+            heapq.heappush(stones, -abs(first - second))
+            heapq.heapify(stones)
+        return abs(stones[-1] - stones[-2])
+
+
+# Runtime: 36 ms, faster than 50.74% of Python3 online submissions
+# Memory Usage: 13.8 MB, less than 54.37% of Python3 online submissions

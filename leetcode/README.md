@@ -14,18 +14,19 @@
 | 8.    | Geometry               | [Search Here](#Geometry) |
 | 9.    | Greedy                 | [Search Here](#Greedy) |
 | 10.   | Hash Table             | [Search Here](#Hash-Table) |
-| 11.   | Linked-List            | [Search Here](#Linked-List) |
-| 12.   | Math                   | [Search Here](#Math) |
-| 13.   | Minimax                | [Search Here](#Minimax) |
-| 14.   | Mock                   | [Search Here](#Mock) |
-| 15.   | Stack                  | [Search Here](#Stack) |
-| 16.   | String                 | [Search Here](#String) |
-| 17.   | Tree                   | [Search Here](#Tree) |
-| 18.   | April '20 Challenge    | [Search Here](#April-LeetCoding-Challenge--2020) |
-| 19.   | May '20 Challenge      | [Search Here](#May-LeetCoding-Challenge--2020) |
-| 20.   | June '20 Challenge     | [Search Here](#June-LeetCoding-Challenge--2020) |
-| 21.   | July '20 Challenge     | [Search Here](#July-LeetCoding-Challenge--2020) |
-| 22.   | August '20 Challenge   | [Search Here](#August-LeetCoding-Challenge--2020) |
+| 11.   | Heap                   | [Search Here](#Heap) |
+| 12.   | Linked-List            | [Search Here](#Linked-List) |
+| 13.   | Math                   | [Search Here](#Math) |
+| 14.   | Minimax                | [Search Here](#Minimax) |
+| 15.   | Mock                   | [Search Here](#Mock) |
+| 16.   | Stack                  | [Search Here](#Stack) |
+| 17.   | String                 | [Search Here](#String) |
+| 18.   | Tree                   | [Search Here](#Tree) |
+| 19.   | April '20 Challenge    | [Search Here](#April-LeetCoding-Challenge--2020) |
+| 20.   | May '20 Challenge      | [Search Here](#May-LeetCoding-Challenge--2020) |
+| 21.   | June '20 Challenge     | [Search Here](#June-LeetCoding-Challenge--2020) |
+| 22.   | July '20 Challenge     | [Search Here](#July-LeetCoding-Challenge--2020) |
+| 23.   | August '20 Challenge   | [Search Here](#August-LeetCoding-Challenge--2020) |
 
 
 - ### **Array**
@@ -165,7 +166,6 @@
     | 122. | <span style="color:green">Easy</span> | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/best-time-to-buy-and-sell-stock-ii.py) |
     | 435. | <span style="color:orange">Medium</span> | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/non-overlapping-intervals.py) |
     | 1029. | <span style="color:green">Easy</span> | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/two-city-scheduling.py) |
-    | 1046. | <span style="color:green">Easy</span> | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/last-stone-weight.py) |
     | 1196. | <span style="color:green">Easy</span> | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/how-many-apples-can-you-put-into-the-basket.py) |
 
 - ### **Hash Table**
@@ -182,6 +182,13 @@
     | 1207. | <span style="color:green">Easy</span> | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/unique-number-of-occurrences.py) |
     | 1365. | <span style="color:green">Easy</span> | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/how-many-numbers-are-smaller-than-the-current-number.py) |
     | 1426. | <span style="color:green">Easy</span> | [Counting Elements](https://leetcode.com/problems/counting-elements/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/counting-elements.py) |
+
+- ### **Heap**
+    
+    | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :--- | :--- |
+    | 973. | <span style="color:orange">Medium</span> | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/heap/k-closest-points-to-origin.py) |
+    | 1046. | <span style="color:green">Easy</span> | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/heap/last-stone-weight.py) |
 
 - ### **Linked-List**
     
