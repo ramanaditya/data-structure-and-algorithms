@@ -371,4 +371,5 @@
     | 14 | 409. | <span style="color:green">Easy</span> | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/longest-palindrome.py) |
     | 15 | 435. | <span style="color:orange">Medium</span> | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/non-overlapping-intervals.py) |
     | 20 | 143. | <span style="color:orange">Medium</span> | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/reorder-list.py) |
+    | 21 | 905. | <span style="color:green">Easy</span> | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/sort-array-by-parity.py) |
     
