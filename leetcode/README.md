@@ -19,14 +19,15 @@
 | 13.   | Math                   | [Search Here](#Math) |
 | 14.   | Minimax                | [Search Here](#Minimax) |
 | 15.   | Mock                   | [Search Here](#Mock) |
-| 16.   | Stack                  | [Search Here](#Stack) |
-| 17.   | String                 | [Search Here](#String) |
-| 18.   | Tree                   | [Search Here](#Tree) |
-| 19.   | April '20 Challenge    | [Search Here](#April-LeetCoding-Challenge--2020) |
-| 20.   | May '20 Challenge      | [Search Here](#May-LeetCoding-Challenge--2020) |
-| 21.   | June '20 Challenge     | [Search Here](#June-LeetCoding-Challenge--2020) |
-| 22.   | July '20 Challenge     | [Search Here](#July-LeetCoding-Challenge--2020) |
-| 23.   | August '20 Challenge   | [Search Here](#August-LeetCoding-Challenge--2020) |
+| 16.   | Queue                  | [Search Here](#Queue) |
+| 17.   | Stack                  | [Search Here](#Stack) |
+| 18.   | String                 | [Search Here](#String) |
+| 19.   | Tree                   | [Search Here](#Tree) |
+| 20.   | April '20 Challenge    | [Search Here](#April-LeetCoding-Challenge--2020) |
+| 21.   | May '20 Challenge      | [Search Here](#May-LeetCoding-Challenge--2020) |
+| 22.   | June '20 Challenge     | [Search Here](#June-LeetCoding-Challenge--2020) |
+| 23.   | July '20 Challenge     | [Search Here](#July-LeetCoding-Challenge--2020) |
+| 24.   | August '20 Challenge   | [Search Here](#August-LeetCoding-Challenge--2020) |
 
 
 - ### **Array**
@@ -239,6 +240,13 @@
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
     | 482. | <span style="color:green">Easy</span> | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/mock/license-key-formatting.py) |
+
+- ### **Queue**
+    
+    | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :--- | :--- |
+    | 622. | <span style="color:orange">Medium</span> | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/queue/design-circular-queue.py) |
+
 
 - ### **Stack**
 

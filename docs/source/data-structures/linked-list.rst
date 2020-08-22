@@ -256,24 +256,37 @@ Important Problems
 Leetcode Problems
 ```````````````````
 
-.. list-table:: Linked List Cycle
-   :header-rows: 1
-   :widths: 5, 5, 15, 15, 10
+..  list-table:: Linked List Cycle
+    :header-rows: 1
+    :widths: 5, 5, 15, 15, 10
 
-   * - Sl No
-     - Level
-     - Questions
-     - Solutions
-     - Tags
+    *   - Sl No
+        - Level
+        - Questions
+        - Solutions
+        - Tags
 
-   * - 141
-     - :green:`Easy`
-     - `Linked List Cycle <https://leetcode.com/problems/linked-list-cycle/>`__
-     - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/linked-list-cycle.py>`__
-     - Two Pointers
+    *   - 141
+        - :green:`Easy`
+        - `Linked List Cycle <https://leetcode.com/problems/linked-list-cycle/>`__
+        - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/linked-list-cycle.py>`__
+        - Two Pointers
 
-   * - 142
-     - :orange:`Medium`
-     - `Linked List Cycle II <https://leetcode.com/problems/linked-list-cycle-ii/>`__
-     - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/linked-list-cycle-ii.py>`__
-     - Hash Table
+    *   - 142
+        - :orange:`Medium`
+        - `Linked List Cycle II <https://leetcode.com/problems/linked-list-cycle-ii/>`__
+        - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/linked-list-cycle-ii.py>`__
+        - Hash Table
+
+    *   - 2
+        - :orange:`Medium`
+        - `Add Two Numbers <https://leetcode.com/problems/add-two-numbers/>`__
+        - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/add-two-numbers.py>`__
+        - Traversal
+
+    *   - 19
+        - :orange:`Medium`
+        - `Remove Nth Node From End of List <https://leetcode.com/problems/remove-nth-node-from-end-of-list/>`__
+        - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/remove-nth-node-from-end-of-list/>`__
+        - Two Pointers
+
