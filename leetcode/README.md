@@ -246,7 +246,7 @@
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
     | 622. | <span style="color:orange">Medium</span> | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/queue/design-circular-queue.py) |
-
+    | 933. | <span style="color:green">Easy</span> | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/queue/number-of-recent-calls.py) |
 
 - ### **Stack**
 
