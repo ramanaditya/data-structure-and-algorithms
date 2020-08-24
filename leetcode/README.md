@@ -252,6 +252,7 @@
 
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
+    | 20. | <span style="color:green">Easy</span> | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/stack/valid-parentheses.py) |
     | 155. | <span style="color:green">Easy</span> | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/stack/min-stack.py) |
     | 1021. | <span style="color:green">Easy</span> | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/stack/remove-outermost-parentheses.py) |
 
