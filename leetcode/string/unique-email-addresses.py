@@ -60,5 +60,5 @@ class Solution:
         return len(d)
 
 
-# Runtime: 32 ms, faster than 41.02% of Python3 online submissions
-# Memory Usage: 13.8 MB, less than 8.00% of Python3 online submissions
+# Runtime: 60 ms, faster than 60.73% of Python3 online submissions
+# Memory Usage: 13.9 MB, less than 79.13% of Python3 online submissions
