@@ -282,6 +282,7 @@
     | 1189. | <span style="color:green">Easy</span> | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/maximum-number-of-balloons.py) |
     | 1427. | <span style="color:green">Easy</span> | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/perform-string-shifts.py) |
     | 1540. | <span style="color:orange">Medium</span> | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/can-convert-string-in-k-moves.py) |
+    | 1544. | <span style="color:green">Easy</span> | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/make-the-string-great.py) |
 
 - ### **Tree**
 
@@ -384,4 +385,4 @@
     | 15 | 435. | <span style="color:orange">Medium</span> | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/non-overlapping-intervals.py) |
     | 20 | 143. | <span style="color:orange">Medium</span> | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/reorder-list.py) |
     | 21 | 905. | <span style="color:green">Easy</span> | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/sort-array-by-parity.py) |
-    
+    | 26 | 412. | <span style="color:green">Easy</span> | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/ransom-note.py) |    
