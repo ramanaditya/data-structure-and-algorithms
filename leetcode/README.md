@@ -87,6 +87,7 @@
     | 1480. | <span style="color:green">Easy</span> | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/running-sum-of-1d-array.py) |
     | 1539. | <span style="color:green">Easy</span> | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/kth-missing-positive-number.py) |
     | 1550. | <span style="color:green">Easy</span> | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/three-consecutive-odds.py) |
+    | 1566. | <span style="color:green">Easy</span> | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/detect-pattern-of-length-m-repeated-k-or-more-times.py) |
     
 - ### **Binary Search**
 
