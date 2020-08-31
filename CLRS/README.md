@@ -7,6 +7,12 @@
 - **Ronald L. Rivest**
 - **Clifford Stein**
 
+## Solutions:
+
+https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
+
+
+
 ## Index
 
 - III. Data Structures
