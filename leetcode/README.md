@@ -28,6 +28,7 @@
 | 22.   | June '20 Challenge     | [Search Here](#June-LeetCoding-Challenge--2020) |
 | 23.   | July '20 Challenge     | [Search Here](#July-LeetCoding-Challenge--2020) |
 | 24.   | August '20 Challenge   | [Search Here](#August-LeetCoding-Challenge--2020) |
+| 25.   | September '20 Challenge   | [Search Here](#September-LeetCoding-Challenge--2020) |
 
 
 - ### **Array**
@@ -392,3 +393,9 @@
     | 21 | 905. | <span style="color:green">Easy</span> | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/sort-array-by-parity.py) |
     | 26 | 412. | <span style="color:green">Easy</span> | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/ransom-note.py) |    
 
+- ### **September LeetCoding Challenge : 2020**
+
+    | Day | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :---: | :--- | :--- |
+    | 1 | 949. | <span style="color:green">Easy</span> | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/largest-time-for-given-digits.py) |
+    
