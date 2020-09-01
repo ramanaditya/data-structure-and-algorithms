@@ -230,6 +230,7 @@
     | :---: | :---: | :--- | :--- |
     | 171. | <span style="color:green">Easy</span> | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/excel-sheet-column-number.py) |
     | 258. | <span style="color:green">Easy</span> | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/add-digits.py) |
+    | 949. | <span style="color:green">Easy</span> | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/largest-time-for-given-digits.py) |
     | 1551. | <span style="color:orange">Medium</span> | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/minimum-operations-to-make-array-equal.py) |
 
 - ### **Minimax**
