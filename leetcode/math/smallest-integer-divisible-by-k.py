@@ -32,6 +32,11 @@ Note:
 
 
 class Solution:
+    """
+    Time Complexity: o(K)
+    Space Complexity: O(K)
+    """
+
     def smallestRepunitDivByK(self, K: int) -> int:
         N = 1
         track = dict()
@@ -50,6 +55,11 @@ class Solution:
 
 
 class Solution:
+    """
+    Time Complexity: o(K)
+    Space Complexity: O(1)
+    """
+
     def smallestRepunitDivByK(self, K: int) -> int:
         rem = 0
         for length_N in range(1, K + 1):
