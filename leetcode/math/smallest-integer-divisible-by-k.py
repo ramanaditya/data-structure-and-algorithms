@@ -47,3 +47,17 @@ class Solution:
 
 # Runtime       : 2008 ms, faster than 33.74% of Python3 online submissions
 # Memory Usage  : 18.7 MB, less than 5.29% of Python3 online submissions
+
+
+class Solution:
+    def smallestRepunitDivByK(self, K: int) -> int:
+        rem = 0
+        for length_N in range(1, K + 1):
+            rem = (rem * 10 + 1) % K
+            if rem == 0:
+                return length_N
+        return -1
+
+
+# Runtime       : 40 ms, faster than 95.94% of Python3 online submissions
+# Memory Usage  : 13.8 MB, less than 84.55% of Python3 online submissions
