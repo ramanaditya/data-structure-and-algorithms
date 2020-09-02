@@ -69,3 +69,13 @@ def complement(n: int) -> int:
     """
     return ((1 << n.bit_length()) - 1) ^ n
 ```
+
+## Adding two positive numbers
+```python
+def addition(a, b):
+    if not a:
+        return b
+    else:
+        return addition((a & b) << 1, a ^ b)
+
+```
