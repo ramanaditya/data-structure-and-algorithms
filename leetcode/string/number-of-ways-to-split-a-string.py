@@ -66,36 +66,15 @@ class Solution:
         i = 0
         temp = 0
 
-        # Finding the index of the last one in the first group
+        # Finding the zeroes on the left and right border
         while i < len(s):
-            if s[i] == "1":
-                temp += 1
-            i += 1
+            temp += int(s[i]) & 1
             if temp == ones_interval:
-                break
-
-        # Finding number of zeroes in the first border
-        while i < len(s):
-            if s[i] == "0":
-                left += 1
-            if s[i] == "1" or temp == 2 * ones_interval:
-                break
-            i += 1
-
-        # Finding the index of the last one in the second group
-        while i < len(s):
-            if s[i] == "1":
-                temp += 1
-            i += 1
+                if s[i] == "0":
+                    left += 1
             if temp == 2 * ones_interval:
-                break
-
-        # Finding number of zeroes in the second border
-        while i < len(s):
-            if s[i] == "0":
-                right += 1
-            if s[i] == "1":
-                break
+                if s[i] == "0":
+                    right += 1
             i += 1
 
         # The result is the product of number of (left + 1) and (right + 1)
@@ -105,5 +84,6 @@ class Solution:
         return ((left + 1) * (right + 1)) % ((10 ** 9) + 7)
 
 
-# Runtime: 212 ms, faster than 33.33% of Python3 online submissions
-# Memory Usage: 14.6 MB, less than 33.33% of Python3 online submissions
+# Runtime       : 212 ms, faster than 33.33% of Python3 online submissions
+# Memory Usage  : 14.6 MB, less than 33.33% of Python3 online submissions
+# Description   : https://leetcode.com/problems/number-of-ways-to-split-a-string/discuss/830774/Python-or-Combination-concept-Mathematics-or-Explained-with-Code-or-Easy-Solution
