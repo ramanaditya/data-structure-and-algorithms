@@ -291,6 +291,7 @@
     | 1427. | <span style="color:green">Easy</span> | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/perform-string-shifts.py) |
     | 1540. | <span style="color:orange">Medium</span> | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/can-convert-string-in-k-moves.py) |
     | 1544. | <span style="color:green">Easy</span> | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/make-the-string-great.py) |
+    | 1573. | <span style="color:orange">Medium</span> | [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/number-of-ways-to-split-a-string.py) |
 
 - ### **Tree**
 
