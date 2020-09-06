@@ -86,4 +86,4 @@ class Solution:
 
 # Runtime       : 212 ms, faster than 33.33% of Python3 online submissions
 # Memory Usage  : 14.6 MB, less than 33.33% of Python3 online submissions
-# Description   : https://leetcode.com/problems/number-of-ways-to-split-a-string/discuss/830774/Python-or-Combination-concept-Mathematics-or-Explained-with-Code-or-Easy-Solution
+# Description   : https://leetcode.com/problems/number-of-ways-to-split-a-string/discuss/830774/python-combination-concept-mathematics-explained-with-concept-and-code-easy-solution
