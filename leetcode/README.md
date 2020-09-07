@@ -181,6 +181,7 @@
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
     | 202. | <span style="color:green">Easy</span> | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/happy-number.py) |
+    | 290. | <span style="color:green">Easy</span> | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/word-pattern.py) |
     | 347. | <span style="color:orange">Medium</span> | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/top-k-frequent-elements.py) |
     | 387. | <span style="color:green">Easy</span> | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/first-unique-character-in-a-string.py) |
     | 409. | <span style="color:green">Easy</span> | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/longest-palindrome.py) |
@@ -406,3 +407,5 @@
     | :---: | :---: | :---: | :--- | :--- |
     | 1 | 949. | <span style="color:green">Easy</span> | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/largest-time-for-given-digits.py) |
     | 5 | 1305. | <span style="color:orange">Medium</span> | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/all-elements-in-two-binary-search-trees.py) |
+    | 7 | 290. | <span style="color:green">Easy</span> | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/word-pattern.py) |
+    
