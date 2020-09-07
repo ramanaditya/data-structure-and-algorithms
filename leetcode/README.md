@@ -132,6 +132,7 @@
     | 461. | <span style="color:green">Easy</span> | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/hamming-distance.py) |
     | 476. | <span style="color:green">Easy</span> | [Number Complement](https://leetcode.com/problems/number-complement/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/number-complement.py) |
     | 1342. | <span style="color:green">Easy</span> | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/number-of-steps-to-reduce-a-number-to-zero.py) |
+    | 1486. | <span style="color:green">Easy</span> | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/xor-operation-in-an-array.py) |
 
 - ### **Contests**
     
