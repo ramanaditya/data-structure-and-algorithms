@@ -276,6 +276,7 @@
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
     | 49. | <span style="color:orange">Medium</span> | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/group-anagrams.py) |
+    | 58. | <span style="color:green">Easy</span> | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/length-of-last-word.py) |
     | 125. | <span style="color:green">Easy</span> | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-palindrome.py) |
     | 151. | <span style="color:orange">Medium</span> | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/reverse-words-in-a-string.py) |
     | 165. | <span style="color:orange">Medium</span> | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/compare-version-numbers.py) |
@@ -414,4 +415,4 @@
     | 7 | 290. | <span style="color:green">Easy</span> | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/word-pattern.py) |
     | 8 | 1022. | <span style="color:green">Easy</span> | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/sum-of-root-to-leaf-binary-numbers.py) |
     | 9 | 165. | <span style="color:orange">Medium</span> | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/compare-version-numbers.py) |    
-
+    | 15 | 58. | <span style="color:green">Easy</span> | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/length-of-last-word.py) |
