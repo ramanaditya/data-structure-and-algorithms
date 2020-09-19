@@ -95,6 +95,7 @@
     | 1566. | <span style="color:green">Easy</span> | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/detect-pattern-of-length-m-repeated-k-or-more-times.py) |
     | 1572. | <span style="color:green">Easy</span> | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/matrix-diagonal-sum.py) |
     | 1582. | <span style="color:green">Easy</span> | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/special-positions-in-a-binary-matrix.py) |
+    | 1588. | <span style="color:green">Easy</span> | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/sum-of-all-odd-length-subarrays.py) |
     
 - ### **Binary Search**
 
