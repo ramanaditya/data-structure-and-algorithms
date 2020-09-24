@@ -29,12 +29,10 @@ class Solution:
             xor ^= ord(t[i])
             i += 1
 
-        while i < n + 1:
-            xor ^= ord(t[i])
-            i += 1
+        xor ^= ord(t[-1])
 
         return chr(xor)
 
 
 # Runtime: 28 ms, faster than 92.15% of Python3 online submissions
-# Memory Usage: 14.1 MB, less than 5.37% of Python3 online submissions
+# Memory Usage: 13.8 MB, less than 75.86% of Python3 online submissions
