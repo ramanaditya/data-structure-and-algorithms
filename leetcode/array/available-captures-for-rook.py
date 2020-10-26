@@ -31,7 +31,7 @@ Note:
 - There is exactly one cell with board[i][j] == 'R'
 """
 
-## Solutions
+# Solutions
 
 
 class Solution:

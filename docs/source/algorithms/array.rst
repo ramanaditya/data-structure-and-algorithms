@@ -4,7 +4,13 @@ Array
 Boyer–Moore majority vote algorithm
 ------------------------------------
 
-Reference : `wiki <https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm>`__
+.. automodule:: Array.boyer_moore_voting_algorithm
+   :members:
+   :undoc-members:
+   :private-members:
+   :special-members:
+   :inherited-members:
+   :show-inheritance:
 
 Description
 ````````````
@@ -12,16 +18,19 @@ Description
 To find the majority element from the sequence, majority means the element should be present more than n/2
 times the total length, n,  of the sequence.
 
-If the no such element occurs, then algorithm can return any arbitrary element, that is not guaranteed that this element
+If no such element occurs, then algorithm can return any arbitrary element, and is not guaranteed that this element
 will be the mode or occurred maximum number of times.
 
-.. code-block:: text
+.. important::
+    * Linear TIme
+    * Constant Space
 
-    Linear TIme
-    Constant Space
+.. seealso::
+    Reference : `wiki <https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm>`__
 
 Python
 ````````
+
 .. code-block:: python
 
     def boyer_moore_voting_algorithm(arr: list) -> int:

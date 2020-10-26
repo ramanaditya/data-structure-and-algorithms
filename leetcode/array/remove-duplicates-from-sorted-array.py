@@ -1,5 +1,5 @@
-'''
-## Question
+"""
+## Question: EASY
 
 ### 26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-element/)
 
@@ -44,15 +44,47 @@ the first len elements.
 for (int i = 0; i < len; i++) {
     print(nums[i]);
 }
-'''
+"""
 
-## Solutions
+# Solutions
+
 
 class Solution:
+    """
+    Two Pointers
+    Time Complexity: O( n )
+    Space Complexity: O( 1 )
+    """
+
+    def removeDuplicates(self, nums: List[int]) -> int:
+        if not nums or len(nums) < 2:
+            return len(nums)
+
+        slow = 1
+        fast = 1
+        end = len(nums)
+
+        while fast < end:
+            if nums[fast] != nums[fast - 1]:
+                nums[slow] = nums[fast]
+                slow += 1
+            fast += 1
+
+        return len(nums[:slow])
+
+
+# Runtime       : 84 ms, faster than 86.24% of Python3 online submissions
+# Memory Usage  : 15.5 MB, less than 65.51% of Python3 online submissions
+
+
+class Solution:
+    """Python specific Solution"""
+
     def removeDuplicates(self, nums: List[int]) -> int:
         nums[:] = set(nums)
         nums.sort()
         return len(nums)
 
-# Runtime: 56 ms
-# Memory Usage: 15 MB
+
+# Runtime       : 56 ms
+# Memory Usage  : 15 MB

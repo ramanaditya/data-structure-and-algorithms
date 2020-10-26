@@ -6,30 +6,63 @@
 Welcome to Interview Documentation!
 ===================================================
 
-Data Structures
-================
+.. toctree::
+   :maxdepth: 3
+   :caption: Table of Contents
+   :hidden:
+
+.. raw:: latex
+
+   \part{Data Structures}
+
 
 .. toctree::
    :maxdepth: 3
    :caption: Data Structures
+   :name: Data Structures
 
-   data-structures/list
+   data-structures/array
    data-structures/linked-list
 
-Algorithms
-===========
+.. raw:: latex
+
+   \part{Algorithms}
 
 .. toctree::
    :maxdepth: 2
    :caption: Algorithms
+   :name: Algorithms
 
    algorithms/array
+   algorithms/linked-list
+   algorithms/searching
+   algorithms/sorting
+   algorithms/two-pointers
+
+.. raw:: latex
+
+   \part{Interview}
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Interview
+   :name: Interview
+
+   interview/preparation
+   interview/networking
+
+.. raw:: latex
+
+   \part{Resources}
 
 .. toctree::
    :maxdepth: 2
    :caption: Resources
+   :name: Resources
 
    resources
+   credits
+   collaborators
 
 Indices and tables
 ==================

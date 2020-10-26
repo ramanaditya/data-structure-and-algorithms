@@ -10,10 +10,16 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
+import os
+import sys
+from datetime import date
 
+sys.path.insert(0, os.path.abspath("."))
+sys.path.insert(0, os.path.abspath("./Scripts"))
+sys.path.insert(0, os.path.abspath("./Scripts/data_structures"))
+sys.path.insert(0, os.path.abspath("./Scripts/algorithms"))
+sys.path.insert(0, os.path.abspath("../../algorithms/"))
+sys.path.insert(0, os.path.abspath("../../DataStructures/"))
 
 # -- Project information -----------------------------------------------------
 
@@ -22,15 +28,20 @@ copyright = "2020, Aditya Raman"
 author = "Aditya Raman"
 
 # The full version, including alpha/beta/rc tags
-release = "v0.1.0"
-
-
+version = release = "v0.1.0"
+today = str(date.today())
+language = "en"
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ["sphinx_rtd_theme"]
+extensions = [
+    "sphinx_rtd_theme",
+    "sphinx.ext.autodoc",
+    "sphinx.ext.napoleon",
+    "sphinx.ext.viewcode",
+]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
@@ -39,7 +50,6 @@ templates_path = ["_templates"]
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ["_build"]
-
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -62,3 +72,25 @@ html_css_files = [
 html_style = "css/color.css"
 
 master_doc = "index"
+
+latex_elements = {
+    # The paper size ('letterpaper' or 'a4paper').
+    #
+    "papersize": "a4paper",
+    # The font size ('10pt', '11pt' or '12pt').
+    #
+    # 'pointsize': '10pt',
+    # Additional stuff for the LaTeX preamble.
+    #
+    "preamble": "\\addto\\captionsenglish{\\renewcommand{\\contentsname}{Table of contents}}",
+    # Latex figure (float) alignment
+    #
+    # 'figure_align': 'htbp',
+}
+latex_show_urls = "footnote"
+
+# If true, the current module name will be prepended to all description
+# unit titles (such as .. function::).
+add_module_names = False
+add_function_parentheses = False
+show_authors = True

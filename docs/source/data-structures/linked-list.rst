@@ -1,7 +1,9 @@
 Linked List
 ============
 
-A linked-list is a sequential list of nodes that hold data which point to other nodes also containing data
+.. important::
+   A linked-list is a sequential list of nodes that hold data which point to other nodes also containing data
+
 
 Where are they used
 --------------------
@@ -43,11 +45,20 @@ Complexity
 | Remove in middle     |         O(n)          |         O(n)         |
 +----------------------+-----------------------+----------------------+
 
+.. automodule:: LinkedList.singlyll
+   :members:
+   :private-members:
+   :inherited-members:
+   :show-inheritance:
+
+
 Node
 -----
 
 Defining the node for a Linked List
 ````````````````````````````````````
+
+.. py:function:: Node(data: int)
 
 .. code-block:: python
 
@@ -57,10 +68,12 @@ Defining the node for a Linked List
 
 .. code-block:: python
 
-    head = None # Initialize
+    head = None
 
 Search
 -------
+
+.. py:function:: search(data: int)
 
 .. code-block:: python
 
@@ -84,6 +97,8 @@ Insert
 Insert at head
 ````````````````
 
+.. py:function:: insert_at_head(data: int)
+
 .. code-block:: python
 
     def insert_at_head(data):
@@ -94,6 +109,8 @@ Insert at head
 
 Insert at Tail
 ````````````````
+
+.. py:function:: insert_at_tail(data: int)
 
 .. code-block:: python
 
@@ -111,6 +128,8 @@ Insert at Tail
 
 Insert at an Index
 ````````````````````
+
+.. py:function:: insert_at_index(data: int)
 
 .. code-block:: python
 
@@ -154,6 +173,8 @@ Delete
 Delete at head
 ```````````````
 
+.. py:function:: delete_head()
+
 .. code-block:: python
 
     def delete_head():
@@ -169,6 +190,9 @@ Delete at head
 
 Delete at Tail
 ```````````````
+
+.. py:function:: delete_tail()
+
 .. code-block:: python
 
     def delete_tail():
@@ -188,6 +212,8 @@ Delete at Tail
 
 Delete at Index
 ````````````````
+
+.. py:function:: delete_at_index(index: int)
 
 .. code-block:: python
 
@@ -230,19 +256,37 @@ Important Problems
 Leetcode Problems
 ```````````````````
 
-.. list-table:: Cycle
-   :header-rows: 1
-   :widths: 10, 10, 10, 20, 10
+..  list-table:: Linked List Cycle
+    :header-rows: 1
+    :widths: 5, 5, 15, 15, 10
 
-   * - Sl No
-     - Level
-     - Questions
-     - Solutions
-     - Tags
+    *   - Sl No
+        - Level
+        - Questions
+        - Solutions
+        - Tags
 
-   * - 141
-     - :green:`Easy`
-     - `Linked List Cycle <https://leetcode.com/problems/linked-list-cycle/>`__
-     - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/linked-list-cycle.py>`__
-     - Two Pointers
+    *   - 141
+        - :green:`Easy`
+        - `Linked List Cycle <https://leetcode.com/problems/linked-list-cycle/>`__
+        - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/linked-list-cycle.py>`__
+        - Two Pointers
+
+    *   - 142
+        - :orange:`Medium`
+        - `Linked List Cycle II <https://leetcode.com/problems/linked-list-cycle-ii/>`__
+        - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/linked-list-cycle-ii.py>`__
+        - Hash Table
+
+    *   - 2
+        - :orange:`Medium`
+        - `Add Two Numbers <https://leetcode.com/problems/add-two-numbers/>`__
+        - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/add-two-numbers.py>`__
+        - Traversal
+
+    *   - 19
+        - :orange:`Medium`
+        - `Remove Nth Node From End of List <https://leetcode.com/problems/remove-nth-node-from-end-of-list/>`__
+        - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/remove-nth-node-from-end-of-list/>`__
+        - Two Pointers
 

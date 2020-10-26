@@ -20,20 +20,28 @@ Output: [1,2]
 Explanation: The sum of 2 and 7 is 9. Therefore index1 = 1, index2 = 2.
 """
 
-## Solutions
+# Solutions
 
 
 class Solution:
+    """
+    Two Pointers
+    Time Complexity: O( n )
+    Space Complexity: O( 1 )
+    """
+
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
         start = 0
         end = len(numbers) - 1
+
         while start < end:
             if numbers[start] + numbers[end] == target:
-                return start + 1, end + 1
+                return [start + 1, end + 1]
             elif numbers[start] + numbers[end] < target:
                 start += 1
             else:
                 end -= 1
+
         return
 
 
