@@ -49,6 +49,13 @@ Sorting
         - .. math:: n^2
         - .. math:: n * log(n)
         - Unstable
+    *   - 6
+        - Heap Sort
+        - .. math:: n * log(n)
+        - .. math:: n * log(n)
+        - .. math:: n * log(n)
+        - .. math:: 1
+        - Unstable
 
 .. note::
     * **Stable** : Relative position of equal elements after sorting remains same.
@@ -322,4 +329,90 @@ Recursive Algorithm for quicksort
 Implementation
 ````````````````
 
+.. Section for Heap Sort
 
+Heap Sort
+------------------------------------
+.. automodule:: Sorting.heap_sort
+   :members:
+   :undoc-members:
+   :private-members:
+   :inherited-members:
+   :show-inheritance:
+
+
+Description
+````````````
+
+
+..  important::
+    TIme Complexity
+        * Worst Case: :math:`n * log(n)`
+        * Average Case: :math:`n * log(n)`
+        * Best Case: :math:`n * log(n)`
+
+    | **Space Complexity**: :math:`O(1)`
+    | **In Place Sorting**
+    | **Unstable Sorting**
+
+Python
+````````
+
+Algorithm for left child
+''''''''''''''''''''''''
+
+.. code-block:: python
+
+    def left(i):
+        return (2*i) + 1
+
+Algorithm for right child
+'''''''''''''''''''''''''
+
+.. code-block:: python
+
+    def right(i):
+        return (2*i) + 2
+
+Recursive Algorithm for max heapify
+'''''''''''''''''''''''''''''''''''
+
+.. code-block:: python
+
+    def max_heapify(data, i, hs):
+        l = left(i)
+        r = right(i)
+        if ((l + 1) <= hs) and (data[l] > data[i]):
+            largest = l
+        else:
+            largest = i
+        if ((r + 1) <= hs) and (data[r] > data[largest]):
+            largest = r
+        if largest != i:
+            data[i], data[largest] = data[largest], data[i]
+            max_heapify(data, largest, hs)
+
+Algorithm for build max heap
+''''''''''''''''''''''''''''
+
+.. code-block:: python
+
+    def build_max_heap(data, hs):
+        for i in range(int(len(data)/2) - 1, -1, -1):
+            max_heapify(data, i, hs)
+
+Algorithm for heap sort
+'''''''''''''''''''''''
+
+.. code-block:: python
+
+    def heap_sort(data):
+        hs = len(data)
+        build_max_heap(data, hs)
+        for i in range(len(data) - 1, 0, -1):
+            data[0], data[i] = data[i], data[0]
+            hs -= 1
+            max_heapify(data, 0, hs)
+
+Implementation
+````````````````

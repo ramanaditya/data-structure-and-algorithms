@@ -5,8 +5,9 @@
 | 1. | Bubble Sort | O(n^2) | O(n^2) | O(n) | O(1) | Stable |
 | 2. | Selection Sort | O(n^2) | O(n^2) | O(n^2) | O(1) | Unstable |
 | 3. | Insertion Sort | O(n^2) | O(n^2) | O(n^2) | O(1) | Stable |
-| 3. | Merge Sort | O(n log(n) ) | O(n log(n) ) | O(n log(n) ) | O(n) | Stable |
-| 4. | Quick Sort | O(n log(n) ) | O(n log(n) ) | O(n^2 ) ) | O( log(n) ) | Unstable |
+| 4. | Merge Sort | O(n log(n) ) | O(n log(n) ) | O(n log(n) ) | O(n) | Stable |
+| 5. | Quick Sort | O(n log(n) ) | O(n log(n) ) | O(n^2 ) ) | O( log(n) ) | Unstable |
+| 6. | Heap Sort | O(n log(n) ) | O(n log(n) ) | O(n log(n) ) | O(1) | Unstable |
 
 > **Stable** : Relative position of equal elements after sorting remains same.
 >
@@ -155,10 +156,12 @@ def quick_sort(data, low, high):
 ```
 
 ## Heapsort
-
+| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/Sorting/heap_sort.py) |
 ```
 - Running Time : O(n log n)
+- Memory : O(1)
 - In Place Sorting
+- Unstable Sorting
 ```
 
 ### Heaps
@@ -201,3 +204,37 @@ the root, and the subtree rooted at a node contains values no larger than that c
 
 A min-heap is organized in the opposite way; the min-heap property is that for every node i other than the root,
 ```A[PARENT(i)] <= A[􏰀i]``` The smallest element in a min-heap is at the root.
+
+To implement heap sort max-heap data structure is used. 
+
+#### Algorithm for max-heapify
+```python
+def max_heapify(data, i, hs):
+    l = left(i)
+    r = right(i)
+    if ((l + 1) <= hs) and (data[l] > data[i]):
+        largest = l
+    else:
+        largest = i
+    if ((r + 1) <= hs) and (data[r] > data[largest]):
+        largest = r
+    if largest != i:
+        data[i], data[largest] = data[largest], data[i]
+        max_heapify(data, largest, hs)
+```
+#### Algorithm for build max-heap
+```python
+def build_max_heap(data, hs):
+    for i in range(int(len(data)/2) - 1, -1, -1):
+        max_heapify(data, i, hs)
+```
+#### Algorithm for heap sort
+```python
+def heap_sort(data):
+    hs = len(data)
+    build_max_heap(data, hs)
+    for i in range(len(data) - 1, 0, -1):
+        data[0], data[i] = data[i], data[0]
+        hs -= 1
+        max_heapify(data, 0, hs)
+```
