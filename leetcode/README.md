@@ -28,8 +28,8 @@
 | 22.   | June '20 Challenge     | [Search Here](#June-LeetCoding-Challenge--2020) |
 | 23.   | July '20 Challenge     | [Search Here](#July-LeetCoding-Challenge--2020) |
 | 24.   | August '20 Challenge   | [Search Here](#August-LeetCoding-Challenge--2020) |
-| 25.   | September '20 Challenge   | [Search Here](#September-LeetCoding-Challenge--2020) |
-
+| 25.   | September '20 Challenge| [Search Here](#September-LeetCoding-Challenge--2020) |
+| 26.   | November  '20 Challenge| [Search Here](#November-LeetCoding-Challenge--2020) |
 
 - ### **Array**
 
@@ -232,7 +232,7 @@
     | 707. | <span style="color:orange">Medium</span> | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/design-linked-list.py) |
     | 771. | <span style="color:green">Easy</span> | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/jewels-and-stones.py) |
     | 876. | <span style="color:green">Easy</span> | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/middle-of-the-linked-list.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/middle-of-the-linked-list.cpp) |
-    | 1290. | <span style="color:green">Easy</span> | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.py) \| [Java](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.java) |
+    | 1290. | <span style="color:green">Easy</span> | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.py) \| [C](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.c) \| [Java](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.java) |
 
 - ### **Math**
     
@@ -420,3 +420,9 @@
     | 9 | 165. | <span style="color:orange">Medium</span> | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/compare-version-numbers.py) |    
     | 15 | 58. | <span style="color:green">Easy</span> | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/length-of-last-word.py) |
     | 24 | 389. | <span style="color:green">Easy</span> | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/find-the-difference.py) |
+
+- ### **November LeetCoding Challenge : 2020**
+
+    | Day | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :---: | :--- | :--- |
+    | 1 | 1290. | <span style="color:green">Easy</span> | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.py) \| [C](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.c) \| [Java](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.java) |
