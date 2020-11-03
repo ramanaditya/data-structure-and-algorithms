@@ -426,3 +426,4 @@
     | Day | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :---: | :--- | :--- |
     | 1 | 1290. | <span style="color:green">Easy</span> | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.py) \| [C](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.c) \| [Java](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.java) |
+    
