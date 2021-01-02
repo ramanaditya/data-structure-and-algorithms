@@ -150,23 +150,23 @@ Implementation
    * - 704
      - :green:`Easy`
      - `Binary Search <https://leetcode.com/problems/binary-search/>`__
-     - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/binary-search.py>`__
+     - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/binary-search/binary-search.py>`__
      -
 
    * - 367
      - :green:`Easy`
      - `Valid Perfect Square <https://leetcode.com/problems/valid-perfect-square/>`__
-     - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/valid-perfect-square.py>`__
+     - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/binary-search/valid-perfect-square.py>`__
      -
 
    * - 278
      - :green:`Easy`
      - `First Bad Version <https://leetcode.com/problems/first-bad-version/>`__
-     - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/first-bad-version.py>`__
+     - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/binary-search/first-bad-version.py>`__
      -
 
    * - 74
      - :orange:`Medium`
      - `Search a 2D Matrix <https://leetcode.com/problems/search-a-2d-matrix/>`__
-     - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/search-a-2d-matrix.py>`__
+     - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/binary-search/search-a-2d-matrix.py>`__
      -

@@ -53,6 +53,17 @@ Welcome to Interview Documentation!
 
 .. raw:: latex
 
+   \part{Technical Interview}
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Technical Interview
+   :name: Technical Interview
+
+   technicalInterview/python
+
+.. raw:: latex
+
    \part{Resources}
 
 .. toctree::

@@ -1,52 +1,52 @@
-// program to enter n numbers in an array.
-// Redisplay the array with elements being sorted in ascending order.
-// Bubble Sort method.
+/*
+Bubble Sort:
+Runtime:
+    Worst: O(n^2)
+    Average: O(n^2)
+    Best: O(n)
+Memory: O(1)
+*/
 
 #include <stdio.h>
 
 
 // function for Bubble Sort
-void BubbleSort(int arr[], int size) {
+void BubbleSort(int *data[], int size) {
     int i, j, temp;
-
     for (i = 0; i < size; i++) {
-
         for (j = 0; j < size - i - 1; j++) {
-
-            if (arr[j] > arr[j + 1]) {
-
-                temp = arr[j];
-                arr[j] = arr[j + 1];
-                arr[j + 1] = temp;
-
+            if (*data[j] > *data[j + 1]) {
+                temp = *data[j];
+                *data[j] = *data[j + 1];
+                *data[j + 1] = temp;
             }
-
         }
-
     }
-
-    printf("\n The array Sorted in ascending order is :\n");
-    for (i = 0; i < size; i++)
-        printf(" %d\t", arr[i]);
-
 }
 
+// Function to Print the elements
+void display(int *data[], int size) {
+    printf("\nThe array Sorted in ascending order is :\n");
+    for (int i = 0; i < size; i++)
+        printf(" %d\t", *data[i]);
+}
 
 // main function
 int main()
 {
-    int i, size, arr[10];
+    int i, size, data[10];
 
-    printf("\n Enter the number of elements in the array : ");
+    printf("\nEnter the number of elements in the array : ");
     scanf("%d", &size);
-    printf("\n Enter the elements: ");
-    for(i=0; i<size; i++)
+    printf("\nEnter the elements: ");
+    for(i = 0; i < size; i++)
     {
-        scanf("%d", &arr[i]);
+        scanf("%d", &data[i]);
     }
 
     // function bubble sorting
-    BubbleSort(arr, size);
+    BubbleSort(*data, size);
+    display(*data, size);
 
     return 0;
 }

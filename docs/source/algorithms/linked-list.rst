@@ -107,11 +107,11 @@ Implementation
    * - 141
      - :green:`Easy`
      - `Linked List Cycle <https://leetcode.com/problems/linked-list-cycle/>`__
-     - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/majority-element.py>`__
+     - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/array/majority-element.py>`__
      - Two Pointers
 
    * - 142
      - :orange:`Medium`
      - `Linked List Cycle II <https://leetcode.com/problems/linked-list-cycle-ii/>`__
-     - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/linked-list-cycle-ii.py>`__
+     - `Python <https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/linked-list/linked-list-cycle-ii.py>`__
      - Hash-Table, Two Pointers

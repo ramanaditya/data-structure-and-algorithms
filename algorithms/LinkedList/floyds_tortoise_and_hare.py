@@ -142,7 +142,7 @@ if __name__ == "__main__":
 ### Implementation
 | Problem No. | Level | Problems | Solutions |
 | :--- | :---: | :--- | :---|
-| 141. | Easy | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/linked-list-cycle.py) |
-| 142. | Medium | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/linked-list-cycle-ii.py) |
+| 141. | Easy | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/linked-list/linked-list-cycle.py) |
+| 142. | Medium | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/linked-list/linked-list-cycle-ii.py) |
  
 """

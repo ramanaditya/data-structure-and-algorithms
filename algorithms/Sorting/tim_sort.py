@@ -1,4 +1,4 @@
-'''
+"""
 Tim Sort : Sorting Algorithm Used in sort() and sorted() of Python
 Runtime:
     Worst : O(nlogn)
@@ -6,7 +6,8 @@ Runtime:
     Best Case : O(n)
 
 Space : O(n)
-'''
+"""
+
 
 def binary_search(the_array, item, start, end):
     if start == end:
@@ -17,7 +18,7 @@ def binary_search(the_array, item, start, end):
     if start > end:
         return start
 
-    mid = (start + end)/ 2
+    mid = (start + end) / 2
     if the_array[mid] < item:
         return binary_search(the_array, item, mid + 1, end)
     elif the_array[mid] > item:
@@ -31,8 +32,11 @@ def insertion_sort(the_array):
     for index in range(1, l):
         value = the_array[index]
         pos = binary_search(the_array, value, 0, index - 1)
-        the_array = the_array[:pos] + [value] + the_array[pos:index] + the_array[index+1:]
+        the_array = (
+            the_array[:pos] + [value] + the_array[pos:index] + the_array[index + 1 :]
+        )
     return the_array
+
 
 def merge(left, right):
     """Takes two sorted lists and returns a single sorted list by comparing the
@@ -53,13 +57,13 @@ def timsort(the_array):
     l = len(the_array)
     new_run = [the_array[0]]
     for i in range(1, l):
-        if i == l-1:
+        if i == l - 1:
             new_run.append(the_array[i])
             runs.append(new_run)
             break
-        if the_array[i] < the_array[i-1]:
+        if the_array[i] < the_array[i - 1]:
             if not new_run:
-                runs.append([the_array[i-1]])
+                runs.append([the_array[i - 1]])
                 new_run.append(the_array[i])
             else:
                 runs.append(new_run)

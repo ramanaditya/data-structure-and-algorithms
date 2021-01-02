@@ -38,4 +38,4 @@ def boyer_moore_voting_algorithm(arr: list) -> int:
 ### Implementation
 | Problem No. | Level | Problems | Solutions |
 | :--- | :---: | :--- | :---|
-| 169. | <span style="color:green">Easy</span> | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/majority-element.py) |
+| 169. | <span style="color:green">Easy</span> | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/array/majority-element.py) |

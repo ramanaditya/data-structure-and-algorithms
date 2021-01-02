@@ -6,7 +6,7 @@
 | 2. | Binary Search | O( log(n) ) | O( log(n) ) | O(1) | O(1) |
 
 ## Linear Search
-| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/searching/linear_search.py) |
+| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/Data-Structures/searching/linear_search.py) |
 ```text
 - TIme Complexity
     - Worst Case : O(n)
@@ -24,7 +24,7 @@ def linear_search(self, array, key):
 ```
 
 ## Binary Search
-| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/Data-Structures/searching/binary_search.py) |
+| [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/Data-Structures/searching/binary_search.py) |
 ```text
 - TIme Complexity
     - Worst Case : O( log(n) )
