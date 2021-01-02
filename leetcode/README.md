@@ -333,7 +333,9 @@
     | 987. | <span style="color:orange">Medium</span> | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/vertical-order-traversal-of-a-binary-tree.py) |
     | 1022. | <span style="color:green">Easy</span> | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/sum-of-root-to-leaf-binary-numbers.py) |
     | 1305. | <span style="color:orange">Medium</span> | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/all-elements-in-two-binary-search-trees.py) |
+    | 1379. | <span style="color:orange">Medium</span> | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py) |
    
+
 - ### **April LeetCoding Challenge : 2020**
 
     | Day | Sl No.| Level | Questions | Solution |
@@ -435,4 +437,4 @@
     | Day | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :---: | :--- | :--- |
     | 1 | 1640. | <span style="color:green">Easy</span> | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/check-array-formation-through-concatenation.py) |
-    
+    | 2 | 1379. | <span style="color:orange">Medium</span> | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py) |
