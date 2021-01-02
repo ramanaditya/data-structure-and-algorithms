@@ -29,7 +29,8 @@
 | 23.   | July '20 Challenge     | [Search Here](#July-LeetCoding-Challenge--2020) |
 | 24.   | August '20 Challenge   | [Search Here](#August-LeetCoding-Challenge--2020) |
 | 25.   | September '20 Challenge| [Search Here](#September-LeetCoding-Challenge--2020) |
-| 26.   | November  '20 Challenge| [Search Here](#November-LeetCoding-Challenge--2020) |
+| 26.   | November '20 Challenge | [Search Here](#November-LeetCoding-Challenge--2020) |
+| 27.   | January '20 Challenge  | [Search Here](#January-LeetCoding-Challenge--2021) |
 
 - ### **Array**
 
@@ -96,6 +97,7 @@
     | 1572. | <span style="color:green">Easy</span> | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/matrix-diagonal-sum.py) |
     | 1582. | <span style="color:green">Easy</span> | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/special-positions-in-a-binary-matrix.py) |
     | 1588. | <span style="color:green">Easy</span> | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/sum-of-all-odd-length-subarrays.py) |
+    | 1640. | <span style="color:green">Easy</span> | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/check-array-formation-through-concatenation.py) |
     
 - ### **Binary Search**
 
@@ -427,3 +429,10 @@
     | :---: | :---: | :---: | :--- | :--- |
     | 1 | 1290. | <span style="color:green">Easy</span> | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.py) \| [C](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.c) \| [Java](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/convert-binary-number-in-a-linked-list-to-integer.java) |
     | 7 | 445. | <span style="color:orange">Medium</span> | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/add-two-numbers-ii.py) |
+
+- ### **January-LeetCoding-Challenge : 2021**
+
+    | Day | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :---: | :--- | :--- |
+    | 1 | 1640. | <span style="color:green">Easy</span> | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/check-array-formation-through-concatenation.py) |
+    
