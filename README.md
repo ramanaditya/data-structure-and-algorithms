@@ -22,7 +22,7 @@ Follow the link [https://interview-docs.readthedocs.io](https://interview-docs.r
 ## Community
 [![Gitter](https://badges.gitter.im/data-structure-and-algorithms/community.svg)](https://gitter.im/data-structure-and-algorithms/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-<a href="https://gitter.im/data-structure-and-algorithms/community"><img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/images/gitter.png" width="20%" align="left"/></a>
+<a href="https://gitter.im/data-structure-and-algorithms/community"><img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/images/gitter.png" width="20%" align="left"/></a>
 
 ### Gitter Community
 All the discussions related to the **Interview** and **Data Structures and Algorithms** are discussed on the Gitter Community Channel.
@@ -100,7 +100,7 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
         | [April '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#April-LeetCoding-Challenge--2020) | [May '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#May-LeetCoding-Challenge--2020) |
         | [June '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#June-LeetCoding-Challenge--2020) | [July '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#July-LeetCoding-Challenge--2020) |
         | [August '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#August-LeetCoding-Challenge--2020) | [September '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#September-LeetCoding-Challenge--2020) |
-        | [November '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#November-LeetCoding-Challenge--2020) | [January '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#January-LeetCoding-Challenge--2021)  |
+        | [November '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#November-LeetCoding-Challenge--2020) | [January '21 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode#January-LeetCoding-Challenge--2021)  |
         
 ## Resources
 

@@ -30,7 +30,7 @@
 | 24.   | August '20 Challenge   | [Search Here](#August-LeetCoding-Challenge--2020) |
 | 25.   | September '20 Challenge| [Search Here](#September-LeetCoding-Challenge--2020) |
 | 26.   | November '20 Challenge | [Search Here](#November-LeetCoding-Challenge--2020) |
-| 27.   | January '20 Challenge  | [Search Here](#January-LeetCoding-Challenge--2021) |
+| 27.   | January '21 Challenge  | [Search Here](#January-LeetCoding-Challenge--2021) |
 
 - ### **Array**
 
