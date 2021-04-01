@@ -1,36 +1,6 @@
 # Leetcode
 ![](../images/leetcode.png)
 
-### **Index**
-| Sl No. | Topic | Link |
-| :---: | :--- | :--- |
-| 1.    | Array                  | [Search Here](#Array) |
-| 2.    | Binary Search          | [Search Here](#Binary-Search) |
-| 3.    | Binary Search Tree     | [Search Here](#Binary-Search-Tree) |
-| 4.    | Bit Manipulation       | [Search Here](#Bit-Manipulation) |
-| 5.    | Contests               | [Search Here](#Contests) |
-| 6.    | Databases              | [Search Here](#Databases) |
-| 7.    | Dynamic Programming    | [Search Here](#Dynamic-Programming) |
-| 8.    | Geometry               | [Search Here](#Geometry) |
-| 9.    | Greedy                 | [Search Here](#Greedy) |
-| 10.   | Hash Table             | [Search Here](#Hash-Table) |
-| 11.   | Heap                   | [Search Here](#Heap) |
-| 12.   | Linked-List            | [Search Here](#Linked-List) |
-| 13.   | Math                   | [Search Here](#Math) |
-| 14.   | Minimax                | [Search Here](#Minimax) |
-| 15.   | Mock                   | [Search Here](#Mock) |
-| 16.   | Queue                  | [Search Here](#Queue) |
-| 17.   | Stack                  | [Search Here](#Stack) |
-| 18.   | String                 | [Search Here](#String) |
-| 19.   | Tree                   | [Search Here](#Tree) |
-| 20.   | April '20 Challenge    | [Search Here](#April-LeetCoding-Challenge--2020) |
-| 21.   | May '20 Challenge      | [Search Here](#May-LeetCoding-Challenge--2020) |
-| 22.   | June '20 Challenge     | [Search Here](#June-LeetCoding-Challenge--2020) |
-| 23.   | July '20 Challenge     | [Search Here](#July-LeetCoding-Challenge--2020) |
-| 24.   | August '20 Challenge   | [Search Here](#August-LeetCoding-Challenge--2020) |
-| 25.   | September '20 Challenge| [Search Here](#September-LeetCoding-Challenge--2020) |
-| 26.   | November '20 Challenge | [Search Here](#November-LeetCoding-Challenge--2020) |
-| 27.   | January '21 Challenge  | [Search Here](#January-LeetCoding-Challenge--2021) |
 
 - ### **Array**
 
@@ -266,6 +236,12 @@
     | 622. | <span style="color:orange">Medium</span> | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/queue/design-circular-queue.py) |
     | 933. | <span style="color:green">Easy</span> | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/queue/number-of-recent-calls.py) |
 
+- ### **Sliding Window**
+    
+    | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :--- | :--- |
+    | 567. | <span style="color:orange">Medium</span> | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/sliding-window/permutation-in-string.py) |
+    
 - ### **Stack**
 
     | Sl No.| Level | Questions | Solution |
