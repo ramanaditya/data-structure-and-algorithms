@@ -102,21 +102,17 @@ class Solution:
 
         # Reverse First Half, in one pass
         slow = fast = head
-        odd = False
         prev = None
         while fast:
             if not fast.next:
-                odd = True
+                # Skip the middle node, if nodes are odd
+                slow = slow.next
                 break
             fast = fast.next.next
             temp = slow.next
             slow.next = prev
             prev = slow
             slow = temp
-
-        # Move one ahead if odd nodes
-        if odd:
-            slow = slow.next
 
         # Return if slow is None
         if not slow:
