@@ -101,6 +101,7 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
         | [June '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#June-LeetCoding-Challenge--2020) | [July '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#July-LeetCoding-Challenge--2020) |
         | [August '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#August-LeetCoding-Challenge--2020) | [September '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#September-LeetCoding-Challenge--2020) |
         | [November '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#November-LeetCoding-Challenge--2020) | [January '21 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#January-LeetCoding-Challenge--2021)  |
+        | [April '21 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#April-LeetCoding-Challenge--2021) | |
         
 ## Resources
 

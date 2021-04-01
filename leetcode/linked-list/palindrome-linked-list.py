@@ -27,10 +27,10 @@ Could you do it in O(n) time and O(1) space?
 ## Solutions
 
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
+class ListNode:
+    def __init__(self, x):
+        self.val = x
+        self.next = None
 
 
 class Solution:
@@ -53,17 +53,9 @@ class Solution:
 # Memory Usage: 24.7 MB
 
 
-# Solution
-
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
-
-
 class Solution:
     """
+    Uses 2 pass for reverse
     Time Complexity: O(n)
     Space Complexity: O(1)
     """
@@ -73,12 +65,16 @@ class Solution:
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
+
+        # Reversing Second Half
         temp = None
         while slow:
             next_node = slow.next
             slow.next = temp
             temp = slow
             slow = next_node
+
+        # Check Palindrome
         while temp:
             if temp.val != head.val:
                 return False
@@ -89,3 +85,55 @@ class Solution:
 
 # Runtime: 64 ms, faster than 89.80% of Python3 online submissions
 # Memory Usage: 22.7 MB, less than 100.00% of Python3 online submissions
+
+
+class Solution:
+    """
+    Use 1 pass for reverse
+    Time Complexity: O(n)
+    Space Complexity: O(1)
+    """
+    def isPalindrome(self, head: ListNode) -> bool:
+        # Base Cases
+        if not head:
+            return False
+        if not head.next:
+            return True
+
+        # Reverse First Half, in one pass
+        slow = fast = head
+        odd = False
+        prev = None
+        while fast:
+            if not fast.next:
+                odd = True
+                break
+            fast = fast.next.next
+            temp = slow.next
+            slow.next = prev
+            prev = slow
+            slow = temp
+
+        # Move one ahead if odd nodes
+        if odd:
+            slow = slow.next
+
+        # Return if slow is None
+        if not slow:
+            return False
+
+        l1 = prev
+        l2 = slow
+
+        # Check Palindrome
+        while l1:
+            if l1.val != l2.val:
+                return False
+            l1 = l1.next
+            l2 = l2.next
+
+        return True
+
+
+# Runtime: 660 ms, faster than 50.16% of Python3 online submissions
+# Memory Usage: 31.3 MB, less than 55.65% of Python3 online submissions
