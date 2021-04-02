@@ -241,6 +241,7 @@
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
     | 567. | <span style="color:orange">Medium</span> | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/sliding-window/permutation-in-string.py) |
+    | 1423. | <span style="color:orange">Medium</span> | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/sliding-window/maximum-points-you-can-obtain-from-cards.py) |
     
 - ### **Stack**
 
