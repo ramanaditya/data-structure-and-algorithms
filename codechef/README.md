@@ -19,6 +19,9 @@
     | Aug '2020 | [Another Card Game Problem](https://www.codechef.com/AUG20B/problems/CRDGAME3) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/CRDGAME3.py) |
     | Aug '2020 | [Smallest KMP](https://www.codechef.com/AUG20B/problems/SKMP) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/SKMP.py) |
     | Aug '2020 | [Chef and Wedding Arrangements](https://www.codechef.com/AUG20B/problems/CHEFWED) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/CHEFWED.py) |
+    | Apr '2021 | [Valid Pair](https://www.codechef.com/APRIL21C/problems/SOCKS1) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/april21/SOCKS1.py) |
+    | Apr '2021 | [World Record](https://www.codechef.com/APRIL21C/problems/BOLT) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/april21/BOLT.py) |
+    | Apr '2021 | [Strong Language](https://www.codechef.com/APRIL21C/problems/SSCRIPT) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/april21/SSCRIPT.py) |
     
 - ### **Cook Off**
 
