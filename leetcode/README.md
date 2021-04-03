@@ -100,6 +100,7 @@
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
     | 136. | <span style="color:green">Easy</span> | [Single Number](https://leetcode.com/problems/single-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/bit-manipulation/single-number.py) |
+    | 190. | <span style="color:green">Easy</span> | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/bit-manipulation/reverse-bits.py) |
     | 231. | <span style="color:green">Easy</span> | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/bit-manipulation/power-of-two.py) |
     | 338. | <span style="color:orange">Medium</span> | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/bit-manipulation/counting-bits.py) |
     | 342. | <span style="color:green">Easy</span> | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/bit-manipulation/power-of-four.py) |
