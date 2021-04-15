@@ -46,3 +46,17 @@ class Solution:
 
 # Runtime       : 52 ms, faster than 60.00% of Python3 online submissions
 # Memory Usage  : 13.9 MB, less than 60.00% of Python3 online submissions
+
+
+class Solution:
+    """
+    Time Complexity: O(1)
+    Space Complexity: O(1)
+    """
+    def minOperations(self, n: int) -> int:
+        terms = (n + (1 if n & 1 else 0)) // 2
+        return terms * (terms - (1 if n & 1 else 0))
+
+
+# Runtime       : 28 ms, faster than 87.49% of Python3 online submissions
+# Memory Usage  : 14.2 MB, less than 73.51% of Python3 online submissions

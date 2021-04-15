@@ -291,6 +291,7 @@
     | 1573. | <span style="color:orange">Medium</span> | [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/string/number-of-ways-to-split-a-string.py) |
     | 1592. | <span style="color:green">Easy</span> | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/string/rearrange-spaces-between-words.py) |
     | 1704. | <span style="color:green">Easy</span> | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/string/determine-if-string-halves-are-alike.py) |
+    | 1812. | <span style="color:green">Easy</span> | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/string/determine-color-of-a-chessboard-square.py) |
     
 - ### **Tree**
 
