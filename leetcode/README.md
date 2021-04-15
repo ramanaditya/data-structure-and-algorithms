@@ -221,6 +221,7 @@
     | 1015. | <span style="color:orange">Medium</span> | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/smallest-integer-divisible-by-k.py) |
     | 1281. | <span style="color:green">Easy</span> | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/subtract-the-product-and-sum-of-digits-of-an-integer.py) |
     | 1551. | <span style="color:orange">Medium</span> | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/minimum-operations-to-make-array-equal.py) |
+    | 1822. | <span style="color:green">Easy</span> | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/sign-of-the-product-of-an-array.py) |
 
 - ### **Minimax**
     
@@ -289,7 +290,8 @@
     | 1544. | <span style="color:green">Easy</span> | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/string/make-the-string-great.py) |
     | 1573. | <span style="color:orange">Medium</span> | [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/string/number-of-ways-to-split-a-string.py) |
     | 1592. | <span style="color:green">Easy</span> | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/string/rearrange-spaces-between-words.py) |
-
+    | 1704. | <span style="color:green">Easy</span> | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/string/determine-if-string-halves-are-alike.py) |
+    
 - ### **Tree**
 
     | Sl No.| Level | Questions | Solution |
