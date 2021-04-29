@@ -1,0 +1,17 @@
+/*
+Fixing the sidebar for the part in index
+*/
+
+
+.wy-menu-vertical header, .wy-menu-vertical p {
+    color: #55a5d9 !important;
+    height: 32px !important;
+    line-height: 32px !important;
+    padding: 0 1.618em !important;
+    margin: 12px 0 0 !important;
+    display: block !important;
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
+    font-size: 85% !important;
+    white-space: nowrap !important;
+}
