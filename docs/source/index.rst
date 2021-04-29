@@ -4,7 +4,10 @@
    contain the root `toctree` directive.
 
 Welcome to Interview Documentation!
-===================================================
+=====================================
+
+.. image:: _static/images/dsa.png
+   :alt: Interview Documentation
 
 .. toctree::
    :maxdepth: 3
