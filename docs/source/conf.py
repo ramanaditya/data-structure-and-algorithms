@@ -20,15 +20,16 @@ sys.path.insert(0, os.path.abspath("./Scripts/data_structures"))
 sys.path.insert(0, os.path.abspath("./Scripts/algorithms"))
 sys.path.insert(0, os.path.abspath("../../algorithms/"))
 sys.path.insert(0, os.path.abspath("../../DataStructures/"))
+sys.path.insert(0, os.path.abspath("../../networking/"))
 
 # -- Project information -----------------------------------------------------
 
 project = "Interview Documentation"
-copyright = "2020, Aditya Raman"
+copyright = "2021, Aditya Raman"
 author = "Aditya Raman"
 
 # The full version, including alpha/beta/rc tags
-version = release = "v0.1.0"
+version = release = "v1.0.0"
 today = str(date.today())
 language = "en"
 # -- General configuration ---------------------------------------------------

@@ -39,6 +39,17 @@ Welcome to Interview Documentation!
    algorithms/sorting
    algorithms/two-pointers
 
+.. raw:: Networking
+
+   \part{Networking}
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Networking
+   :name: Networking
+
+   networking/ip-address
+
 .. raw:: latex
 
    \part{Interview}
