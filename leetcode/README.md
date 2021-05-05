@@ -133,13 +133,18 @@
     | 596. | <span style="color:green">Easy</span> | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/databases/classes-more-than-5-students.sql) |
     | 620. | <span style="color:green">Easy</span> | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/databases/not-boring-movies.sql) |
     | 627. | <span style="color:green">Easy</span> | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/databases/swap-salary.sql) |
+   
+- ### **Design**
     
+    | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :--- | :--- |
+    | 1845. | <span style="color:orange">Medium</span> | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/design/seat-reservation-manager.py) |
+
 - ### **Dynamic Programming**
     
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
     | 1553. | <span style="color:red">Hard</span> | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/dynamic-programming/minimum-number-of-days-to-eat-n-oranges.py) |
-
 
 - ### **Geometry**
     
@@ -147,7 +152,6 @@
     | :---: | :---: | :--- | :--- |
     | 1401. | <span style="color:orange">Medium</span> | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/geometry/circle-and-rectangle-overlapping.py) |
  
-
 - ### **Greedy**
     
     | Sl No.| Level | Questions | Solution |
@@ -156,7 +160,8 @@
     | 435. | <span style="color:orange">Medium</span> | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/greedy/non-overlapping-intervals.py) |
     | 1029. | <span style="color:green">Easy</span> | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/greedy/two-city-scheduling.py) |
     | 1196. | <span style="color:green">Easy</span> | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/greedy/how-many-apples-can-you-put-into-the-basket.py) |
-
+    | 1846. | <span style="color:orange">Medium</span> | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/greedy/maximum-element-after-decreasing-and-rearranging.py) |
+    
 - ### **Hash Table**
     
     | Sl No.| Level | Questions | Solution |
@@ -294,6 +299,7 @@
     | 1592. | <span style="color:green">Easy</span> | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/string/rearrange-spaces-between-words.py) |
     | 1704. | <span style="color:green">Easy</span> | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/string/determine-if-string-halves-are-alike.py) |
     | 1812. | <span style="color:green">Easy</span> | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/string/determine-color-of-a-chessboard-square.py) |
+    | 1844. | <span style="color:green">Easy</span> | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/string/replace-all-digits-with-characters.py) |
     
 - ### **Tree**
 
