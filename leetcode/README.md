@@ -444,4 +444,5 @@
 
     | Day | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :---: | :--- | :--- |
-    
+    | 3 | 1480. | <span style="color:green">Easy</span> | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/array/running-sum-of-1d-array.py) |
+    | 4 | 665. | <span style="color:green">Easy</span> | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/array/non-decreasing-array.py) |
