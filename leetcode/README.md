@@ -219,6 +219,7 @@
     | 258. | <span style="color:green">Easy</span> | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/add-digits.py) |
     | 326. | <span style="color:green">Easy</span> | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/power-of-three.py) |
     | 949. | <span style="color:green">Easy</span> | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/largest-time-for-given-digits.py) |
+    | 970. | <span style="color:orange">Medium</span> | [Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/powerful-integers.py) |
     | 1015. | <span style="color:orange">Medium</span> | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/smallest-integer-divisible-by-k.py) |
     | 1281. | <span style="color:green">Easy</span> | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/subtract-the-product-and-sum-of-digits-of-an-integer.py) |
     | 1551. | <span style="color:orange">Medium</span> | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/minimum-operations-to-make-array-equal.py) |
@@ -437,3 +438,10 @@
     | 18 | 19. | <span style="color:orange">Medium</span> | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/linked-list/remove-nth-node-from-end-of-list/) |
     | 20 | 589. | <span style="color:green">Easy</span> | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/tree/n-ary-tree-preorder-traversal.py) |
     | 29 | 34. | <span style="color:orange">Medium</span> | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/binary-search/find-first-and-last-position-of-element-in-sorted-array.py) |
+    | 30 | 970. | <span style="color:orange">Medium</span> | [Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/powerful-integers.py) |
+
+- ### **May-LeetCoding-Challenge : 2021**
+
+    | Day | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :---: | :--- | :--- |
+    
