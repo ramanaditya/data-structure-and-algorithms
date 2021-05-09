@@ -22,6 +22,10 @@
     | Apr '2021 | [Valid Pair](https://www.codechef.com/APRIL21C/problems/SOCKS1) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/april21/SOCKS1.py) |
     | Apr '2021 | [World Record](https://www.codechef.com/APRIL21C/problems/BOLT) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/april21/BOLT.py) |
     | Apr '2021 | [Strong Language](https://www.codechef.com/APRIL21C/problems/SSCRIPT) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/april21/SSCRIPT.py) |
+    | May '2021 | [Solubility](https://www.codechef.com/MAY21C/problems/SOLBLTY) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/may21/SOLBLTY.py) |
+    | May '2021 | [Golf](https://www.codechef.com/MAY21C/problems/LKDNGOLF) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/may21/LKDNGOLF.py) |
+    | May '2021 | [Xor Equality](https://www.codechef.com/MAY21C/problems/XOREQUAL) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/may21/XOREQUAL.py) |
+    | May '2021 | [Tic Tac Toe](https://www.codechef.com/MAY21C/problems/TCTCTOE) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/may21/TCTCTOE.py) |
     
 - ### **Cook Off**
 
