@@ -57,6 +57,7 @@
     | 1394. | <span style="color:green">Easy</span> | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/array/find-lucky-integer-in-an-array.py) |
     | 1395. | <span style="color:orange">Medium</span> | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/array/count-number-of-teams.py) |
     | 1399. | <span style="color:green">Easy</span> | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/array/count-largest-group.py) |
+    | 1426. | <span style="color:green">Easy</span> | [Counting Elements](https://leetcode.com/problems/counting-elements/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/array/counting-elements.py) |
     | 1431. | <span style="color:green">Easy</span> | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/array/kids-with-the-greatest-number-of-candies.py) |
     | 1464. | <span style="color:green">Easy</span> | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/array/maximum-product-of-two-elements-in-an-array.py) |
     | 1470. | <span style="color:green">Easy</span> | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/array/shuffle-the-array.py) |
@@ -168,6 +169,7 @@
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
     | 202. | <span style="color:green">Easy</span> | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/hash-table/happy-number.py) |
+    | 204. | <span style="color:green">Easy</span> | [Count Primes](https://leetcode.com/problems/count-primes/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/hash-table/count-primes.py) |
     | 290. | <span style="color:green">Easy</span> | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/hash-table/word-pattern.py) |
     | 347. | <span style="color:orange">Medium</span> | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/hash-table/top-k-frequent-elements.py) |
     | 350. | <span style="color:green">Easy</span> | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/hash-table/intersection-of-two-arrays-ii.py) |
@@ -178,7 +180,6 @@
     | 705. | <span style="color:green">Easy</span> | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/hash-table/design-hashset.py) |
     | 1207. | <span style="color:green">Easy</span> | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/hash-table/unique-number-of-occurrences.py) |
     | 1365. | <span style="color:green">Easy</span> | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/hash-table/how-many-numbers-are-smaller-than-the-current-number.py) |
-    | 1426. | <span style="color:green">Easy</span> | [Counting Elements](https://leetcode.com/problems/counting-elements/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/hash-table/counting-elements.py) |
 
 - ### **Heap**
     
@@ -453,3 +454,4 @@
     | :---: | :---: | :---: | :--- | :--- |
     | 3 | 1480. | <span style="color:green">Easy</span> | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/array/running-sum-of-1d-array.py) |
     | 4 | 665. | <span style="color:green">Easy</span> | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/array/non-decreasing-array.py) |
+    | 10 | 204. | <span style="color:green">Easy</span> | [Count Primes](https://leetcode.com/problems/count-primes/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/hash-table/count-primes.py) |
