@@ -26,6 +26,8 @@
     | May '2021 | [Golf](https://www.codechef.com/MAY21C/problems/LKDNGOLF) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/may21/LKDNGOLF.py) |
     | May '2021 | [Xor Equality](https://www.codechef.com/MAY21C/problems/XOREQUAL) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/may21/XOREQUAL.py) |
     | May '2021 | [Tic Tac Toe](https://www.codechef.com/MAY21C/problems/TCTCTOE) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/may21/TCTCTOE.py) |
+    | May '2021 | [Modular Equation](https://www.codechef.com/MAY21C/problems/MODEQ) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/may21/MODEQ.py) |
+    | May '2021 | [An Interesting Sequence](https://www.codechef.com/MAY21C/problems/ISS) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/may21/ISS.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/may21/ISS.cpp) |
     
 - ### **Cook Off**
 
