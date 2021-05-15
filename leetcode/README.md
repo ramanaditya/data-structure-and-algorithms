@@ -70,6 +70,7 @@
     | 1582. | <span style="color:green">Easy</span> | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/array/special-positions-in-a-binary-matrix.py) |
     | 1588. | <span style="color:green">Easy</span> | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/array/sum-of-all-odd-length-subarrays.py) |
     | 1640. | <span style="color:green">Easy</span> | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/array/check-array-formation-through-concatenation.py) |
+    | 1861. | <span style="color:orange">Medium</span> | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/array/rotating-the-box.py) |
     
 - ### **Binary Search**
 
