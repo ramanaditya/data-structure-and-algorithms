@@ -97,7 +97,9 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
         | [Dynamic Programming](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#Dynamic-Programming) | [stack](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#stack) |
         | [Geometry](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#Geomtry) | [string](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#string) |
         | [greedy](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#greedy) | [tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#tree) |
-        | [hash-table](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#hash-table) | |
+        | [hash-table](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#hash-table) | [two pointers](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#two-pointers) |
+        | | |
+        | [LeetCode Discuss](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#leetcode-discuss) | |
         | | |
         | [April '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#April-LeetCoding-Challenge--2020) | [May '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#May-LeetCoding-Challenge--2020) |
         | [June '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#June-LeetCoding-Challenge--2020) | [July '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#July-LeetCoding-Challenge--2020) |

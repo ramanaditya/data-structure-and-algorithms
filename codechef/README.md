@@ -5,37 +5,37 @@
 
     | Month 'Year | Questions | Solution |
     | :---: | :--- | :--- |
-    | Sep '2019 | [Easy Fibonacci](https://www.codechef.com/SEPT19B/problems/FIBEASY) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/easy-fibonacci.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/easy-fibonacci.cpp) |
-    | Sep '2019 | [Chef and Interesting Subsequences ](https://www.codechef.com/SEPT19B/problems/CHEFINSQ) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/chef-and-interesting-subsequences.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/chef-and-interesting-subsequences.cpp) |
-    | Sep '2019 | [Chef and Good Subsequences ](https://www.codechef.com/SEPT19B/problems/GDSUB) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/chef-and-good-subsequences.py) |
-    | Nov '2019 | [Weapon Value](https://www.codechef.com/NOV19B/problems/SC31) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/weapon-value.py) |
-    | Mar '2020 | [Pintu and Fruits](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/pintu-and-fruits.py) |
-    | Apr '2020 | [COVID Pandemic and Long Queue](https://www.codechef.com/APRIL20B/problems/COVIDLQ) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/COVIDLQ.py) |
-    | Apr '2020 | [Sell All the Cars ](https://www.codechef.com/APRIL20B/problems/CARSELL) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/CARSELL.py) |
-    | May '2020 | [Coronavirus Spread](https://www.codechef.com/MAY20B/problems/COVID19) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/COVID19.py) |
-    | May '2020 | [Isolation Centers](https://www.codechef.com/MAY20B/problems/CORUS) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/CORUS.py) |
-    | Aug '2020 | [Chef Wars - Return of the Jedi](https://www.codechef.com/AUG20B/problems/CHEFWARS) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/CHEFWARS.py) |
-    | Aug '2020 | [Chef and Linear Chess](https://www.codechef.com/AUG20B/problems/LINCHESS) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/LINCHESS.py) |
-    | Aug '2020 | [Another Card Game Problem](https://www.codechef.com/AUG20B/problems/CRDGAME3) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/CRDGAME3.py) |
-    | Aug '2020 | [Smallest KMP](https://www.codechef.com/AUG20B/problems/SKMP) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/SKMP.py) |
-    | Aug '2020 | [Chef and Wedding Arrangements](https://www.codechef.com/AUG20B/problems/CHEFWED) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/CHEFWED.py) |
-    | Apr '2021 | [Valid Pair](https://www.codechef.com/APRIL21C/problems/SOCKS1) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/april21/SOCKS1.py) |
-    | Apr '2021 | [World Record](https://www.codechef.com/APRIL21C/problems/BOLT) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/april21/BOLT.py) |
-    | Apr '2021 | [Strong Language](https://www.codechef.com/APRIL21C/problems/SSCRIPT) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/april21/SSCRIPT.py) |
     | May '2021 | [Solubility](https://www.codechef.com/MAY21C/problems/SOLBLTY) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/may21/SOLBLTY.py) |
     | May '2021 | [Golf](https://www.codechef.com/MAY21C/problems/LKDNGOLF) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/may21/LKDNGOLF.py) |
     | May '2021 | [Xor Equality](https://www.codechef.com/MAY21C/problems/XOREQUAL) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/may21/XOREQUAL.py) |
     | May '2021 | [Tic Tac Toe](https://www.codechef.com/MAY21C/problems/TCTCTOE) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/may21/TCTCTOE.py) |
     | May '2021 | [Modular Equation](https://www.codechef.com/MAY21C/problems/MODEQ) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/may21/MODEQ.py) |
     | May '2021 | [An Interesting Sequence](https://www.codechef.com/MAY21C/problems/ISS) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/may21/ISS.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/may21/ISS.cpp) |
+    | Apr '2021 | [Valid Pair](https://www.codechef.com/APRIL21C/problems/SOCKS1) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/april21/SOCKS1.py) |
+    | Apr '2021 | [World Record](https://www.codechef.com/APRIL21C/problems/BOLT) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/april21/BOLT.py) |
+    | Apr '2021 | [Strong Language](https://www.codechef.com/APRIL21C/problems/SSCRIPT) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/april21/SSCRIPT.py) |
+    | Aug '2020 | [Chef Wars - Return of the Jedi](https://www.codechef.com/AUG20B/problems/CHEFWARS) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/CHEFWARS.py) |
+    | Aug '2020 | [Chef and Linear Chess](https://www.codechef.com/AUG20B/problems/LINCHESS) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/LINCHESS.py) |
+    | Aug '2020 | [Another Card Game Problem](https://www.codechef.com/AUG20B/problems/CRDGAME3) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/CRDGAME3.py) |
+    | Aug '2020 | [Smallest KMP](https://www.codechef.com/AUG20B/problems/SKMP) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/SKMP.py) |
+    | Aug '2020 | [Chef and Wedding Arrangements](https://www.codechef.com/AUG20B/problems/CHEFWED) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/CHEFWED.py) |
+    | May '2020 | [Coronavirus Spread](https://www.codechef.com/MAY20B/problems/COVID19) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/COVID19.py) |
+    | May '2020 | [Isolation Centers](https://www.codechef.com/MAY20B/problems/CORUS) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/CORUS.py) |
+    | Apr '2020 | [COVID Pandemic and Long Queue](https://www.codechef.com/APRIL20B/problems/COVIDLQ) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/COVIDLQ.py) |
+    | Apr '2020 | [Sell All the Cars ](https://www.codechef.com/APRIL20B/problems/CARSELL) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/CARSELL.py) |
+    | Mar '2020 | [Pintu and Fruits](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/pintu-and-fruits.py) |
+    | Nov '2019 | [Weapon Value](https://www.codechef.com/NOV19B/problems/SC31) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/weapon-value.py) |
+    | Sep '2019 | [Easy Fibonacci](https://www.codechef.com/SEPT19B/problems/FIBEASY) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/easy-fibonacci.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/easy-fibonacci.cpp) |
+    | Sep '2019 | [Chef and Interesting Subsequences ](https://www.codechef.com/SEPT19B/problems/CHEFINSQ) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/chef-and-interesting-subsequences.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/chef-and-interesting-subsequences.cpp) |
+    | Sep '2019 | [Chef and Good Subsequences ](https://www.codechef.com/SEPT19B/problems/GDSUB) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/long-challenge/chef-and-good-subsequences.py) |
     
 - ### **Cook Off**
 
     | Month 'Year | Questions | Solution |
     | :---: | :--- | :--- |
-    | Sep '2019 | [Playing with Matches](https://www.codechef.com/COOK110B/problems/MATCHES) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/cookoff/playing-with-matches.py) |
-    | Mar '2020 | [Find Your Gift](https://www.codechef.com/COOK116B/problems/GIFTSRC) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/cookoff/find-your-gift.py) |
     | Apr '2020 | [Lift Requests](https://www.codechef.com/COOK117B/problems/LIFTME) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/cookoff/LIFTME.py) |
+    | Mar '2020 | [Find Your Gift](https://www.codechef.com/COOK116B/problems/GIFTSRC) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/cookoff/find-your-gift.py) |
+    | Sep '2019 | [Playing with Matches](https://www.codechef.com/COOK110B/problems/MATCHES) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/codechef/cookoff/playing-with-matches.py) |
     
 - ### **Lunchtime**
 

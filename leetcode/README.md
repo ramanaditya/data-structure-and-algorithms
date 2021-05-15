@@ -2,6 +2,18 @@
 ![](../images/leetcode.png)
 
 
+- ### **LeetCode Discuss**
+
+    | Sl No. | Level | Questions | Discuss |
+    | :---: | :---: | :--- | :--- |
+    | 4. | <span style="color:red">Hard</span> | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python 99.77% Easy Solution with comments](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/409284/python-9977-easy-solution-with-comments) |
+    | 61. | <span style="color:orange">Medium</span> | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python 97.18% Easy solution with comments](https://leetcode.com/problems/rotate-list/discuss/409215/python-9718-easy-solution-with-comments) |
+    | 389. | <span style="color:green">Easy</span> | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python Algorithm \| XOR \| Constant Space \| Linear Time](https://leetcode.com/problems/find-the-difference/discuss/862629/python-algorithm-xor-constant-space-linear-time) |
+    | 561. | <span style="color:green">Easy</span> | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Algorithm and solution in python3](https://leetcode.com/problems/array-partition-i/discuss/390198/Algorithm-and-solution-in-python3) |
+    | 1573. | <span style="color:orange">Medium</span> | [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | [Python \| Combination concept Mathematics \| Explained with Concept and Code \| Easy Solution](https://leetcode.com/problems/number-of-ways-to-split-a-string/discuss/830774/python-combination-concept-mathematics-explained-with-concept-and-code-easy-solution) |
+    | 1859. | <span style="color:green">Easy</span> | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [2 Lines \| Python Solution \| Linear TIme \| Linear Memory](https://leetcode.com/problems/sorting-the-sentence/discuss/1210285/2-lines-python-solution-linear-time-linear-memory) |
+    
+    
 - ### **Array**
 
     | Sl No.| Level | Questions | Solution |
@@ -34,7 +46,7 @@
     | 448. | <span style="color:green">Easy</span> | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/array/find-all-numbers-disappeared-in-an-array/) |
     | 509. | <span style="color:green">Easy</span> | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/array/fibonacci-number.py) |
     | 532. | <span style="color:green">Easy</span> | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/array/k-diff-pairs-in-an-array.py) |
-    | 561. | <span style="color:green">Easy</span> | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/array/array-partition-i.py) \| [LeetCode Post](https://leetcode.com/problems/array-partition-i/discuss/390198/Algorithm-and-solution-in-python3) |
+    | 561. | <span style="color:green">Easy</span> | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/array/array-partition-i.py) |
     | 566. | <span style="color:green">Easy</span> | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/array/reshape-the-matrix.py) |
     | 628. | <span style="color:green">Easy</span> | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/array/maximum-product-of-three-numbers.py) |
     | 665. | <span style="color:green">Easy</span> | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/array/non-decreasing-array.py) |
