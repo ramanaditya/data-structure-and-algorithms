@@ -231,7 +231,8 @@
     | 1281. | <span style="color:green">Easy</span> | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/subtract-the-product-and-sum-of-digits-of-an-integer.py) |
     | 1551. | <span style="color:orange">Medium</span> | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/minimum-operations-to-make-array-equal.py) |
     | 1822. | <span style="color:green">Easy</span> | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/sign-of-the-product-of-an-array.py) |
-
+    | 1860. | <span style="color:orange">Medium</span> | [Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/incremental-memory-leak.py) |
+    
 - ### **Minimax**
     
     | Sl No.| Level | Questions | Solution |
@@ -302,6 +303,7 @@
     | 1704. | <span style="color:green">Easy</span> | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/string/determine-if-string-halves-are-alike.py) |
     | 1812. | <span style="color:green">Easy</span> | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/string/determine-color-of-a-chessboard-square.py) |
     | 1844. | <span style="color:green">Easy</span> | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/string/replace-all-digits-with-characters.py) |
+    | 1859. | <span style="color:green">Easy</span> | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/string/sorting-the-sentence.py) |
     
 - ### **Tree**
 
