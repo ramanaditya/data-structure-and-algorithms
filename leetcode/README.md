@@ -236,6 +236,7 @@
     
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
+    | 65. | <span style="color:red">Hard</span> | [Valid Number](https://leetcode.com/problems/valid-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/valid-number.py) |
     | 171. | <span style="color:green">Easy</span> | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/excel-sheet-column-number.py) |
     | 258. | <span style="color:green">Easy</span> | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/add-digits.py) |
     | 326. | <span style="color:green">Easy</span> | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/power-of-three.py) |
@@ -472,4 +473,5 @@
     | 3 | 1480. | <span style="color:green">Easy</span> | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/array/running-sum-of-1d-array.py) |
     | 4 | 665. | <span style="color:green">Easy</span> | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/array/non-decreasing-array.py) |
     | 10 | 204. | <span style="color:green">Easy</span> | [Count Primes](https://leetcode.com/problems/count-primes/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/hash-table/count-primes.py) |
+    | 15 | 65. | <span style="color:red">Hard</span> | [Valid Number](https://leetcode.com/problems/valid-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/valid-number.py) |
     | 19 | 462. | <span style="color:orange">Medium</span> | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/minimum-moves-to-equal-array-elements-ii.py) |
