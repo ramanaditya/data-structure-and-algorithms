@@ -25,6 +25,7 @@ Welcome to Interview Documentation!
    :name: Data Structures
 
    data-structures/array
+   data-structures/stack
    data-structures/linked-list
 
 .. raw:: latex

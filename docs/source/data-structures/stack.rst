@@ -2,7 +2,15 @@ Stack
 ======
 
 .. important::
-    Stack is a data structure where we store data with the rule Last In First Out (LIFO).
+    Stack is a data structure where we store data with the rule **Last In First Out (LIFO)**.
+
+    * Used in recursion.
+    * Valid Parenthesis.
+
+
+.. warning::
+    In python stack is implemented using list, the stack class here is just to tell about the implementation.
+
 
 Complexity
 -----------
@@ -15,10 +23,10 @@ Complexity
 | Deletion      | O(1)          |
 +---------------+---------------+
 
-Array Operations
+Stack Operations
 ------------------
 
-.. automodule:: Array.Array
+.. automodule:: stack.stack
    :members:
    :undoc-members:
    :private-members:
@@ -27,52 +35,36 @@ Array Operations
 
 .. code-block:: python
 
-    class array_operation:
-    """All the operations associated with Array"""
+    class Stack:
+        def __init__(self, size):
+            self.stack = []
+            self.size = size
+            self.top = -1
 
-        def __init__(self):
-            self.array = []
+        def push(self, ele) -> None:
+            if not self.overflow():
+                self.top += 1
+                self.stack[self.top] = ele
+            else:
+                print("Stack Overflow")
 
-        def get(self, index):
-            if index < len(self.array):
-                return self.array[index]
-            return -1
+        def pop(self) -> int:
+            if not self.underflow():
+                self.top -= 1
+                return self.stack.pop()
+            else:
+                print("Stack Underflow")
+                return -1
 
-        def insert_at_end(self, ele):
-            self.array.append(ele)
-            return
+        def underflow(self) -> bool:
+            if len(self.stack) == 0:
+                return True
+            return False
 
-        def insert_at_index(self, ele, index):
-            self.array.insert(index, ele)
-            return
-
-        def delete_at_end(self):
-            if len(self.array) > 0:
-                return self.array.pop()
-            return -1
-
-        def delete_ele(self, ele):
-            res = self.search(ele)
-            if res == -1:
-                return res
-            self.array.remove(ele)
-            return res
-
-        def delete_at_index(self, index):
-            if index < len(self.array):
-                return self.array.pop(index)
-            return -1
-
-        def search(self, key):
-            for i in range(len(self.array)):
-                if self.array[i] == key:
-                    return i
-            return -1
-
-        def display(self):
-            for i in range(len(self.array)):
-                print("{0} ".format(self.array[i]), end=" ")
-            print()
+        def overflow(self):
+            if len(self.stack) == self.size:
+                return True
+            return False
 
 
 Important Problems
