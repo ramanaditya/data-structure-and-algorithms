@@ -38,13 +38,13 @@ Stack Operations
     class Stack:
         def __init__(self, size):
             self.stack = []
-            self.size = size
-            self.top = -1
+            self.size = size  # fixed sized stack
+            self.top = -1  # index of stack
 
         def push(self, ele) -> None:
             if not self.overflow():
                 self.top += 1
-                self.stack[self.top] = ele
+                self.stack.append(ele)
             else:
                 print("Stack Overflow")
 
@@ -52,17 +52,16 @@ Stack Operations
             if not self.underflow():
                 self.top -= 1
                 return self.stack.pop()
-            else:
-                print("Stack Underflow")
-                return -1
+            print("Stack Underflow")
+            return -1
 
         def underflow(self) -> bool:
-            if len(self.stack) == 0:
+            if self.top == -1:
                 return True
             return False
 
         def overflow(self):
-            if len(self.stack) == self.size:
+            if self.top == self.size - 1:
                 return True
             return False
 
