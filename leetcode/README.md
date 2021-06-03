@@ -156,6 +156,12 @@
     | :---: | :---: | :--- | :--- |
     | 1845. | <span style="color:orange">Medium</span> | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/design/seat-reservation-manager.py) |
 
+- ### **dfs**
+    
+    | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :--- | :--- |
+    | 695. | <span style="color:orange">Medium</span> | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/dfs/max-area-of-island.py) |
+
 - ### **Dynamic Programming**
     
     | Sl No.| Level | Questions | Solution |
@@ -476,3 +482,9 @@
     | 15 | 65. | <span style="color:red">Hard</span> | [Valid Number](https://leetcode.com/problems/valid-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/valid-number.py) |
     | 19 | 462. | <span style="color:orange">Medium</span> | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/leetcode/math/minimum-moves-to-equal-array-elements-ii.py) |
     | 20 | 102. | <span style="color:orange">Medium</span> |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/tree/binary-tree-level-order-traversal.py) |
+
+- ### **June-LeetCoding-Challenge : 2021**
+
+    | Day | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :---: | :--- | :--- |
+    | 1 | 695. | <span style="color:orange">Medium</span> | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode/dfs/max-area-of-island.py) |
