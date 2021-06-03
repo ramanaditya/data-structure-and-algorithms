@@ -6,7 +6,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/ramanaditya/data-structure-and-algorithms.svg?logo=github&color=teal)](https://github.com/ramanaditya/data-structure-and-algorithms/network/members) 
 [![GitHub top language](https://img.shields.io/github/languages/top/ramanaditya/data-structure-and-algorithms?color=blue&logo=python)](https://github.com/ramanaditya/data-structure-and-algorithms/)
 [![Relative date](https://img.shields.io/date/1541894400?color=important&label=started&logo=github)](https://github.com/ramanaditya/) 
-[![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/ramanaditya/)
+[![Maintenance](https://img.shields.io/maintenance/yes/2021?color=green&logo=github)](https://github.com/ramanaditya/)
 
 <hr>
 
@@ -82,7 +82,7 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
         | :---: | :---: |
         
     - #### [HackerRank](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/hackerrank)
-        - [Contest : MentorshipKarona Webinar by Vinit Shahdeo](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/hackerrank#contest--mentorshipkarona-webinar-by-vinit-shahdeo)
+        - [Random Contest - 1](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/hackerrank#contest--mentorshipkarona-webinar-by-vinit-shahdeo)
     - #### [Leetcode](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode)
         
         | | |
@@ -94,10 +94,11 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
         | [Contests](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#contests) | [mock](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#mock) |
         | [databases](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#databases) | [Queue](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#Queue) |
         | [Design](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#Design) | [sliding-window](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#Sliding-Window) |
-        | [Dynamic Programming](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#Dynamic-Programming) | [stack](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#stack) |
-        | [Geometry](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#Geomtry) | [string](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#string) |
-        | [greedy](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#greedy) | [tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#tree) |
-        | [hash-table](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#hash-table) | [two pointers](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#two-pointers) |
+        | [dfs](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#dfs) | [stack](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#stack) |
+        | [Dynamic Programming](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#Dynamic-Programming) | [string](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#string) |
+        | [Geometry](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#Geomtry) | [tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#tree) |
+        | [greedy](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#greedy) | [two pointers](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#two-pointers) |
+        | [hash-table](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#hash-table) | |
         | | |
         | [LeetCode Discuss](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#leetcode-discuss) | |
         | | |
@@ -106,6 +107,7 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
         | [August '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#August-LeetCoding-Challenge--2020) | [September '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#September-LeetCoding-Challenge--2020) |
         | [November '20 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#November-LeetCoding-Challenge--2020) | [January '21 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#January-LeetCoding-Challenge--2021)  |
         | [April '21 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#April-LeetCoding-Challenge--2021) | [May '21 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#May-LeetCoding-Challenge--2021) |
+        | [June '21 Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/leetcode#June-LeetCoding-Challenge--2021) | |
         
 ## Resources
 

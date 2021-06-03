@@ -66,5 +66,5 @@ class Solution:
         return res
 
 
-# Runtime       : 544 ms, faster than 90.92% of Python3 online submissions
-# Memory Usage  : 40.7 MB, less than 93.45% of Python3 online submissions
+# Runtime       : 140 ms, faster than 65.29% of Python3 online submissions
+# Memory Usage  : 16.8 MB, less than 47.54% of Python3 online submissions
