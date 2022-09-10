@@ -65,11 +65,11 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
 
 - ## Competitive Coding
     - #### [Codechef](https://github.com/ramanaditya/data-structure-and-algorithms#abstract-data-type)
-     
-      | [Cookoff](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/codechef#cook-off-2) | [Long Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/codechef#long-challenge) |
-      | :---: | :---: |
-      | [Easy](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/codechef#long-challenge) | |
-     
+
+      | [Cookoff](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/codechef#cook-off-2)  | [Long Challenge](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/codechef#long-challenge) |
+      | :----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+      | [Easy](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/codechef#long-challenge) |                                                                                                                  |
+
     - #### [Codezforces](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/codeforces)
     
         | [Div 2](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/codeforces#div-2) | [Div 3](https://github.com/ramanaditya/data-structure-and-algorithms/tree/main/codeforces#div-3) |
@@ -186,8 +186,8 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
 
 > If you like this [repository](https://github.com/ramanaditya/data-structure-and-algorithms), support it by star :star2:
 
-| Community | Documentation | Source Code |
-| :---: | :---: | :---: |
+|                                                                               Community                                                                               |                                                                                 Documentation                                                                                 |                                                                                         Source Code                                                                                         |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [![Gitter Logo](https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/images/gitter.png)](https://gitter.im/data-structure-and-algorithms/community) | <a href="https://interview-docs.readthedocs.io"><img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/images/read-the-docs.png" width="85%" /></a> | <a href="https://github.com/ramanaditya/data-structure-and-algorithms"><img src="https://github.com/ramanaditya/data-structure-and-algorithms/blob/main/images/github.png" width="40%"></a> |
-| **Gitter** | **Read the Docs** | **GitHub** |
-| [Join Now](https://gitter.im/data-structure-and-algorithms/community) | [Read the Docs](https://interview-docs.readthedocs.io/) | [View Code](https://github.com/ramanaditya/data-structure-and-algorithms) |
+|                                                                              **Gitter**                                                                               |                                                                               **Read the Docs**                                                                               |                                                                                         **GitHub**                                                                                          |
+|                                                 [Join Now](https://gitter.im/data-structure-and-algorithms/community)                                                 |                                                            [Read the Docs](https://interview-docs.readthedocs.io/)                                                            |                                                          [View Code](https://github.com/ramanaditya/data-structure-and-algorithms)                                                          |
