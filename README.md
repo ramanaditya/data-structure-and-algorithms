@@ -126,6 +126,7 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
 #### Online Study Materials
 - [Free Code Camp](https://www.freecodecamp.org/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [Scaler Topics](https://www.scaler.com/topics/array-in-python/)
 
 <hr>
 
